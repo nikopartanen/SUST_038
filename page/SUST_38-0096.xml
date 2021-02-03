@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:53.148+02:00</Created>
+        <LastChange>2020-08-21T11:59:27.775+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943376" pageNr="96" tsid="37555872" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=MNBEIEEMZWDQMXIIFSEKTJSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKSHCCBEQPFAVNDBNOBGLHNI" imageId="13587400"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0096.jpg" imageWidth="1812" imageHeight="2948">
+        <PrintSpace>
+            <Coords points="347,258 1653,258 1653,2523 347,2523"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953386292" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="916,264 1089,264 1089,295 916,295"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="917,265 1088,265 1088,294 917,294"/>
+                <Baseline points="917,285 960,285 1001,294 1088,285"/>
+                <TextEquiv>
+                    <Unicode>— S6 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— S6 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="354,356 1647,356 1647,1127 354,1127"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="356,357 1643,357 1643,400 356,400"/>
+                <Baseline points="356,399 549,390 662,391 805,391 901,390 1069,391 1211,391 1307,392 1445,393 1588,393 1643,393"/>
+                <TextEquiv>
+                    <Unicode>{jukme̮s-tui̭ vi̮las. mami̮s vala let̕t̕śigas let̕śkas šede̮. dureń kote̮rtis da}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="358,418 1642,418 1642,461 358,461"/>
+                <Baseline points="358,451 480,450 677,450 832,452 927,452 1024,452 1198,453 1266,453 1359,454 1509,454 1642,454"/>
+                <TextEquiv>
+                    <Unicode>{mamse̮ t̕śer-ti̮ške̮n kut̕śkis. sije̮ kuli. vokjasi̮s zev jona dureńe̮s vide̮ni̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="358,479 1644,479 1644,523 358,523"/>
+                <Baseline points="358,511 420,511 512,511 638,511 774,511 931,518 1076,512 1228,514 1345,514 1517,514 1597,514 1644,520"/>
+                <TextEquiv>
+                    <Unicode>{sije̮ šue̮: »mam tše̮ktis pukti̮ni let̕śse̮!» mamse̮ dureń pukśe̮dis dod̕d̕e̮,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="359,539 1646,539 1646,583 359,583"/>
+                <Baseline points="359,570 431,571 531,572 777,571 841,571 949,578 1059,573 1159,573 1293,573 1358,574 1455,574 1646,574"/>
+                <TextEquiv>
+                    <Unicode>{kias śetis bukva-t̕śe̮lan da nuni̮ kutis kare̮. dureń tui̭ vi̮las pani̮daśis}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="358,600 1646,600 1646,643 358,643"/>
+                <Baseline points="358,631 477,631 791,632 949,632 1006,633 1093,640 1137,633 1312,634 1481,633 1608,642 1646,635"/>
+                <TextEquiv>
+                    <Unicode>{kupet̕ś te̮var-dod̕d̕a-ke̮d. kupet̕ś ez kež, a putki̮l̕tis dureńli̮ś dod̕se̮, i}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="357,660 1646,660 1646,696 357,696"/>
+                <Baseline points="357,692 476,693 571,693 717,692 835,693 977,693 1022,694 1138,694 1198,694 1379,695 1520,695 1561,695 1646,694"/>
+                <TextEquiv>
+                    <Unicode>{mami̮s uśi. dureń kutis be̮rdni̮ i šuis: te meńt̕śi̮m mame̮s viin!»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="359,720 1645,720 1645,762 359,762"/>
+                <Baseline points="359,753 475,752 607,753 643,753 793,753 893,753 1121,755 1260,754 1387,755 1520,755 1557,756 1645,746"/>
+                <TextEquiv>
+                    <Unicode>{kupet̕ś povźis i dureńli̮ śetis te̮var-dod̕se̮. dureń gortas munis i vok-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="357,781 1643,781 1643,824 357,824"/>
+                <Baseline points="357,821 466,813 639,813 770,814 969,796 1100,822 1209,816 1339,816 1449,824 1604,816 1643,821"/>
+                <TextEquiv>
+                    <Unicode>{jasi̮sli̮ viśtalis: »mem te̮var-dod̕ śetisni̮ mam pi̮d̕d̕i. vie̮i̭ babajaste̮,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="358,842 1645,842 1645,885 358,885"/>
+                <Baseline points="358,874 399,873 566,874 725,874 760,875 873,876 1021,874 1103,876 1314,875 1461,876 1645,876"/>
+                <TextEquiv>
+                    <Unicode>{da let̕t̕śe̮de̮i̭ vuzavni̮ i šuale̮i̭: »kodli̮ kole̮ pokońt̕śa?» vokjas babajase̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="355,902 1645,902 1645,946 355,946"/>
+                <Baseline points="355,934 469,941 683,934 850,935 895,936 1048,935 1179,936 1335,936 1427,936 1568,936 1645,936"/>
+                <TextEquiv>
+                    <Unicode>{viisni̮, let̕t̕śe̮disni̮ vuzavni̮ i kutisni̮ gorzi̮ni̮: »kodli̮ kole̮ pokońt̕śa?»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="355,963 1644,963 1644,1003 355,1003"/>
+                <Baseline points="355,1003 404,994 560,994 644,996 744,996 915,996 1019,1001 1110,997 1255,1002 1315,997 1395,997 1587,997 1644,998"/>
+                <TextEquiv>
+                    <Unicode>{je̮z kutisni̮ vidni̮: »babai̮d-ke̮ kule̮, kole̮ d̕źebni̮, oz kov vuzavni̮!ɛ i}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="357,1023 1644,1023 1644,1065 357,1065"/>
+                <Baseline points="357,1056 403,1056 435,1056 576,1055 738,1056 910,1057 1030,1058 1226,1057 1353,1057 1494,1057 1644,1057"/>
+                <TextEquiv>
+                    <Unicode>{naje̮ ve̮tlisni̮ dureńli̮ś vokjasse̮. gorte̮ voe̮m-mi̮śt vokjas kutisni̮ dureńe̮s}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="357,1083 1336,1083 1336,1126 357,1126"/>
+                <Baseline points="357,1116 460,1116 552,1117 645,1117 709,1117 790,1118 879,1118 1017,1123 1110,1118 1194,1118 1336,1117"/>
+                <TextEquiv>
+                    <Unicode>{vi̮dni̮. sije̮ šue̮: »ti ve̮d e̮dje̮ gorzid, kole̮ ve̮li ńe̮žje!»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{jukme̮s-tui̭ vi̮las. mami̮s vala let̕t̕śigas let̕śkas šede̮. dureń kote̮rtis da}
+{mamse̮ t̕śer-ti̮ške̮n kut̕śkis. sije̮ kuli. vokjasi̮s zev jona dureńe̮s vide̮ni̮.}
+{sije̮ šue̮: »mam tše̮ktis pukti̮ni let̕śse̮!» mamse̮ dureń pukśe̮dis dod̕d̕e̮,}
+{kias śetis bukva-t̕śe̮lan da nuni̮ kutis kare̮. dureń tui̭ vi̮las pani̮daśis}
+{kupet̕ś te̮var-dod̕d̕a-ke̮d. kupet̕ś ez kež, a putki̮l̕tis dureńli̮ś dod̕se̮, i}
+{mami̮s uśi. dureń kutis be̮rdni̮ i šuis: te meńt̕śi̮m mame̮s viin!»}
+{kupet̕ś povźis i dureńli̮ śetis te̮var-dod̕se̮. dureń gortas munis i vok-}
+{jasi̮sli̮ viśtalis: »mem te̮var-dod̕ śetisni̮ mam pi̮d̕d̕i. vie̮i̭ babajaste̮,}
+{da let̕t̕śe̮de̮i̭ vuzavni̮ i šuale̮i̭: »kodli̮ kole̮ pokońt̕śa?» vokjas babajase̮s}
+{viisni̮, let̕t̕śe̮disni̮ vuzavni̮ i kutisni̮ gorzi̮ni̮: »kodli̮ kole̮ pokońt̕śa?»}
+{je̮z kutisni̮ vidni̮: »babai̮d-ke̮ kule̮, kole̮ d̕źebni̮, oz kov vuzavni̮!ɛ i}
+{naje̮ ve̮tlisni̮ dureńli̮ś vokjasse̮. gorte̮ voe̮m-mi̮śt vokjas kutisni̮ dureńe̮s}
+{vi̮dni̮. sije̮ šue̮: »ti ve̮d e̮dje̮ gorzid, kole̮ ve̮li ńe̮žje!»}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="352,1215 1645,1215 1645,2517 352,2517"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="360,1216 1643,1216 1643,1257 360,1257"/>
+                <Baseline points="360,1248 432,1257 540,1247 739,1249 843,1248 928,1248 1087,1248 1234,1248 1354,1248 1454,1256 1573,1249 1643,1250"/>
+                <TextEquiv>
+                    <Unicode>weg zum brunnen. Als die mutter wasser holen will, gerät sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="357,1277 1644,1277 1644,1318 357,1318"/>
+                <Baseline points="357,1308 392,1308 479,1309 671,1308 786,1308 990,1308 1104,1308 1262,1308 1402,1309 1504,1309 1644,1318"/>
+                <TextEquiv>
+                    <Unicode>in die schlinge. Der einfältige kam schnell herbei und schlug</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="356,1337 1642,1337 1642,1378 356,1378"/>
+                <Baseline points="356,1369 445,1369 597,1368 680,1369 781,1369 994,1370 1081,1370 1200,1369 1299,1369 1439,1370 1642,1370"/>
+                <TextEquiv>
+                    <Unicode>seine mutter mit dem aztrücken. Sie starb. Die brüder schimpfen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="357,1396 1642,1396 1642,1438 357,1438"/>
+                <Baseline points="357,1430 422,1429 640,1429 791,1437 878,1430 964,1429 1069,1430 1171,1429 1316,1429 1420,1429 1551,1437 1642,1430"/>
+                <TextEquiv>
+                    <Unicode>den einfältigen gehörig aus. Er sagt: »Die mutter hiess [mich] eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="357,1456 1641,1456 1641,1497 357,1497"/>
+                <Baseline points="357,1489 504,1488 692,1486 815,1488 1018,1489 1158,1489 1282,1489 1443,1489 1510,1489 1641,1490"/>
+                <TextEquiv>
+                    <Unicode>schlinge stellen!» Der einfältige setzte seine mutter in einen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="356,1516 1640,1516 1640,1557 356,1557"/>
+                <Baseline points="356,1549 527,1555 672,1549 739,1548 837,1547 952,1548 1047,1548 1392,1549 1486,1549 1640,1549"/>
+                <TextEquiv>
+                    <Unicode>schlitten, stecke in ihre hand eine kohlrübenscheibe und begann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="358,1576 1640,1576 1640,1617 358,1617"/>
+                <Baseline points="358,1609 404,1609 462,1609 538,1607 657,1608 721,1608 873,1608 975,1607 1167,1608 1258,1608 1332,1608 1425,1608 1529,1609 1640,1609"/>
+                <TextEquiv>
+                    <Unicode>sie in die stadt zu fahren. Der einfältige traf auf dem wege einen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="355,1636 1640,1636 1640,1670 355,1670"/>
+                <Baseline points="355,1670 543,1669 638,1668 763,1667 893,1668 1047,1669 1160,1668 1274,1668 1378,1669 1524,1669 1640,1668"/>
+                <TextEquiv>
+                    <Unicode>kaufmann mit einer fuhre waren. Der kaufmann lenkte nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="356,1696 1641,1696 1641,1737 356,1737"/>
+                <Baseline points="356,1730 414,1729 535,1735 704,1728 808,1727 896,1728 1077,1728 1160,1729 1376,1728 1469,1735 1564,1728 1641,1728"/>
+                <TextEquiv>
+                    <Unicode>zur seite, sondern warf den schlitten des einfältigen um, und die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="356,1757 1639,1757 1639,1799 356,1799"/>
+                <Baseline points="356,1789 485,1788 562,1788 660,1788 759,1788 967,1790 1070,1789 1264,1790 1359,1798 1423,1790 1489,1789 1639,1789"/>
+                <TextEquiv>
+                    <Unicode>mutter fiel [aus dem schlitten]. Der einfältige fing an zu weinen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="356,1817 1640,1817 1640,1858 356,1858"/>
+                <Baseline points="356,1849 425,1848 557,1848 657,1848 758,1848 889,1848 1041,1848 1283,1849 1318,1848 1431,1848 1640,1849"/>
+                <TextEquiv>
+                    <Unicode>und sagte: »Du hast meine mutter umgebracht!» Der kaufmann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="355,1877 1640,1877 1640,1917 355,1917"/>
+                <Baseline points="355,1909 512,1909 604,1908 692,1908 792,1908 1010,1909 1124,1909 1243,1909 1386,1910 1502,1909 1640,1902"/>
+                <TextEquiv>
+                    <Unicode>erschrak und gab dem einfältigen seine fuhre waren. Der einfäl-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="355,1936 1641,1936 1641,1977 355,1977"/>
+                <Baseline points="355,1968 423,1969 522,1977 737,1968 830,1969 1000,1970 1139,1969 1325,1969 1422,1969 1553,1969 1641,1968"/>
+                <TextEquiv>
+                    <Unicode>tige ging nachhause und erzählte seinen brüdern: »Sie haben mir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="355,1996 1640,1996 1640,2038 355,2038"/>
+                <Baseline points="355,2028 408,2028 483,2028 635,2028 730,2028 850,2028 984,2029 1163,2029 1328,2029 1430,2029 1564,2029 1640,2029"/>
+                <TextEquiv>
+                    <Unicode>für die mutter eine fuhre waren gegeben. Bringt eure frauen um</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="356,2057 1638,2057 1638,2098 356,2098"/>
+                <Baseline points="356,2088 423,2089 527,2089 591,2089 648,2089 850,2089 939,2089 1045,2090 1160,2089 1319,2090 1449,2088 1545,2089 1638,2082"/>
+                <TextEquiv>
+                    <Unicode>und geht sie zu verkaufen und sagt: »Wer braucht tote?» Die brü-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="358,2117 1639,2117 1639,2158 358,2158"/>
+                <Baseline points="358,2149 416,2148 596,2149 690,2150 831,2149 918,2157 1062,2150 1143,2149 1225,2149 1294,2150 1352,2150 1552,2150 1639,2149"/>
+                <TextEquiv>
+                    <Unicode>der schlugen ihre frauen tot, gingen hin um sie zu verkaufen und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="356,2176 1639,2176 1639,2218 356,2218"/>
+                <Baseline points="356,2209 468,2210 534,2209 599,2209 734,2210 851,2210 1017,2210 1153,2209 1257,2210 1370,2210 1568,2208 1639,2208"/>
+                <TextEquiv>
+                    <Unicode>fingen an zu rufen: »Wer braucht tote?» Die leute begannen sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="356,2238 1638,2238 1638,2277 356,2277"/>
+                <Baseline points="356,2269 396,2268 588,2269 732,2269 853,2270 950,2269 1087,2277 1147,2270 1230,2269 1293,2270 1477,2269 1638,2274"/>
+                <TextEquiv>
+                    <Unicode>zu schelten : »Wenn deine frau stirbt, so soll sie begraben werden,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="354,2297 1639,2297 1639,2337 354,2337"/>
+                <Baseline points="354,2328 539,2329 648,2329 756,2329 851,2337 1005,2327 1128,2329 1197,2329 1335,2329 1412,2329 1559,2328 1639,2328"/>
+                <TextEquiv>
+                    <Unicode>verkaufen darf man [sie] nicht!» Und sie jagten die brüder des</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="355,2356 1638,2356 1638,2398 355,2398"/>
+                <Baseline points="355,2388 547,2389 651,2389 840,2389 1043,2389 1242,2389 1319,2389 1466,2388 1552,2388 1638,2378"/>
+                <TextEquiv>
+                    <Unicode>einfältigen weg. Zuhause angelangt begannen die brüder den ein-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="355,2416 1639,2416 1639,2457 355,2457"/>
+                <Baseline points="355,2448 490,2447 817,2448 903,2448 1014,2448 1119,2448 1217,2448 1277,2448 1336,2448 1443,2454 1580,2448 1639,2447"/>
+                <TextEquiv>
+                    <Unicode>fältigen auszuschimpfen. Er sagt: »lhr rieft ja so laut, hättet es</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="353,2476 773,2476 773,2516 353,2516"/>
+                <Baseline points="353,2509 430,2508 580,2516 773,2508"/>
+                <TextEquiv>
+                    <Unicode>leise [sagen] müssen!»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>weg zum brunnen. Als die mutter wasser holen will, gerät sie
+in die schlinge. Der einfältige kam schnell herbei und schlug
+seine mutter mit dem aztrücken. Sie starb. Die brüder schimpfen
+den einfältigen gehörig aus. Er sagt: »Die mutter hiess [mich] eine
+schlinge stellen!» Der einfältige setzte seine mutter in einen
+schlitten, stecke in ihre hand eine kohlrübenscheibe und begann
+sie in die stadt zu fahren. Der einfältige traf auf dem wege einen
+kaufmann mit einer fuhre waren. Der kaufmann lenkte nicht
+zur seite, sondern warf den schlitten des einfältigen um, und die
+mutter fiel [aus dem schlitten]. Der einfältige fing an zu weinen
+und sagte: »Du hast meine mutter umgebracht!» Der kaufmann
+erschrak und gab dem einfältigen seine fuhre waren. Der einfäl-
+tige ging nachhause und erzählte seinen brüdern: »Sie haben mir
+für die mutter eine fuhre waren gegeben. Bringt eure frauen um
+und geht sie zu verkaufen und sagt: »Wer braucht tote?» Die brü-
+der schlugen ihre frauen tot, gingen hin um sie zu verkaufen und 
+fingen an zu rufen: »Wer braucht tote?» Die leute begannen sie
+zu schelten : »Wenn deine frau stirbt, so soll sie begraben werden,
+verkaufen darf man [sie] nicht!» Und sie jagten die brüder des
+einfältigen weg. Zuhause angelangt begannen die brüder den ein-
+fältigen auszuschimpfen. Er sagt: »lhr rieft ja so laut, hättet es
+leise [sagen] müssen!»</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="357,1156 1591,1156 1591,1160 357,1160"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

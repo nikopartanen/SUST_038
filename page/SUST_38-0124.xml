@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-17T10:08:39.221+02:00</Created>
+        <LastChange>2020-08-17T10:17:18.309+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943442" pageNr="124" tsid="37076402" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=ORCMWNNXLNMXESJEFMKGYFZT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VGOPKUJSXXHGISYZMFRBZDRJ" imageId="13587466"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0124.jpg" imageWidth="1812" imageHeight="2980">
+        <PrintSpace>
+            <Coords points="361,283 1802,283 1802,2979 361,2979"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953389947" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3_3"/>
+                <RegionRefIndexed index="5" regionRef="r_4_1"/>
+                <RegionRefIndexed index="6" regionRef="r_4_2"/>
+                <RegionRefIndexed index="7" regionRef="r_4_3"/>
+                <RegionRefIndexed index="8" regionRef="r_4_4"/>
+                <RegionRefIndexed index="9" regionRef="r_4_5"/>
+                <RegionRefIndexed index="10" regionRef="r_4_6"/>
+                <RegionRefIndexed index="11" regionRef="r_5_1"/>
+                <RegionRefIndexed index="12" regionRef="r_5_2"/>
+                <RegionRefIndexed index="13" regionRef="r_5_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="925,289 1053,289 1053,319 925,319"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="926,290 1052,290 1052,318 926,318"/>
+                <Baseline points="926,309 966,309 1052,318"/>
+                <TextEquiv>
+                    <Unicode>– 114</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>– 114</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="376,381 1669,381 1669,721 376,721"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="377,382 1668,382 1668,425 377,425"/>
+                <Baseline points="377,414 485,414 597,421 710,415 828,413 947,424 1050,416 1169,416 1310,418 1433,416 1524,394 1668,416"/>
+                <TextEquiv>
+                    <Unicode>{»ke̮₍t̕śe̮ t̕śoje̮, mene̮ led̕źli̮ pos-pomad.» ke̮t̕ś le₍d̕źis. seśśa rut̕ś ve̮zji̮śis}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="378,443 1668,443 1668,486 378,486"/>
+                <Baseline points="378,484 475,483 556,476 669,475 809,476 922,476 1054,476 1177,477 1293,454 1422,477 1518,478 1668,477"/>
+                <TextEquiv>
+                    <Unicode>{porog ule̮. ke̮t̕ś le₍d̕źis. rut̕ś ke̮₍t̕śe̮s ve̮tlis. ke̮t̕ś be̮rdi̮k ti̮rji koti̮rtis}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="377,504 1668,504 1668,545 377,545"/>
+                <Baseline points="377,537 391,537 473,544 599,537 666,537 732,536 810,536 847,536 1022,534 1156,537 1304,544 1349,537 1435,537 1561,537 1668,539"/>
+                <TextEquiv>
+                    <Unicode>{i si̮li̮ pani̮d loi oš. naja munisni̮ ru₍t̕śe̮s ve̮tli̮ni̮, a rut̕ś aśni̮se̮ ve̮tlis}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="377,565 1663,565 1663,607 377,607"/>
+                <Baseline points="377,598 610,597 723,597 830,596 968,598 1108,598 1209,599 1254,598 1338,604 1466,599 1532,599 1663,599"/>
+                <TextEquiv>
+                    <Unicode>{ki̮kna·nni̮sse̮. ke̮t̕ś e̮pe̮t̕ munis be̮rdi̮k ti̮rji i si̮li̮ pani̮d loi petuk.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="379,626 1666,626 1666,669 379,669"/>
+                <Baseline points="379,659 456,658 631,657 766,667 910,659 1080,658 1224,666 1254,660 1483,659 1595,660 1666,650"/>
+                <TextEquiv>
+                    <Unicode>{naja munisni̮ ve̮tli̮ni̮ ru₍t̕śe̮s. ve̮tlisni̮ ru₍t̕śe̮s, i olme̮d̕t̕śisni̮ ki̮ke̮n pe-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="377,687 601,687 601,720 377,720"/>
+                <Baseline points="377,720 433,720 497,719 601,719"/>
+                <TextEquiv>
+                    <Unicode>{tuk da rut̕ś.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{»ke̮₍t̕śe̮ t̕śoje̮, mene̮ led̕źli̮ pos-pomad.» ke̮t̕ś le₍d̕źis. seśśa rut̕ś ve̮zji̮śis}
+{porog ule̮. ke̮t̕ś le₍d̕źis. rut̕ś ke̮₍t̕śe̮s ve̮tlis. ke̮t̕ś be̮rdi̮k ti̮rji koti̮rtis}
+{i si̮li̮ pani̮d loi oš. naja munisni̮ ru₍t̕śe̮s ve̮tli̮ni̮, a rut̕ś aśni̮se̮ ve̮tlis}
+{ki̮kna·nni̮sse̮. ke̮t̕ś e̮pe̮t̕ munis be̮rdi̮k ti̮rji i si̮li̮ pani̮d loi petuk.}
+{naja munisni̮ ve̮tli̮ni̮ ru₍t̕śe̮s. ve̮tlisni̮ ru₍t̕śe̮s, i olme̮d̕t̕śisni̮ ki̮ke̮n pe-}
+{tuk da rut̕ś.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="993,776 1046,776 1046,807 993,807"/>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="994,777 1045,777 1045,806 994,806"/>
+                <Baseline points="994,805 1013,805 1045,806"/>
+                <TextEquiv>
+                    <Unicode>40.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>40.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+            <Coords points="859,852 1180,852 1180,887 859,887"/>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="860,853 1179,853 1179,886 860,886"/>
+                <Baseline points="860,886 901,885 1014,885 1090,885 1179,885"/>
+                <TextEquiv>
+                    <Unicode>{ivan da rut̕ś,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{ivan da rut̕ś,}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:4;}">
+            <Coords points="374,937 1667,937 1667,1165 374,1165"/>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="479,938 1665,938 1665,981 479,981"/>
+                <Baseline points="479,972 576,973 659,972 751,972 892,972 1001,972 1078,972 1115,980 1170,973 1411,972 1508,973 1603,973 1665,972"/>
+                <TextEquiv>
+                    <Unicode>{e̮t̕t̕śid olis vi̮lis kupet̕ś, si̮le̮n ve̮li pi, ivan, kupet̕ś kuli. pii̮s zel}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="375,1000 1666,1000 1666,1042 375,1042"/>
+                <Baseline points="375,1041 452,1032 594,1032 696,1040 803,1033 945,1033 1036,1032 1121,1039 1208,1033 1340,1033 1422,1033 1520,1033 1666,1040"/>
+                <TextEquiv>
+                    <Unicode>{jona pondis juni̮ vina. stavse̮ juis mi̮i̭ ve̮li. e̮t̕t̕śid sija petis ambare̮}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="375,1061 1665,1061 1665,1102 375,1102"/>
+                <Baseline points="375,1094 389,1094 533,1093 696,1094 740,1094 874,1093 958,1094 1077,1094 1136,1094 1273,1093 1409,1094 1449,1093 1665,1093"/>
+                <TextEquiv>
+                    <Unicode>{i ad̕d̕źis kapkan i puktis sije̮ kerka bokas. si̮li̮ šedi rut̕ś, ivan}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="376,1122 1664,1122 1664,1164 376,1164"/>
+                <Baseline points="376,1155 531,1154 638,1161 719,1154 817,1155 993,1156 1138,1162 1176,1155 1229,1153 1320,1154 1400,1154 1441,1155 1511,1161 1555,1155 1664,1155"/>
+                <TextEquiv>
+                    <Unicode>{dumai̭te̮: »vot, me tali̮ś ku₍t̕śikse̮ vuzala, i si̮ vi̮le̮ jua vina, a ja̭i̭se̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{e̮t̕t̕śid olis vi̮lis kupet̕ś, si̮le̮n ve̮li pi, ivan, kupet̕ś kuli. pii̮s zel}
+{jona pondis juni̮ vina. stavse̮ juis mi̮i̭ ve̮li. e̮t̕t̕śid sija petis ambare̮}
+{i ad̕d̕źis kapkan i puktis sije̮ kerka bokas. si̮li̮ šedi rut̕ś, ivan}
+{dumai̭te̮: »vot, me tali̮ś ku₍t̕śikse̮ vuzala, i si̮ vi̮le̮ jua vina, a ja̭i̭se̮}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:5;}">
+            <Coords points="372,1252 1666,1252 1666,1537 372,1537"/>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="376,1253 1663,1253 1663,1295 376,1295"/>
+                <Baseline points="376,1286 522,1287 612,1287 773,1287 1007,1287 1121,1286 1240,1287 1342,1294 1442,1286 1568,1286 1663,1286"/>
+                <TextEquiv>
+                    <Unicode>eishütte des fuchses zerschmolz. Der fuchs ging zum hasen und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="375,1314 1665,1314 1665,1355 375,1355"/>
+                <Baseline points="375,1346 467,1347 620,1354 740,1347 1025,1354 1116,1347 1227,1347 1310,1345 1430,1347 1665,1346"/>
+                <TextEquiv>
+                    <Unicode>sagt: »Hase, mein schwesterlein, lass mich auf deine vortreppe.»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="376,1375 1662,1375 1662,1415 376,1415"/>
+                <Baseline points="376,1407 442,1407 555,1408 662,1408 753,1408 855,1408 1001,1407 1093,1407 1182,1407 1311,1413 1428,1407 1497,1415 1585,1407 1662,1407"/>
+                <TextEquiv>
+                    <Unicode>Der hase liess ihn hin. Dann bat der fuchs, [dass er] vor die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="374,1435 1663,1435 1663,1475 374,1475"/>
+                <Baseline points="374,1467 525,1468 721,1468 864,1467 968,1467 1069,1467 1167,1467 1248,1466 1340,1466 1446,1466 1565,1466 1663,1457"/>
+                <TextEquiv>
+                    <Unicode>schwelle [kommen dürfe]. Der hase liess ihn hin. Der fuchs ver-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="373,1494 1661,1494 1661,1536 373,1536"/>
+                <Baseline points="373,1535 465,1528 556,1527 693,1528 797,1528 898,1528 977,1527 1150,1526 1284,1533 1378,1526 1474,1526 1661,1526"/>
+                <TextEquiv>
+                    <Unicode>jagte den hasen. Der hase lief weinend [weg], und ihm entgegen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>eishütte des fuchses zerschmolz. Der fuchs ging zum hasen und 
+sagt: »Hase, mein schwesterlein, lass mich auf deine vortreppe.»
+Der hase liess ihn hin. Dann bat der fuchs, [dass er] vor die
+schwelle [kommen dürfe]. Der hase liess ihn hin. Der fuchs ver-
+jagte den hasen. Der hase lief weinend [weg], und ihm entgegen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_2" custom="readingOrder {index:6;}">
+            <Coords points="373,1553 1663,1553 1663,1596 373,1596"/>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="374,1554 1662,1554 1662,1595 374,1595"/>
+                <Baseline points="374,1587 453,1587 537,1587 640,1588 740,1588 929,1587 1021,1586 1286,1594 1372,1585 1452,1585 1541,1585 1662,1585"/>
+                <TextEquiv>
+                    <Unicode>kam ein bär. Sie machten sich [mitsammen] auf um den fuchs</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kam ein bär. Sie machten sich [mitsammen] auf um den fuchs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_3" custom="readingOrder {index:7;}">
+            <Coords points="372,1612 1662,1612 1662,1717 372,1717"/>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="374,1613 1661,1613 1661,1656 374,1656"/>
+                <Baseline points="374,1647 414,1647 607,1654 712,1647 793,1647 912,1646 1114,1646 1183,1646 1304,1646 1435,1646 1538,1646 1661,1637"/>
+                <TextEquiv>
+                    <Unicode>zu verjagen, aber der fuchs scheuchte sie beide selber weg. Wie-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="373,1673 1660,1673 1660,1716 373,1716"/>
+                <Baseline points="373,1708 433,1708 562,1708 655,1707 738,1707 839,1707 1013,1706 1095,1706 1182,1706 1288,1712 1380,1706 1476,1705 1660,1705"/>
+                <TextEquiv>
+                    <Unicode>der begab sich der hase weinend auf den weg, und ihm entgegen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu verjagen, aber der fuchs scheuchte sie beide selber weg. Wie-
+der begab sich der hase weinend auf den weg, und ihm entgegen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_4" custom="readingOrder {index:8;}">
+            <Coords points="371,1733 1659,1733 1659,1769 371,1769"/>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="372,1734 1658,1734 1658,1768 372,1768"/>
+                <Baseline points="372,1768 452,1768 529,1768 654,1768 744,1768 924,1766 1017,1766 1098,1765 1180,1766 1268,1766 1384,1766 1441,1766 1658,1765"/>
+                <TextEquiv>
+                    <Unicode>kam ein hahn. Sie machten sich auf um den fuchs zu vertreiben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kam ein hahn. Sie machten sich auf um den fuchs zu vertreiben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_5" custom="readingOrder {index:9;}">
+            <Coords points="371,1793 1661,1793 1661,1897 371,1897"/>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="374,1794 1660,1794 1660,1836 374,1836"/>
+                <Baseline points="374,1828 425,1828 634,1828 733,1827 875,1834 978,1826 1068,1826 1181,1825 1276,1825 1359,1825 1461,1825 1660,1824"/>
+                <TextEquiv>
+                    <Unicode>Sie verjagten den fuchs, und der hahn und der hase begannen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="372,1855 1029,1855 1029,1896 372,1896"/>
+                <Baseline points="372,1887 413,1888 558,1888 831,1893 899,1887 1029,1888"/>
+                <TextEquiv>
+                    <Unicode>zu zweien [miteinander] zu leben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sie verjagten den fuchs, und der hahn und der hase begannen
+zu zweien [miteinander] zu leben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_6" custom="readingOrder {index:10;}">
+            <Coords points="1174,1895 1559,1895 1559,1938 1174,1938"/>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1175,1896 1558,1896 1558,1937 1175,1937"/>
+                <Baseline points="1175,1937 1558,1936"/>
+                <TextEquiv>
+                    <Unicode>(Trojcko-Pečerskoe.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Trojcko-Pečerskoe.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:11;}">
+            <Coords points="989,2002 1041,2002 1041,2033 989,2033"/>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="990,2003 1040,2003 1040,2032 990,2032"/>
+                <Baseline points="990,2031 1009,2031 1040,2032"/>
+                <TextEquiv>
+                    <Unicode>40.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>40.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_2" custom="readingOrder {index:12;}">
+            <Coords points="759,2068 1269,2068 1269,2103 759,2103"/>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="760,2069 1268,2069 1268,2102 760,2102"/>
+                <Baseline points="760,2101 870,2101 988,2100 1096,2101 1268,2101"/>
+                <TextEquiv>
+                    <Unicode>Ivan und der fuchs.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ivan und der fuchs.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_3" custom="readingOrder {index:13;}">
+            <Coords points="367,2145 1662,2145 1662,2551 367,2551"/>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="474,2146 1659,2146 1659,2184 474,2184"/>
+                <Baseline points="474,2181 520,2181 616,2180 769,2179 854,2179 1082,2179 1176,2179 1295,2178 1415,2178 1535,2184 1659,2177"/>
+                <TextEquiv>
+                    <Unicode>Es war einmal ein kaufmann. Er hatte einen sohn, lvan.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="371,2206 1659,2206 1659,2248 371,2248"/>
+                <Baseline points="371,2241 439,2241 656,2240 792,2240 905,2240 1046,2240 1201,2239 1304,2238 1421,2238 1659,2237"/>
+                <TextEquiv>
+                    <Unicode>Der kaufmann starb. Der knabe begann sehr stark branntwein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="370,2266 1659,2266 1659,2307 370,2307"/>
+                <Baseline points="370,2301 410,2301 578,2301 676,2300 799,2300 917,2306 1009,2300 1080,2299 1230,2298 1371,2306 1475,2298 1659,2297"/>
+                <TextEquiv>
+                    <Unicode>zu trinken. Er trank alles, was [in seinem besitz] war. Einmal</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="369,2327 1658,2327 1658,2370 369,2370"/>
+                <Baseline points="369,2370 448,2370 514,2361 579,2361 676,2361 869,2367 957,2360 1040,2360 1236,2359 1333,2359 1467,2358 1525,2358 1658,2357"/>
+                <TextEquiv>
+                    <Unicode>ging er in den speicher, sah ein fangeisen und stellte es neben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="370,2387 1658,2387 1658,2429 370,2429"/>
+                <Baseline points="370,2422 445,2422 553,2422 644,2422 730,2422 831,2421 923,2420 1000,2420 1119,2420 1191,2420 1277,2420 1413,2419 1536,2418 1658,2410"/>
+                <TextEquiv>
+                    <Unicode>dem haus auf. Es kam ihm ein fuchs [in das eisen]. Ivan über-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="368,2446 1660,2446 1660,2491 368,2491"/>
+                <Baseline points="368,2482 453,2482 613,2481 714,2481 803,2488 880,2481 1070,2480 1218,2479 1311,2479 1402,2485 1495,2478 1574,2478 1660,2477"/>
+                <TextEquiv>
+                    <Unicode>legt: »Schau mal da, ich verkaufe diesem sein fell, und für das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="372,2506 1661,2506 1661,2550 372,2550"/>
+                <Baseline points="372,2550 469,2550 607,2542 682,2541 927,2547 1029,2540 1161,2539 1259,2538 1347,2539 1444,2538 1546,2538 1661,2537"/>
+                <TextEquiv>
+                    <Unicode>[geld] trinke ich branntwein, dass fleisch aber esse ich.» Der fuchs</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es war einmal ein kaufmann. Er hatte einen sohn, lvan.
+Der kaufmann starb. Der knabe begann sehr stark branntwein
+zu trinken. Er trank alles, was [in seinem besitz] war. Einmal
+ging er in den speicher, sah ein fangeisen und stellte es neben
+dem haus auf. Es kam ihm ein fuchs [in das eisen]. Ivan über-
+legt: »Schau mal da, ich verkaufe diesem sein fell, und für das
+[geld] trinke ich branntwein, dass fleisch aber esse ich.» Der fuchs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:14;}">
+            <Coords points="376,1194 1664,1194 1664,1198 376,1198"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:15;}">
+            <Coords points="720,2972 1802,2972 1802,2979 720,2979"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

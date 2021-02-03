@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-17T10:08:28.69+02:00</Created>
+        <LastChange>2020-08-17T11:35:00.138+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943397" pageNr="106" tsid="37085157" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=QRFFSZWBICDYFZZPOMAMHJSF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JCHFCJIGCIDDJVISBKYWZDOH" imageId="13587421"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0106.jpg" imageWidth="1803" imageHeight="2953">
+        <PrintSpace>
+            <Coords points="363,240 1803,240 1803,2953 363,2953"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953387567" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3_3"/>
+                <RegionRefIndexed index="5" regionRef="r_4_1"/>
+                <RegionRefIndexed index="6" regionRef="r_4_2"/>
+                <RegionRefIndexed index="7" regionRef="r_4_3"/>
+                <RegionRefIndexed index="8" regionRef="r_5_1"/>
+                <RegionRefIndexed index="9" regionRef="r_6_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="935,246 1109,246 1109,277 935,277"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="936,247 1108,247 1108,276 936,276"/>
+                <Baseline points="936,266 978,266 1021,276 1108,266"/>
+                <TextEquiv>
+                    <Unicode>— 96 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 96 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="372,337 1670,337 1670,625 372,625"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="373,338 1668,338 1668,381 373,381"/>
+                <Baseline points="373,378 496,371 595,372 684,381 862,373 956,380 1094,371 1184,380 1288,371 1488,371 1587,371 1668,360"/>
+                <TextEquiv>
+                    <Unicode>{i̮stasni̮ je̮je̮s pop t̕śḙl̕a̭d̕la. je̮i̭ munas pop orde̮. t̕śḙl̕a̭d̕jas jona ku-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="376,399 1669,399 1669,441 376,441"/>
+                <Baseline points="376,432 465,433 617,432 712,432 882,433 1028,439 1117,432 1179,432 1280,433 1406,432 1442,432 1557,432 1669,429"/>
+                <TextEquiv>
+                    <Unicode>{tasni̮ be̮rdni̮. je̮i̭ stavni̮se̮ bośtas, pe̮ś va pije̮ śui̭las i kutas nuni̮}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="374,460 1666,460 1666,503 374,503"/>
+                <Baseline points="374,501 490,494 692,493 850,500 994,493 1086,501 1215,490 1390,490 1470,492 1534,492 1666,492"/>
+                <TextEquiv>
+                    <Unicode>{gortas. t̕śḙl̕a̭d̕jas kutasni̮ be̮rdni̮. je̮i̭ najali̮ stavni̮sli̮ ki̮n sit vomas}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="374,520 1668,520 1668,562 374,562"/>
+                <Baseline points="374,554 511,554 622,555 737,554 919,553 1064,553 1229,554 1359,551 1403,558 1479,553 1578,553 1668,543"/>
+                <TextEquiv>
+                    <Unicode>{śujalas. voas gorte̮. popad̕ja ad̕d̕źas ki̮nme̮m t̕śḙl̕a̭d̕se̮, zev jona be̮r-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="375,581 1104,581 1104,624 375,624"/>
+                <Baseline points="375,614 461,615 568,614 669,615 815,612 1104,614"/>
+                <TextEquiv>
+                    <Unicode>{d̕źas. seśa je̮je̮s i̮stasni̮ je̮i̭jas-olan-ine̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{i̮stasni̮ je̮je̮s pop t̕śḙl̕a̭d̕la. je̮i̭ munas pop orde̮. t̕śḙl̕a̭d̕jas jona ku-}
+{tasni̮ be̮rdni̮. je̮i̭ stavni̮se̮ bośtas, pe̮ś va pije̮ śui̭las i kutas nuni̮}
+{gortas. t̕śḙl̕a̭d̕jas kutasni̮ be̮rdni̮. je̮i̭ najali̮ stavni̮sli̮ ki̮n sit vomas}
+{śujalas. voas gorte̮. popad̕ja ad̕d̕źas ki̮nme̮m t̕śḙl̕a̭d̕se̮, zev jona be̮r-}
+{d̕źas. seśa je̮je̮s i̮stasni̮ je̮i̭jas-olan-ine̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="993,731 1045,731 1045,763 993,763"/>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="994,732 1044,732 1044,762 994,762"/>
+                <Baseline points="994,761 1012,761 1044,762"/>
+                <TextEquiv>
+                    <Unicode>34.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>34.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+            <Coords points="918,813 1127,813 1127,856 918,856"/>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="919,814 1126,814 1126,855 919,855"/>
+                <Baseline points="919,848 1004,848 1034,848 1126,847"/>
+                <TextEquiv>
+                    <Unicode>{mika·i̭le̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{mika·i̭le̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:4;}">
+            <Coords points="372,900 1667,900 1667,1185 372,1185"/>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="479,901 1665,901 1665,943 479,943"/>
+                <Baseline points="479,935 580,932 728,932 858,935 1052,934 1176,934 1321,932 1485,940 1529,933 1665,933"/>
+                <TextEquiv>
+                    <Unicode>{olisni̮ vi̮lisni̮ gozja. muži̮ki̮s muni uravni̮ ve̮ravni̮, a babai̮s}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="373,960 1665,960 1665,1003 373,1003"/>
+                <Baseline points="373,995 470,996 638,995 741,994 776,994 880,995 949,992 1048,994 1152,994 1280,994 1315,994 1446,994 1504,993 1598,994 1665,983"/>
+                <TextEquiv>
+                    <Unicode>{muni vot̕t̕śi̮ni̮. sije̮ i voše̮. oš sije̮s guas pi̮rtas i kujim vo seni vi-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="374,1022 1662,1022 1662,1064 374,1064"/>
+                <Baseline points="374,1054 461,1058 598,1056 667,1056 738,1063 807,1056 942,1056 1011,1062 1107,1056 1145,1061 1202,1055 1219,1064 1234,1056 1270,1055 1389,1055 1662,1055"/>
+                <TextEquiv>
+                    <Unicode>{d̕źas. nale̮n loe̮ pi, e̮t̕i dži̮ni̮s oš, me̮d dži̮ni̮s mort, mika·i̭le̮ ńima.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="374,1082 1664,1082 1664,1125 374,1125"/>
+                <Baseline points="374,1115 436,1115 548,1117 713,1124 813,1116 919,1115 1027,1116 1154,1115 1251,1115 1315,1122 1379,1115 1524,1116 1559,1117 1664,1116"/>
+                <TextEquiv>
+                    <Unicode>{sije̮ petas pi̮šji̮ni̮; voas ge̮ra. pii̮s ge̮rase̮ t̕śužjas, da ge̮raśi̮s i petas}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="377,1143 1666,1143 1666,1184 377,1184"/>
+                <Baseline points="377,1176 464,1176 584,1176 644,1176 715,1176 807,1184 1078,1175 1151,1176 1256,1176 1361,1176 1484,1176 1666,1182"/>
+                <TextEquiv>
+                    <Unicode>{mort. mort šue̮: »me ge̮ri·ńe̮, teni̮d loa i₍t̕śe̮t vok». seśśa munasni̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{olisni̮ vi̮lisni̮ gozja. muži̮ki̮s muni uravni̮ ve̮ravni̮, a babai̮s}
+{muni vot̕t̕śi̮ni̮. sije̮ i voše̮. oš sije̮s guas pi̮rtas i kujim vo seni vi-}
+{d̕źas. nale̮n loe̮ pi, e̮t̕i dži̮ni̮s oš, me̮d dži̮ni̮s mort, mika·i̭le̮ ńima.}
+{sije̮ petas pi̮šji̮ni̮; voas ge̮ra. pii̮s ge̮rase̮ t̕śužjas, da ge̮raśi̮s i petas}
+{mort. mort šue̮: »me ge̮ri·ńe̮, teni̮d loa i₍t̕śe̮t vok». seśśa munasni̮}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:5;}">
+            <Coords points="371,1274 1665,1274 1665,1737 371,1737"/>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="373,1275 1664,1275 1664,1315 373,1315"/>
+                <Baseline points="373,1307 428,1307 737,1308 806,1307 936,1308 1052,1308 1286,1307 1390,1307 1444,1307 1533,1307 1664,1297"/>
+                <TextEquiv>
+                    <Unicode>die priesterskinder zu holen. Der blödsinnige geht in den pfarr-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="373,1335 1663,1335 1663,1377 373,1377"/>
+                <Baseline points="373,1368 442,1368 560,1367 713,1368 909,1368 1052,1376 1125,1367 1299,1367 1423,1367 1663,1368"/>
+                <TextEquiv>
+                    <Unicode>hof. Die kinder beginnen heftig zu weinen. Der blödsinnige</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="374,1395 1663,1395 1663,1436 374,1436"/>
+                <Baseline points="374,1428 496,1428 571,1428 668,1435 796,1428 866,1429 922,1428 1069,1428 1218,1428 1309,1427 1473,1428 1543,1427 1663,1417"/>
+                <TextEquiv>
+                    <Unicode>nimmt sie alle, stösst sie in heisses wasser und beginnt sie nach-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="374,1455 1664,1455 1664,1496 374,1496"/>
+                <Baseline points="374,1488 477,1488 551,1488 741,1488 851,1488 994,1488 1141,1487 1207,1487 1272,1487 1432,1489 1547,1487 1664,1476"/>
+                <TextEquiv>
+                    <Unicode>hause zu schaffen. Die kinder fangen an zu weinen. Der blöd-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="372,1515 1664,1515 1664,1556 372,1556"/>
+                <Baseline points="372,1548 502,1548 642,1548 770,1548 882,1548 1077,1548 1287,1547 1344,1547 1431,1546 1569,1546 1664,1546"/>
+                <TextEquiv>
+                    <Unicode>sinnige stopft ihnen allen gefrorene kotknödel in den mund. Er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="372,1575 1662,1575 1662,1616 372,1616"/>
+                <Baseline points="372,1607 505,1608 687,1608 776,1608 892,1608 1161,1608 1337,1607 1440,1607 1662,1606"/>
+                <TextEquiv>
+                    <Unicode>kommt zuhause an. Die priestersfrau erblickt ihre erfrorenen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="372,1634 1662,1634 1662,1678 372,1678"/>
+                <Baseline points="372,1668 492,1669 622,1676 767,1668 827,1667 992,1668 1142,1667 1237,1667 1414,1666 1592,1666 1662,1665"/>
+                <TextEquiv>
+                    <Unicode>kinder [und] bricht in heftiges weinen aus. Darauf schicken sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="372,1696 950,1696 950,1736 372,1736"/>
+                <Baseline points="372,1728 436,1728 694,1727 770,1727 950,1727"/>
+                <TextEquiv>
+                    <Unicode>den blödsinnigen ins tollhaus.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>die priesterskinder zu holen. Der blödsinnige geht in den pfarr-
+hof. Die kinder beginnen heftig zu weinen. Der blödsinnige
+nimmt sie alle, stösst sie in heisses wasser und beginnt sie nach-
+hause zu schaffen. Die kinder fangen an zu weinen. Der blöd-
+sinnige stopft ihnen allen gefrorene kotknödel in den mund. Er
+kommt zuhause an. Die priestersfrau erblickt ihre erfrorenen
+kinder [und] bricht in heftiges weinen aus. Darauf schicken sie
+den blödsinnigen ins tollhaus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_2" custom="readingOrder {index:6;}">
+            <Coords points="1317,1736 1559,1736 1559,1779 1317,1779"/>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1318,1737 1558,1737 1558,1778 1318,1778"/>
+                <Baseline points="1318,1778 1558,1778"/>
+                <TextEquiv>
+                    <Unicode>(Ust̕sysol̕sk.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Ust̕sysol̕sk.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_3" custom="readingOrder {index:7;}">
+            <Coords points="991,1826 1045,1826 1045,1857 991,1857"/>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="992,1827 1044,1827 1044,1856 992,1856"/>
+                <Baseline points="992,1856 1011,1856 1044,1856"/>
+                <TextEquiv>
+                    <Unicode>34.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>34.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:8;}">
+            <Coords points="929,1901 1104,1901 1104,1935 929,1935"/>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="930,1902 1103,1902 1103,1934 930,1934"/>
+                <Baseline points="930,1933 1103,1934"/>
+                <TextEquiv>
+                    <Unicode>Michel.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Michel.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:9;}">
+            <Coords points="369,1984 1662,1984 1662,2507 369,2507"/>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="476,1985 1661,1985 1661,2026 476,2026"/>
+                <Baseline points="476,2019 521,2019 622,2019 777,2019 862,2018 1046,2018 1162,2017 1288,2018 1389,2025 1470,2017 1548,2018 1661,2023"/>
+                <TextEquiv>
+                    <Unicode>Es war einmal ein ehepaar. Der mann ging auf die jagd,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="371,2045 1661,2045 1661,2087 371,2087"/>
+                <Baseline points="371,2079 461,2079 568,2079 682,2079 782,2087 865,2078 947,2078 1088,2078 1154,2077 1347,2077 1447,2077 1592,2077 1661,2077"/>
+                <TextEquiv>
+                    <Unicode>seine frau aber ging aus um beeren zu pflücken. Da verirrt sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="370,2105 1659,2105 1659,2146 370,2146"/>
+                <Baseline points="370,2139 451,2139 564,2138 650,2138 765,2138 836,2138 891,2137 984,2137 1099,2137 1191,2137 1288,2137 1357,2136 1451,2136 1537,2137 1659,2137"/>
+                <TextEquiv>
+                    <Unicode>sich. Ein bär führt sie in sein lager und hält sie dort drei jahre.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="374,2165 1659,2165 1659,2208 374,2208"/>
+                <Baseline points="374,2198 480,2199 606,2199 741,2199 844,2199 952,2197 1082,2205 1193,2198 1271,2197 1377,2196 1556,2202 1659,2197"/>
+                <TextEquiv>
+                    <Unicode>Ihnen [dem bären und dem weib] wird ein sohn geboren, halb</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="372,2225 1659,2225 1659,2266 372,2266"/>
+                <Baseline points="372,2258 441,2265 556,2259 739,2266 897,2257 993,2258 1158,2257 1322,2256 1424,2256 1567,2256 1659,2256"/>
+                <TextEquiv>
+                    <Unicode>bär, halb mensch, Michel mit namen. Dieser geht hinaus und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="371,2284 1660,2284 1660,2325 371,2325"/>
+                <Baseline points="371,2317 457,2318 623,2325 693,2319 856,2317 930,2317 1059,2317 1173,2316 1289,2316 1421,2316 1574,2316 1660,2315"/>
+                <TextEquiv>
+                    <Unicode>läuft davon; er kommt an einen berg. Der knabe schlägt mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="370,2343 1659,2343 1659,2388 370,2388"/>
+                <Baseline points="370,2378 448,2378 560,2379 687,2378 776,2379 892,2385 986,2377 1070,2378 1171,2376 1287,2376 1436,2376 1505,2375 1659,2375"/>
+                <TextEquiv>
+                    <Unicode>dem fusse gegen den berg, und aus dem berge kommt ein mensch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="371,2404 1661,2404 1661,2447 371,2447"/>
+                <Baseline points="371,2438 500,2437 616,2438 786,2437 914,2438 1024,2437 1110,2437 1300,2444 1380,2436 1482,2435 1661,2434"/>
+                <TextEquiv>
+                    <Unicode>heraus. Der mensch sagt: »lch bin Gorynja, bin dein jüngerer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="373,2464 1659,2464 1659,2506 373,2506"/>
+                <Baseline points="373,2498 521,2498 666,2498 859,2498 938,2499 1191,2505 1295,2497 1484,2496 1560,2495 1659,2494"/>
+                <TextEquiv>
+                    <Unicode>bruder.» Dann wandern sie [zusammen] und gelangen an den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es war einmal ein ehepaar. Der mann ging auf die jagd,
+seine frau aber ging aus um beeren zu pflücken. Da verirrt sie
+sich. Ein bär führt sie in sein lager und hält sie dort drei jahre.
+Ihnen [dem bären und dem weib] wird ein sohn geboren, halb
+bär, halb mensch, Michel mit namen. Dieser geht hinaus und 
+läuft davon; er kommt an einen berg. Der knabe schlägt mit
+dem fusse gegen den berg, und aus dem berge kommt ein mensch
+heraus. Der mensch sagt: »lch bin Gorynja, bin dein jüngerer
+bruder.» Dann wandern sie [zusammen] und gelangen an den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:10;}">
+            <Coords points="428,1215 1664,1215 1664,1219 428,1219"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:11;}">
+            <Coords points="1564,2951 1803,2951 1803,2953 1564,2953"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

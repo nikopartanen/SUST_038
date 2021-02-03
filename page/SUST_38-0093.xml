@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:51.731+02:00</Created>
+        <LastChange>2020-08-21T11:58:24.628+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943370" pageNr="93" tsid="37555809" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=JQIPCXWOLTUZBHDNCHWQBOIH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UVTYBRQFEDVLTDOSJHDSNNSZ" imageId="13587394"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0093.jpg" imageWidth="1813" imageHeight="2951">
+        <PrintSpace>
+            <Coords points="147,254 1456,254 1456,2526 147,2526"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953385956" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_2_4"/>
+                <RegionRefIndexed index="5" regionRef="r_3_1"/>
+                <RegionRefIndexed index="6" regionRef="r_3_2"/>
+                <RegionRefIndexed index="7" regionRef="r_3_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="707,260 882,260 882,291 707,291"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="708,261 881,261 881,290 708,290"/>
+                <Baseline points="708,281 751,281 794,290 881,281"/>
+                <TextEquiv>
+                    <Unicode>— S3 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— S3 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="769,373 822,373 822,404 769,404"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="770,374 821,374 821,403 770,403"/>
+                <Baseline points="770,402 789,402 821,402"/>
+                <TextEquiv>
+                    <Unicode>27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="719,439 873,439 873,482 719,482"/>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="720,440 872,440 872,481 720,481"/>
+                <Baseline points="720,481 872,473"/>
+                <TextEquiv>
+                    <Unicode>{je̮i̭jas.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{je̮i̭jas.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+            <Coords points="154,527 1443,527 1443,1171 154,1171"/>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="258,528 1439,528 1439,569 258,569"/>
+                <Baseline points="258,561 356,560 493,560 616,561 738,561 870,560 952,561 1079,560 1151,560 1207,560 1266,561 1327,560 1439,560"/>
+                <TextEquiv>
+                    <Unicode>{olisni̮ vi̮lisni̮ starik gozja. nale̮n ve̮li kujim ni̮v da e̮t̕i pi. naje̮}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="158,587 1435,587 1435,628 158,628"/>
+                <Baseline points="158,621 266,621 359,621 485,621 596,621 689,620 845,622 941,621 1077,620 1184,620 1251,621 1349,621 1435,621"/>
+                <TextEquiv>
+                    <Unicode>{i̮stisni̮ med i̮₍dži̮d ni̮vse̮ vala va-dore̮. sije̮ munis. vai̮s zev vizi̮v ve̮li.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="155,648 1438,648 1438,691 155,691"/>
+                <Baseline points="155,683 216,682 324,682 519,688 558,681 704,681 798,681 900,681 997,681 1099,680 1234,681 1438,682"/>
+                <TextEquiv>
+                    <Unicode>{sije̮ kutis gumovtni̮, i vedrai̮s uśis vaas. sije̮ kutis be̮rdni̮. mami̮sjas}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="157,708 1437,708 1437,750 157,750"/>
+                <Baseline points="157,748 266,741 358,740 470,741 570,740 721,740 817,741 950,740 1066,741 1165,741 1193,741 1310,742 1437,741"/>
+                <TextEquiv>
+                    <Unicode>{i̮stisni̮ me̮d ni̮vse̮ sije̮s vidli̮ni̮. sije̮ munis t̕śoji̮s dine̮ i juale̮: »mi̮i̭la}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="156,769 1439,769 1439,810 156,810"/>
+                <Baseline points="156,802 195,802 245,802 419,800 524,801 673,802 808,800 871,801 935,801 1044,802 1209,802 1289,802 1436,800"/>
+                <TextEquiv>
+                    <Unicode>{ne̮ te be̮rdan?» sije̮ viśtale̮: »ki̮₍d̕źi̮ ne̮ on be̮rd! menam ve̮d vedrae̮i̭}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="156,829 1439,829 1439,868 156,868"/>
+                <Baseline points="156,862 227,862 346,862 403,862 600,861 756,860 906,861 1043,861 1188,861 1290,862 1439,861"/>
+                <TextEquiv>
+                    <Unicode>{uśis vaas. i ki̮kna·ni̮s kutisni̮ be̮rdni̮. seśśa mami̮s i̮stas koi̭me̮d}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="156,889 1436,889 1436,930 156,930"/>
+                <Baseline points="156,922 212,922 265,910 282,922 413,928 540,920 645,920 728,920 794,921 929,921 1056,921 1134,921 1266,921 1436,922"/>
+                <TextEquiv>
+                    <Unicode>{ni̮vse̮1: »vetli̮, mi̮i̭la naje̮ di̮r oz lokni̮». i₍t̕śe̮t ni̮v let̕t̕śas t̕śoji̮sjas}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="157,949 1441,949 1441,991 157,991"/>
+                <Baseline points="157,983 231,982 275,983 377,981 549,981 616,982 671,981 853,979 972,982 1168,981 1305,981 1364,981 1441,981"/>
+                <TextEquiv>
+                    <Unicode>{dine̮ i juale̮: »mi̮i̭la že̮ ti be̮rdad?» naje̮ viśtale̮ni̮: »ki̮₍d̕źi̮ že̮ oge̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="156,1008 1438,1008 1438,1050 156,1050"/>
+                <Baseline points="156,1043 263,1042 394,1041 471,1041 658,1041 702,1040 734,1041 805,1041 1039,1040 1179,1047 1314,1041 1438,1041"/>
+                <TextEquiv>
+                    <Unicode>{be̮rde̮! mijan ve̮d vedrani̮m uśi», i kujimna·ni̮s kutisni̮ be̮rdni̮. seśśa}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="158,1067 1442,1067 1442,1109 158,1109"/>
+                <Baseline points="158,1102 297,1108 422,1100 563,1101 608,1101 733,1102 854,1100 995,1100 1154,1099 1217,1101 1266,1101 1442,1100"/>
+                <TextEquiv>
+                    <Unicode>{loktasni̮ set̕t̕śe̮ mami̮s i bat̕i̮s. naje̮ juale̮ni̮: »mi̮ji̮ś ne̮ ti be̮rdad?»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="157,1129 1440,1129 1440,1170 157,1170"/>
+                <Baseline points="157,1162 232,1162 391,1162 624,1161 717,1161 841,1161 894,1161 1034,1160 1140,1160 1294,1167 1440,1162"/>
+                <TextEquiv>
+                    <Unicode>{naje̮ viśtale̮ni̮: »vedrani̮m uśis vaas». i mami̮s bat̕i̮s kutasni̮ be̮rdni̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{olisni̮ vi̮lisni̮ starik gozja. nale̮n ve̮li kujim ni̮v da e̮t̕i pi. naje̮}
+{i̮stisni̮ med i̮₍dži̮d ni̮vse̮ vala va-dore̮. sije̮ munis. vai̮s zev vizi̮v ve̮li.}
+{sije̮ kutis gumovtni̮, i vedrai̮s uśis vaas. sije̮ kutis be̮rdni̮. mami̮sjas}
+{i̮stisni̮ me̮d ni̮vse̮ sije̮s vidli̮ni̮. sije̮ munis t̕śoji̮s dine̮ i juale̮: »mi̮i̭la}
+{ne̮ te be̮rdan?» sije̮ viśtale̮: »ki̮₍d̕źi̮ ne̮ on be̮rd! menam ve̮d vedrae̮i̭}
+{uśis vaas. i ki̮kna·ni̮s kutisni̮ be̮rdni̮. seśśa mami̮s i̮stas koi̭me̮d}
+{ni̮vse̮1: »vetli̮, mi̮i̭la naje̮ di̮r oz lokni̮». i₍t̕śe̮t ni̮v let̕t̕śas t̕śoji̮sjas}
+{dine̮ i juale̮: »mi̮i̭la že̮ ti be̮rdad?» naje̮ viśtale̮ni̮: »ki̮₍d̕źi̮ že̮ oge̮}
+{be̮rde̮! mijan ve̮d vedrani̮m uśi», i kujimna·ni̮s kutisni̮ be̮rdni̮. seśśa}
+{loktasni̮ set̕t̕śe̮ mami̮s i bat̕i̮s. naje̮ juale̮ni̮: »mi̮ji̮ś ne̮ ti be̮rdad?»}
+{naje̮ viśtale̮ni̮: »vedrani̮m uśis vaas». i mami̮s bat̕i̮s kutasni̮ be̮rdni̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:4;}">
+            <Coords points="261,1231 679,1231 679,1266 261,1266"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="262,1232 678,1232 678,1265 262,1265"/>
+                <Baseline points="262,1254 272,1254 313,1262 556,1264 678,1264"/>
+                <TextEquiv>
+                    <Unicode>\1\ auch: koi̭me̮·d ni̮vse̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>\1\ auch: koi̭me̮·d ni̮vse̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:5;}">
+            <Coords points="775,1363 827,1363 827,1394 775,1394"/>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="776,1364 826,1364 826,1393 776,1393"/>
+                <Baseline points="776,1393 793,1393 826,1392"/>
+                <TextEquiv>
+                    <Unicode>27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:6;}">
+            <Coords points="599,1429 1007,1429 1007,1471 599,1471"/>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="600,1430 1006,1430 1006,1470 600,1470"/>
+                <Baseline points="600,1462 678,1463 1006,1463"/>
+                <TextEquiv>
+                    <Unicode>Die dummköpfe.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die dummköpfe.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:7;}">
+            <Coords points="157,1516 1449,1516 1449,2520 157,2520"/>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="264,1517 1440,1517 1440,1551 264,1551"/>
+                <Baseline points="264,1550 308,1550 371,1550 564,1549 652,1549 788,1548 890,1549 994,1549 1106,1549 1204,1550 1347,1550 1440,1550"/>
+                <TextEquiv>
+                    <Unicode>Es war einmal ein mann und eine frau. Sie hatten drei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="158,1578 1443,1578 1443,1611 158,1611"/>
+                <Baseline points="158,1610 293,1610 396,1611 526,1609 656,1609 754,1610 958,1609 1043,1609 1186,1609 1342,1610 1443,1610"/>
+                <TextEquiv>
+                    <Unicode>töchter und einen sohn. Sie schickten die älteste tochter zum</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="160,1637 1444,1637 1444,1677 160,1677"/>
+                <Baseline points="160,1669 317,1669 408,1669 562,1669 635,1669 778,1669 876,1669 995,1670 1110,1669 1255,1669 1345,1670 1444,1670"/>
+                <TextEquiv>
+                    <Unicode>flussufer um wasser zu holen. Sie ging. Das wasser war sehr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="160,1697 1440,1697 1440,1738 160,1738"/>
+                <Baseline points="160,1729 316,1730 416,1730 574,1729 639,1729 834,1736 929,1730 1010,1729 1135,1729 1213,1729 1286,1730 1440,1731"/>
+                <TextEquiv>
+                    <Unicode>reissend. Sie begann zu schöpfen, und der eimer fiel ins wasser.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="162,1757 1444,1757 1444,1798 162,1798"/>
+                <Baseline points="162,1789 214,1789 376,1790 449,1789 619,1790 729,1790 858,1790 1054,1790 1147,1790 1286,1790 1444,1790"/>
+                <TextEquiv>
+                    <Unicode>Sie begann zu weinen. Die eltern schickten ihre zweite tochter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="161,1817 1445,1817 1445,1851 161,1851"/>
+                <Baseline points="161,1850 219,1849 327,1849 402,1849 465,1849 600,1850 734,1849 893,1849 985,1850 1050,1849 1161,1850 1363,1850 1445,1850"/>
+                <TextEquiv>
+                    <Unicode>um nach ihr zu sehen. Diese machte sich zu ihrer schwester auf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="162,1877 1444,1877 1444,1918 162,1918"/>
+                <Baseline points="162,1909 231,1910 358,1909 536,1910 677,1910 744,1909 896,1908 994,1910 1212,1911 1324,1911 1444,1910"/>
+                <TextEquiv>
+                    <Unicode>und fragt: »Warum weinst du denn?» Sie entgegnet: »Wie sollte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="161,1937 1443,1937 1443,1979 161,1979"/>
+                <Baseline points="161,1970 215,1970 343,1969 519,1970 652,1970 786,1971 856,1970 914,1970 987,1971 1130,1971 1320,1969 1443,1972"/>
+                <TextEquiv>
+                    <Unicode>ich nicht weinen! Mein eimer ist ja ins wasser gefallen.» Und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="162,1997 1444,1997 1444,2038 162,2038"/>
+                <Baseline points="162,2029 202,2029 348,2029 545,2030 616,2030 680,2029 841,2030 976,2030 1130,2031 1206,2031 1358,2031 1444,2031"/>
+                <TextEquiv>
+                    <Unicode>zu zweien begannen sie zu weinen. Dann schickt die mutter ihre</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="163,2057 1445,2057 1445,2098 163,2098"/>
+                <Baseline points="163,2089 265,2089 431,2088 539,2089 661,2089 804,2098 887,2089 995,2090 1088,2090 1222,2097 1374,2090 1445,2090"/>
+                <TextEquiv>
+                    <Unicode>dritte tochter aus: »Geh [doch] hin [und sieh nach], warum sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="163,2117 1446,2117 1446,2159 163,2159"/>
+                <Baseline points="163,2149 247,2149 334,2157 475,2149 561,2149 680,2149 888,2149 1002,2150 1160,2151 1347,2151 1446,2150"/>
+                <TextEquiv>
+                    <Unicode>nach [so] langer zeit nicht kommen.» Das jüngste mädchen geht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="163,2177 1447,2177 1447,2218 163,2218"/>
+                <Baseline points="163,2210 203,2209 330,2209 564,2210 670,2210 806,2210 994,2210 1124,2211 1198,2209 1349,2211 1447,2211"/>
+                <TextEquiv>
+                    <Unicode>zu ihren schwestern und fragt: »Warum weint ihr denn?» Sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="163,2237 1448,2237 1448,2279 163,2279"/>
+                <Baseline points="163,2269 279,2269 400,2269 551,2270 642,2269 767,2270 941,2271 1097,2270 1230,2271 1300,2271 1357,2271 1448,2271"/>
+                <TextEquiv>
+                    <Unicode>sagen: »Wie sollten wir nicht weinen! Unser eimer ist ja [ins</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="165,2298 1445,2298 1445,2339 165,2339"/>
+                <Baseline points="165,2329 295,2338 489,2328 612,2330 676,2329 812,2329 1009,2330 1080,2331 1144,2330 1304,2331 1445,2330"/>
+                <TextEquiv>
+                    <Unicode>wasser] gefallen.» Und zu dreien begannen sie zu weinen. Dann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="164,2358 1448,2358 1448,2399 164,2399"/>
+                <Baseline points="164,2389 322,2389 450,2389 553,2390 716,2389 860,2391 961,2390 1114,2390 1321,2391 1448,2390"/>
+                <TextEquiv>
+                    <Unicode>kommen vater und mutter herzu. Sie fragen: »Weshalb weint</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="166,2417 1448,2417 1448,2459 166,2459"/>
+                <Baseline points="166,2449 217,2449 367,2448 453,2450 593,2450 742,2449 866,2449 933,2450 1006,2451 1151,2451 1335,2449 1448,2451"/>
+                <TextEquiv>
+                    <Unicode>ihr denn?» Sie sagen: »Unser eimer ist ins wasser gefallen.» Und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="167,2478 1448,2478 1448,2519 167,2519"/>
+                <Baseline points="167,2509 225,2508 352,2509 443,2509 521,2510 673,2509 860,2510 925,2510 1086,2512 1291,2512 1448,2512"/>
+                <TextEquiv>
+                    <Unicode>der vater und die mutter beginnen zu weinen. Darnach kommt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es war einmal ein mann und eine frau. Sie hatten drei
+töchter und einen sohn. Sie schickten die älteste tochter zum
+flussufer um wasser zu holen. Sie ging. Das wasser war sehr
+reissend. Sie begann zu schöpfen, und der eimer fiel ins wasser.
+Sie begann zu weinen. Die eltern schickten ihre zweite tochter
+um nach ihr zu sehen. Diese machte sich zu ihrer schwester auf
+und fragt: »Warum weinst du denn?» Sie entgegnet: »Wie sollte
+ich nicht weinen! Mein eimer ist ja ins wasser gefallen.» Und 
+zu zweien begannen sie zu weinen. Dann schickt die mutter ihre
+dritte tochter aus: »Geh [doch] hin [und sieh nach], warum sie
+nach [so] langer zeit nicht kommen.» Das jüngste mädchen geht
+zu ihren schwestern und fragt: »Warum weint ihr denn?» Sie
+sagen: »Wie sollten wir nicht weinen! Unser eimer ist ja [ins
+wasser] gefallen.» Und zu dreien begannen sie zu weinen. Dann
+kommen vater und mutter herzu. Sie fragen: »Weshalb weint
+ihr denn?» Sie sagen: »Unser eimer ist ins wasser gefallen.» Und 
+der vater und die mutter beginnen zu weinen. Darnach kommt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:8;}">
+            <Coords points="160,1200 364,1200 364,1203 160,1203"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:9;}">
+            <Coords points="159,1302 1442,1302 1442,1307 159,1307"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

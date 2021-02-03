@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-03(htr_id=25444)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-28T11:49:20.472+02:00</Created>
+        <LastChange>2020-07-29T16:13:02.459+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: Finnish
+                Language: RussianOldSpelling
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943216" pageNr="17" tsid="35678923" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=JGPZKUDMWEFFWXZATHOCYPMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KSLRUUSVHPRBZOSZZXNMMCDU" imageId="13587240"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0017.jpg" imageWidth="1833" imageHeight="2957">
+        <PrintSpace>
+            <Coords points="180,266 1485,266 1485,2517 180,2517"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953376860" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="762,271 914,271 914,300 762,300"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="763,272 913,272 913,299 763,299"/>
+                <Baseline points="763,290 806,290 846,299 913,290"/>
+                <TextEquiv>
+                    <Unicode>— 7 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 7 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="189,360 1480,360 1480,1190 189,1190"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="192,361 1477,361 1477,405 192,405"/>
+                <Baseline points="192,404 206,404 333,395 512,396 574,396 729,394 822,395 915,401 1043,394 1151,394 1304,394 1477,400"/>
+                <TextEquiv>
+                    <Unicode>{jualɛ: »mi̮i̭ vajin sumka?» »a vot mi̮i̭, babaɛ! etaja se₍tše·m sumkai̮s.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="194,422 1479,422 1479,464 194,464"/>
+                <Baseline points="194,456 400,456 433,436 553,456 579,463 661,455 755,455 892,434 1012,452 1048,454 1179,454 1247,452 1371,454 1479,454"/>
+                <TextEquiv>
+                    <Unicode>{vi̮śtalan-kɛ: 'sumkaɛ, vaj̭ mḙn śoi̭ni̮!' mimɛ i bi̮dsen loɛ pi̮zan vi̮li̮n}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="194,483 1479,483 1479,525 194,525"/>
+                <Baseline points="194,506 256,516 441,516 562,517 686,517 805,516 922,516 986,515 1022,515 1139,516 1234,515 1269,515 1405,515 1479,505"/>
+                <TextEquiv>
+                    <Unicode>{mi̮i̭ śḙlemi̮dli̮ ko̭lɛ.» baba bośtis vedra da i muni vala i ku₍t̕śis o̭š-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="193,544 1478,544 1478,586 193,586"/>
+                <Baseline points="193,586 280,584 444,578 599,577 690,575 816,577 944,576 1030,576 1263,576 1478,575"/>
+                <TextEquiv>
+                    <Unicode>{ji̮śni̮ bi̮denli̮. kumi̮s si̮li̮ viśtalɛ: »mḙ vo̭a voskreśḙńńa e̮bedai̭tni̮!»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="194,605 1478,605 1478,647 194,647"/>
+                <Baseline points="194,639 272,639 312,639 422,638 492,636 593,636 718,638 975,637 1102,637 1202,643 1246,637 1371,637 1478,636"/>
+                <TextEquiv>
+                    <Unicode>{kum i vo̭i̭is ni̮ o̭rdɛ gost̕i. pukśedisni̮s pi̮zan sajɛ, a pi̮zan vi̮li̮n}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="192,665 1476,665 1476,707 192,707"/>
+                <Baseline points="192,699 317,699 414,699 473,700 570,698 889,699 995,698 1153,698 1280,698 1476,697"/>
+                <TextEquiv>
+                    <Unicode>{ńi-ńem abu. kum d̕ivui̭t̕t̕śɛ: »ku₍tšem etaja prit̕t̕śa! mi̮jen kut̕śasni̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="192,726 1474,726 1474,767 192,767"/>
+                <Baseline points="192,758 343,758 406,759 511,759 565,759 693,759 836,758 897,758 935,759 1069,757 1193,757 1275,755 1311,758 1474,758"/>
+                <TextEquiv>
+                    <Unicode>{vḙrdni̮?» a xaźa·in bośtis sumka da i puktis pi̮zan vi̮lɛ i viśtalis:}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="192,786 1476,786 1476,828 192,828"/>
+                <Baseline points="192,817 350,826 520,825 602,817 751,819 876,828 1002,819 1087,816 1222,818 1303,818 1388,817 1476,818"/>
+                <TextEquiv>
+                    <Unicode>{»sumkaɛ, sumkaɛ, vai̭ śoi̭ni̮!» drug pi̮zan vi̮lɛ bi̮dsen loi̭i mi̮i̭ ko̭li}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="191,846 1476,846 1476,888 191,888"/>
+                <Baseline points="191,880 387,879 505,879 668,878 709,879 895,878 1057,878 1252,885 1412,878 1476,878"/>
+                <TextEquiv>
+                    <Unicode>{śe̮lemni̮sli̮: do̭na vinajas i bi̮d-śama śojani̮s. śojisni̮s, śojisni̮s da}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="193,907 1474,907 1474,948 193,948"/>
+                <Baseline points="193,939 205,939 346,948 403,940 443,939 693,940 737,940 861,939 899,937 933,940 1068,937 1245,939 1343,946 1474,945"/>
+                <TextEquiv>
+                    <Unicode>{ìz vḙrmi̮ni̮s bi̮redni̮. muni kum gòrtɛ i viśtalɛ babai̮sli̮: »vot, babaɛ,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="192,968 1473,968 1473,1008 192,1008"/>
+                <Baseline points="192,1000 326,1000 530,1000 601,1000 688,1000 762,1000 869,1000 913,1000 1112,999 1258,999 1315,999 1381,999 1473,999"/>
+                <TextEquiv>
+                    <Unicode>{ku₍tšem sumkai̮s!» »a mi̮i̭ si̮a se₍tše·m sumkai̮s?» »mi̮i̭?! da vot mi̮i̭:}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="190,1027 1474,1027 1474,1069 190,1069"/>
+                <Baseline points="190,1069 403,1061 514,1058 626,1067 748,1060 848,1067 968,1060 1107,1060 1171,1060 1206,1060 1351,1060 1474,1052"/>
+                <TextEquiv>
+                    <Unicode>{pukśedisni̮s mḙnɛ śoi̭ni̮ pi̮zan sajɛ, bośtis sumka da i viśtalɛ: 'sum-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="192,1088 1473,1088 1473,1129 192,1129"/>
+                <Baseline points="192,1121 259,1127 336,1128 470,1101 518,1121 703,1120 811,1120 892,1120 1015,1120 1107,1120 1185,1120 1309,1127 1473,1120"/>
+                <TextEquiv>
+                    <Unicode>{kaɛ, vai̭ śoi̭ni̮!' i bi̮d-śama buri̮s loi̭i pi̮zan vi̮lɛ. on vḙrmi̮ bi̮redni̮!}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="190,1148 1474,1148 1474,1189 190,1189"/>
+                <Baseline points="190,1182 244,1181 327,1180 461,1182 584,1182 732,1181 796,1181 901,1181 957,1181 993,1189 1118,1181 1323,1180 1368,1180 1474,1180"/>
+                <TextEquiv>
+                    <Unicode>{ki̮ś sii̭ɛ bośtis! muna juala!» muni da i jualis kumli̮ś: »ki̮ś tḙ vajin}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{jualɛ: »mi̮i̭ vajin sumka?» »a vot mi̮i̭, babaɛ! etaja se₍tše·m sumkai̮s.}
+{vi̮śtalan-kɛ: 'sumkaɛ, vaj̭ mḙn śoi̭ni̮!' mimɛ i bi̮dsen loɛ pi̮zan vi̮li̮n}
+{mi̮i̭ śḙlemi̮dli̮ ko̭lɛ.» baba bośtis vedra da i muni vala i ku₍t̕śis o̭š-}
+{ji̮śni̮ bi̮denli̮. kumi̮s si̮li̮ viśtalɛ: »mḙ vo̭a voskreśḙńńa e̮bedai̭tni̮!»}
+{kum i vo̭i̭is ni̮ o̭rdɛ gost̕i. pukśedisni̮s pi̮zan sajɛ, a pi̮zan vi̮li̮n}
+{ńi-ńem abu. kum d̕ivui̭t̕t̕śɛ: »ku₍tšem etaja prit̕t̕śa! mi̮jen kut̕śasni̮s}
+{vḙrdni̮?» a xaźa·in bośtis sumka da i puktis pi̮zan vi̮lɛ i viśtalis:}
+{»sumkaɛ, sumkaɛ, vai̭ śoi̭ni̮!» drug pi̮zan vi̮lɛ bi̮dsen loi̭i mi̮i̭ ko̭li}
+{śe̮lemni̮sli̮: do̭na vinajas i bi̮d-śama śojani̮s. śojisni̮s, śojisni̮s da}
+{ìz vḙrmi̮ni̮s bi̮redni̮. muni kum gòrtɛ i viśtalɛ babai̮sli̮: »vot, babaɛ,}
+{ku₍tšem sumkai̮s!» »a mi̮i̭ si̮a se₍tše·m sumkai̮s?» »mi̮i̭?! da vot mi̮i̭:}
+{pukśedisni̮s mḙnɛ śoi̭ni̮ pi̮zan sajɛ, bośtis sumka da i viśtalɛ: 'sum-}
+{kaɛ, vai̭ śoi̭ni̮!' i bi̮d-śama buri̮s loi̭i pi̮zan vi̮lɛ. on vḙrmi̮ bi̮redni̮!}
+{ki̮ś sii̭ɛ bośtis! muna juala!» muni da i jualis kumli̮ś: »ki̮ś tḙ vajin}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="183,1268 1473,1268 1473,2512 183,2512"/>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="190,1269 1472,1269 1472,1310 190,1310"/>
+                <Baseline points="190,1302 259,1302 419,1309 511,1302 585,1302 834,1301 977,1301 1071,1301 1168,1300 1294,1300 1472,1300"/>
+                <TextEquiv>
+                    <Unicode>len: »Schau, was ich mitgebracht habe!» Die frau fragt: »Warum</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="191,1328 1472,1328 1472,1370 191,1370"/>
+                <Baseline points="191,1362 268,1362 346,1363 464,1362 610,1361 837,1361 977,1360 1067,1363 1247,1368 1360,1360 1472,1353"/>
+                <TextEquiv>
+                    <Unicode>hast du einen ranzen gebracht?» »Pass auf, weshalb, mein frau-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="189,1389 1472,1389 1472,1430 189,1430"/>
+                <Baseline points="189,1423 291,1422 407,1422 473,1422 588,1421 664,1421 821,1427 932,1427 1052,1422 1121,1421 1251,1421 1375,1420 1472,1410"/>
+                <TextEquiv>
+                    <Unicode>chen! Dies ist solch ein ranzen, dass, wenn du sagst: 'Mein ran-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="190,1448 1470,1448 1470,1490 190,1490"/>
+                <Baseline points="190,1482 261,1488 349,1481 444,1481 595,1461 736,1482 826,1481 976,1481 1093,1480 1271,1487 1371,1480 1470,1479"/>
+                <TextEquiv>
+                    <Unicode>zen, gib mir essen!' sofort auf deinen tisch kommt, was dein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="189,1509 1471,1509 1471,1550 189,1550"/>
+                <Baseline points="189,1542 267,1542 457,1541 554,1541 650,1542 776,1541 896,1541 1021,1541 1112,1541 1214,1550 1299,1546 1374,1539 1471,1530"/>
+                <TextEquiv>
+                    <Unicode>herz begehrt.» Die frau nahm einen eimer und ging hin, um was-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="190,1569 1472,1569 1472,1609 190,1609"/>
+                <Baseline points="190,1602 241,1602 312,1602 454,1608 552,1601 716,1601 810,1601 928,1601 1000,1601 1181,1601 1287,1600 1472,1599"/>
+                <TextEquiv>
+                    <Unicode>ser zu holen, und begann vor allen zu prahlen. Ihr gevatter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="189,1629 1472,1629 1472,1671 189,1671"/>
+                <Baseline points="189,1661 264,1663 336,1662 434,1662 542,1662 708,1661 794,1661 969,1669 1074,1661 1359,1658 1472,1659"/>
+                <TextEquiv>
+                    <Unicode>sagt zu ihr: »lch komme am sonntag zum mittagessen!» Der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="188,1688 1469,1688 1469,1730 188,1730"/>
+                <Baseline points="188,1730 344,1722 457,1722 579,1722 695,1721 770,1721 901,1721 991,1721 1153,1721 1253,1721 1388,1720 1469,1720"/>
+                <TextEquiv>
+                    <Unicode>gevatter kam denn auch zu ihnen auf besuch. Sie setzen ihn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="189,1749 1471,1749 1471,1789 189,1789"/>
+                <Baseline points="189,1783 301,1782 395,1782 524,1789 616,1782 722,1781 840,1782 948,1781 1037,1781 1180,1780 1295,1780 1471,1780"/>
+                <TextEquiv>
+                    <Unicode>hinter den tisch, auf dem tisch aber war nichts. Der gevatter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="188,1809 1468,1809 1468,1850 188,1850"/>
+                <Baseline points="188,1843 402,1843 511,1842 629,1842 707,1842 801,1841 981,1843 1192,1840 1260,1841 1343,1840 1468,1840"/>
+                <TextEquiv>
+                    <Unicode>verwundert sich: »Was für eine seltsame geschichte ist das doch!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="189,1869 1469,1869 1469,1911 189,1911"/>
+                <Baseline points="189,1903 316,1903 511,1902 581,1902 693,1901 758,1901 980,1901 1080,1901 1256,1901 1351,1900 1469,1900"/>
+                <TextEquiv>
+                    <Unicode>Womit gedenken sie mich zu bewirten?» Der hausherr aber nahm</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="189,1929 1468,1929 1468,1970 189,1970"/>
+                <Baseline points="189,1962 252,1962 399,1962 491,1962 625,1962 706,1962 787,1961 875,1962 977,1961 1063,1962 1189,1961 1318,1961 1468,1967"/>
+                <TextEquiv>
+                    <Unicode>den ranzen und stellte ihn auf den tisch und sagte: »Mein ranzen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="187,1989 1469,1989 1469,2032 187,2032"/>
+                <Baseline points="187,2023 276,2023 437,2029 516,2023 628,2029 780,2020 984,2021 1088,2020 1170,2020 1256,2021 1377,2028 1469,2021"/>
+                <TextEquiv>
+                    <Unicode>mein ranzen, gib [uns] essen!» Plötzlich kam auf den tisch, was</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="187,2049 1468,2049 1468,2091 187,2091"/>
+                <Baseline points="187,2083 248,2083 357,2082 562,2082 709,2082 837,2082 928,2082 1122,2081 1249,2081 1349,2081 1468,2082"/>
+                <TextEquiv>
+                    <Unicode>das herz begehrte: teuere weine und allerhand essen. Sie assen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="187,2110 1469,2110 1469,2150 187,2150"/>
+                <Baseline points="187,2144 258,2144 376,2143 469,2142 640,2142 699,2143 809,2142 988,2143 1092,2141 1261,2141 1354,2149 1469,2132"/>
+                <TextEquiv>
+                    <Unicode>und assen und konnten es nicht aufessen. Der gevatter ging nach-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="188,2170 1468,2170 1468,2211 188,2211"/>
+                <Baseline points="188,2203 291,2203 384,2204 481,2203 544,2203 675,2203 786,2203 902,2202 979,2209 1091,2202 1278,2208 1398,2201 1468,2202"/>
+                <TextEquiv>
+                    <Unicode>hause und sagt zu seiner frau: »Sieh an, mein frauchen, welch ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="187,2230 1469,2230 1469,2269 187,2269"/>
+                <Baseline points="187,2264 343,2262 491,2269 582,2263 665,2262 740,2262 886,2262 953,2262 1010,2262 1121,2262 1254,2262 1392,2262 1469,2262"/>
+                <TextEquiv>
+                    <Unicode>ranzen!» »Nun, was für ein ranzen ist es denn nun?» »Was für</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="187,2290 1469,2290 1469,2329 187,2329"/>
+                <Baseline points="187,2323 295,2324 403,2323 493,2329 586,2323 663,2323 789,2323 860,2323 1013,2323 1125,2322 1224,2321 1341,2322 1469,2322"/>
+                <TextEquiv>
+                    <Unicode>einer! Pass auf, was für einer: sie setzten mich zum essen hinter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="186,2350 1464,2350 1464,2391 186,2391"/>
+                <Baseline points="186,2383 252,2383 372,2390 432,2383 556,2382 646,2382 789,2383 882,2382 995,2382 1120,2382 1276,2389 1355,2381 1464,2390"/>
+                <TextEquiv>
+                    <Unicode>den tisch, er nahm den ranzen und sagt: 'Mein ranzen, gib [uns]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="187,2411 1467,2411 1467,2452 187,2452"/>
+                <Baseline points="187,2444 309,2424 416,2444 571,2443 700,2443 811,2443 901,2443 996,2443 1120,2443 1237,2442 1409,2441 1467,2442"/>
+                <TextEquiv>
+                    <Unicode>essen!' und allerlei gutes kam auf den tisch. Wir konnten es</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="184,2470 1466,2470 1466,2511 184,2511"/>
+                <Baseline points="184,2504 280,2504 479,2504 587,2504 676,2503 741,2504 820,2503 930,2503 1175,2504 1280,2503 1385,2502 1466,2502"/>
+                <TextEquiv>
+                    <Unicode>nicht aufessen! Wo hat er ihn wohl hergekriegt! Ich gehe hin</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>len: »Schau, was ich mitgebracht habe!» Die frau fragt: »Warum
+hast du einen ranzen gebracht?» »Pass auf, weshalb, mein frau-
+chen! Dies ist solch ein ranzen, dass, wenn du sagst: 'Mein ran-
+zen, gib mir essen!' sofort auf deinen tisch kommt, was dein
+herz begehrt.» Die frau nahm einen eimer und ging hin, um was-
+ser zu holen, und begann vor allen zu prahlen. Ihr gevatter
+sagt zu ihr: »lch komme am sonntag zum mittagessen!» Der
+gevatter kam denn auch zu ihnen auf besuch. Sie setzen ihn
+hinter den tisch, auf dem tisch aber war nichts. Der gevatter
+verwundert sich: »Was für eine seltsame geschichte ist das doch!
+Womit gedenken sie mich zu bewirten?» Der hausherr aber nahm
+den ranzen und stellte ihn auf den tisch und sagte: »Mein ranzen,
+mein ranzen, gib [uns] essen!» Plötzlich kam auf den tisch, was
+das herz begehrte: teuere weine und allerhand essen. Sie assen
+und assen und konnten es nicht aufessen. Der gevatter ging nach-
+hause und sagt zu seiner frau: »Sieh an, mein frauchen, welch ein
+ranzen!» »Nun, was für ein ranzen ist es denn nun?» »Was für
+einer! Pass auf, was für einer: sie setzten mich zum essen hinter
+den tisch, er nahm den ranzen und sagt: 'Mein ranzen, gib [uns]
+essen!' und allerlei gutes kam auf den tisch. Wir konnten es
+nicht aufessen! Wo hat er ihn wohl hergekriegt! Ich gehe hin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="191,1220 1457,1220 1457,1224 191,1224"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

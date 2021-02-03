@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:47.83+02:00</Created>
+        <LastChange>2020-08-21T11:56:14.932+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943352" pageNr="84" tsid="37555574" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=YJKDAXESXYMESQLLIDKGYWWQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UBZXQBXHJTSAQGUCBQYGBLAT" imageId="13587376"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0084.jpg" imageWidth="1806" imageHeight="2942">
+        <PrintSpace>
+            <Coords points="350,273 1659,273 1659,2531 350,2531"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953384938" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="916,279 1026,279 1026,310 916,310"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="917,280 1025,280 1025,309 917,309"/>
+                <Baseline points="917,299 960,299 1025,308"/>
+                <TextEquiv>
+                    <Unicode>– 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>– 14</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="356,368 1651,368 1651,1137 356,1137"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="357,369 1647,369 1647,413 357,413"/>
+                <Baseline points="357,405 466,405 636,405 754,404 879,395 996,404 1151,405 1282,403 1450,402 1514,402 1647,401"/>
+                <TextEquiv>
+                    <Unicode>{mi₍t̕śa paś-ke̮m ve̮₍t̕śasni̮, — bi̮tse̮n jugjale̮. že̮ńik paśtalas da vidlale̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="359,431 1648,431 1648,474 359,474"/>
+                <Baseline points="359,466 445,466 521,465 650,464 820,465 903,465 1094,463 1286,464 1350,463 1488,463 1648,461"/>
+                <TextEquiv>
+                    <Unicode>{aśse̮: zev mi₍t̕śa kažit̕t̕śe̮. e̮t̕i pel̕-ponse̮ vi₍d̕źe̮dlas da me̮dse̮. sar-ni̮v}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="359,490 1648,490 1648,534 359,534"/>
+                <Baseline points="359,526 418,526 558,526 723,525 831,525 941,533 1002,525 1088,525 1268,521 1380,523 1473,523 1570,522 1648,523"/>
+                <TextEquiv>
+                    <Unicode>{šue̮ rut̕śli̮: »taje̮-ke̮ je̮ja! mi̮i̭ ne̮ taje̮ bergale̮?» rut̕ś šue̮: »tali̮ ve̮d}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="362,551 1647,551 1647,594 362,594"/>
+                <Baseline points="362,594 541,586 600,587 761,583 874,585 973,585 1027,584 1184,582 1272,583 1437,583 1647,583"/>
+                <TextEquiv>
+                    <Unicode>{paś-ke̮mi̮s oz kažit̕t̕śi̮ le̮śi̮d. abu as śe̮rt̕ii̮s!» sar ve̮₍t̕śe̮das mi₍t̕śa₍dži̮k}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="360,611 1648,611 1648,654 360,654"/>
+                <Baseline points="360,654 518,646 625,645 776,645 949,645 1013,645 1173,645 1279,644 1353,644 1468,644 1546,644 1648,633"/>
+                <TextEquiv>
+                    <Unicode>{paś-ke̮m. rut̕ś že̮ńike̮s paśte̮das da pel̕-pon vi̮las zev i̮₍dži̮d jem sutš-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="361,671 1648,671 1648,714 361,714"/>
+                <Baseline points="361,706 430,712 525,706 584,706 662,706 846,706 978,706 1173,705 1238,704 1274,705 1471,704 1554,704 1648,702"/>
+                <TextEquiv>
+                    <Unicode>{kas, med oz kut bergavni̮. že̮ńik berge̮t̕t̕śas da i sutški̮śas. »so ve̮d»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="360,732 1647,732 1647,775 360,775"/>
+                <Baseline points="360,765 431,766 527,773 754,766 891,766 969,772 1035,765 1072,765 1130,765 1296,765 1427,764 1471,764 1647,764"/>
+                <TextEquiv>
+                    <Unicode>{rut̕ś šue̮, »paś-ke̮mi̮s mi₍t̕śa loi, da i oz bergav!» seśśa di̮š poma}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="360,792 1646,792 1646,835 360,835"/>
+                <Baseline points="360,827 592,827 817,828 932,826 1029,826 1164,825 1213,825 1359,825 1477,823 1646,824"/>
+                <TextEquiv>
+                    <Unicode>{veńi₍t̕śa̭i̭t̕t̕śas sar-ni̮vke̮d. rut̕ś šue̮: »seśśa ti mijane̮ lokte̮i̭ ge̮śt̕itni̮!}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="360,852 1649,852 1649,893 360,893"/>
+                <Baseline points="360,887 410,886 572,887 723,888 836,887 977,886 1040,886 1192,893 1257,885 1335,885 1431,885 1538,885 1649,884"/>
+                <TextEquiv>
+                    <Unicode>{me vod̕dži̮k muna.» rut̕ś munas da munas, da vež vid̕ź voas. seni}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="361,912 1648,912 1648,956 361,956"/>
+                <Baseline points="361,947 416,948 585,947 697,948 820,948 949,945 1054,948 1141,946 1364,954 1648,945"/>
+                <TextEquiv>
+                    <Unicode>{ve̮v vi₍d̕źe̮ni̮. rut̕ś juale̮: »kodli̮ ve̮vte̮ vi₍d̕źanni̮d?» »jomali̮.» »tati}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="362,972 1650,972 1650,1015 362,1015"/>
+                <Baseline points="362,1007 457,1007 604,1005 769,1013 833,1007 882,1008 978,1006 1112,1007 1200,1015 1378,1005 1454,1005 1549,1005 1650,1005"/>
+                <TextEquiv>
+                    <Unicode>{kutas munni̮ svad̕ba, da ti nali̮ viśtale̮i̭: pomali̮·!» sid̕ź že̮ sije̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="364,1034 1646,1034 1646,1076 364,1076"/>
+                <Baseline points="364,1066 483,1067 640,1067 819,1068 887,1067 988,1067 1257,1067 1376,1065 1461,1065 1594,1065 1646,1064"/>
+                <TextEquiv>
+                    <Unicode>tše̮ktas viśtavni̮ me̮s-vi₍d̕źi̮śjasli̮ da i̮ž-vi₍d̕źi̮śjasli̮. seśśa rut̕ś munas da}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="358,1094 1646,1094 1646,1136 358,1136"/>
+                <Baseline points="358,1136 372,1136 445,1127 684,1128 788,1128 946,1128 1044,1127 1161,1127 1272,1126 1316,1127 1372,1133 1552,1126 1646,1125"/>
+                <TextEquiv>
+                    <Unicode>{jomale̮n kerka voas krustal̕. sije̮ set̕t̕śe̮ pi̮ras da jomali̮ i šue̮:}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{mi₍t̕śa paś-ke̮m ve̮₍t̕śasni̮, — bi̮tse̮n jugjale̮. že̮ńik paśtalas da vidlale̮}
+{aśse̮: zev mi₍t̕śa kažit̕t̕śe̮. e̮t̕i pel̕-ponse̮ vi₍d̕źe̮dlas da me̮dse̮. sar-ni̮v}
+{šue̮ rut̕śli̮: »taje̮-ke̮ je̮ja! mi̮i̭ ne̮ taje̮ bergale̮?» rut̕ś šue̮: »tali̮ ve̮d}
+{paś-ke̮mi̮s oz kažit̕t̕śi̮ le̮śi̮d. abu as śe̮rt̕ii̮s!» sar ve̮₍t̕śe̮das mi₍t̕śa₍dži̮k}
+{paś-ke̮m. rut̕ś že̮ńike̮s paśte̮das da pel̕-pon vi̮las zev i̮₍dži̮d jem sutš-}
+{kas, med oz kut bergavni̮. že̮ńik berge̮t̕t̕śas da i sutški̮śas. »so ve̮d»}
+{rut̕ś šue̮, »paś-ke̮mi̮s mi₍t̕śa loi, da i oz bergav!» seśśa di̮š poma}
+{veńi₍t̕śa̭i̭t̕t̕śas sar-ni̮vke̮d. rut̕ś šue̮: »seśśa ti mijane̮ lokte̮i̭ ge̮śt̕itni̮!}
+{me vod̕dži̮k muna.» rut̕ś munas da munas, da vež vid̕ź voas. seni}
+{ve̮v vi₍d̕źe̮ni̮. rut̕ś juale̮: »kodli̮ ve̮vte̮ vi₍d̕źanni̮d?» »jomali̮.» »tati}
+{kutas munni̮ svad̕ba, da ti nali̮ viśtale̮i̭: pomali̮·!» sid̕ź že̮ sije̮}
+tše̮ktas viśtavni̮ me̮s-vi₍d̕źi̮śjasli̮ da i̮ž-vi₍d̕źi̮śjasli̮. seśśa rut̕ś munas da}
+{jomale̮n kerka voas krustal̕. sije̮ set̕t̕śe̮ pi̮ras da jomali̮ i šue̮:}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="360,1222 1653,1222 1653,2525 360,2525"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="362,1223 1649,1223 1649,1264 362,1264"/>
+                <Baseline points="362,1256 539,1255 646,1257 772,1257 853,1256 974,1256 1140,1256 1259,1264 1382,1255 1481,1254 1649,1254"/>
+                <TextEquiv>
+                    <Unicode>machen!» Die leute des zaren machen [ihm] einen sehr schönen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="362,1284 1649,1284 1649,1325 362,1325"/>
+                <Baseline points="362,1317 481,1323 547,1308 653,1317 745,1317 853,1317 1007,1316 1076,1318 1179,1317 1392,1315 1505,1315 1585,1315 1649,1314"/>
+                <TextEquiv>
+                    <Unicode>anzug, — über und über funkelt er. Der bräutigam zieht ihn an</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="362,1344 1652,1344 1652,1385 362,1385"/>
+                <Baseline points="362,1377 432,1377 630,1378 748,1378 870,1377 1010,1377 1200,1385 1266,1377 1324,1376 1424,1376 1558,1376 1652,1375"/>
+                <TextEquiv>
+                    <Unicode>und beschaut sich: nach seiner meinung ist er sehr schön. Er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="361,1403 1648,1403 1648,1444 361,1444"/>
+                <Baseline points="361,1437 555,1437 657,1437 734,1438 841,1444 946,1438 1021,1437 1148,1437 1328,1436 1431,1436 1648,1425"/>
+                <TextEquiv>
+                    <Unicode>betrachtet bald die eine, bald die andre schulter. Die zarentoch-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="362,1464 1651,1464 1651,1505 362,1505"/>
+                <Baseline points="362,1496 414,1496 511,1497 611,1498 748,1498 845,1497 903,1497 1092,1498 1206,1496 1327,1496 1386,1496 1477,1495 1590,1494 1651,1495"/>
+                <TextEquiv>
+                    <Unicode>ter sagt zum fuchs: »lst er närrisch! Was dreht er sich denn da</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="361,1524 1649,1524 1649,1566 361,1566"/>
+                <Baseline points="361,1557 521,1556 622,1557 742,1557 853,1557 939,1557 1094,1556 1186,1556 1245,1557 1327,1556 1459,1564 1571,1555 1649,1554"/>
+                <TextEquiv>
+                    <Unicode>herum?» Der fuchs sagt: »Es kommt ihm ja der anzug nicht gut</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="366,1584 1650,1584 1650,1626 366,1626"/>
+                <Baseline points="366,1626 497,1626 593,1618 680,1618 745,1617 838,1618 1000,1617 1189,1616 1282,1616 1413,1616 1650,1608"/>
+                <TextEquiv>
+                    <Unicode>[genug] vor. Er ist ihm [seinem reichtum und seiner wohlhaben-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="362,1645 1650,1645 1650,1686 362,1686"/>
+                <Baseline points="362,1677 444,1686 576,1677 887,1676 1000,1677 1087,1677 1191,1676 1310,1676 1516,1676 1650,1683"/>
+                <TextEquiv>
+                    <Unicode>heit] nicht entsprechend!» Der zar lässt einen schöneren anzug</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="361,1704 1650,1704 1650,1744 361,1744"/>
+                <Baseline points="361,1737 514,1737 628,1737 753,1737 864,1737 946,1737 1047,1736 1261,1736 1328,1736 1422,1736 1556,1736 1650,1735"/>
+                <TextEquiv>
+                    <Unicode>machen. Der fuchs zieht ihn dem bräutigam an und steckt ihm</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="362,1765 1651,1765 1651,1806 362,1806"/>
+                <Baseline points="362,1797 406,1797 488,1797 668,1798 771,1798 879,1797 1018,1798 1245,1803 1384,1797 1445,1796 1565,1795 1651,1785"/>
+                <TextEquiv>
+                    <Unicode>an die schulter eine sehr grosse stopfnadel, damit er nicht an-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="362,1824 1649,1824 1649,1866 362,1866"/>
+                <Baseline points="362,1857 453,1857 554,1857 671,1865 936,1858 1045,1856 1260,1856 1382,1856 1475,1856 1556,1856 1649,1856"/>
+                <TextEquiv>
+                    <Unicode>finge [den kopf] umzudrehen. Der bräutigam dreht sich um und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="362,1884 1652,1884 1652,1925 362,1925"/>
+                <Baseline points="362,1917 465,1915 564,1916 646,1916 729,1916 874,1917 1042,1924 1143,1916 1226,1916 1356,1922 1454,1916 1584,1923 1652,1915"/>
+                <TextEquiv>
+                    <Unicode>sticht sich [an der nadel]. »Seht», sagt der fuchs, »der anzug ist</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="363,1944 1650,1944 1650,1985 363,1985"/>
+                <Baseline points="363,1985 423,1977 640,1982 736,1977 803,1977 925,1977 1018,1977 1128,1977 1246,1976 1389,1984 1506,1974 1650,1975"/>
+                <TextEquiv>
+                    <Unicode>gut geworden, und er dreht sich auch nicht [mehr] um!» Dann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="362,2004 1650,2004 1650,2045 362,2045"/>
+                <Baseline points="362,2038 446,2037 536,2037 654,2037 824,2037 911,2038 993,2037 1250,2037 1418,2037 1532,2036 1650,2037"/>
+                <TextEquiv>
+                    <Unicode>wird der faule homas mit der zarentochter getraut. Der fuchs</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="364,2064 1651,2064 1651,2106 364,2106"/>
+                <Baseline points="364,2099 455,2098 648,2097 774,2096 844,2097 931,2097 1001,2099 1051,2098 1117,2097 1297,2105 1382,2096 1545,2096 1651,2096"/>
+                <TextEquiv>
+                    <Unicode>sagt: »Kommt dann zu uns [d. h. zu homas] auf besuch! Ich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="363,2125 1651,2125 1651,2166 363,2166"/>
+                <Baseline points="363,2166 447,2157 631,2156 744,2156 873,2157 1057,2157 1162,2157 1336,2157 1428,2157 1586,2156 1651,2157"/>
+                <TextEquiv>
+                    <Unicode>gehe voraus.» Der fuchs wandert und wandert und gelangt zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="364,2184 1649,2184 1649,2225 364,2225"/>
+                <Baseline points="364,2218 455,2217 615,2216 756,2218 890,2217 1030,2217 1111,2217 1270,2218 1385,2216 1514,2217 1649,2216"/>
+                <TextEquiv>
+                    <Unicode>einer grünen wiese. Dort hüten sie pferde. Der fuchs fragt:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="363,2243 1650,2243 1650,2284 363,2284"/>
+                <Baseline points="363,2276 514,2276 653,2276 776,2276 889,2275 956,2276 1027,2284 1222,2275 1361,2275 1472,2276 1575,2276 1650,2276"/>
+                <TextEquiv>
+                    <Unicode>»Wessen pferde hütet ihr?» Der joma ihre.» »Hier zieht bald ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="363,2304 1650,2304 1650,2344 363,2344"/>
+                <Baseline points="363,2336 600,2344 756,2340 859,2336 965,2336 1107,2336 1309,2315 1522,2334 1650,2326"/>
+                <TextEquiv>
+                    <Unicode>hochzeitszug vorbei, und sagt ihnen: 'homas' [pferde]'!» Das-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="364,2364 1651,2364 1651,2404 364,2404"/>
+                <Baseline points="364,2396 453,2396 591,2396 660,2396 747,2396 965,2396 1061,2396 1139,2396 1370,2395 1504,2396 1651,2396"/>
+                <TextEquiv>
+                    <Unicode>selbe heisst er die kuhhirten und die schafhirten sagen. Dann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="363,2413 1649,2413 1649,2464 363,2464"/>
+                <Baseline points="363,2464 444,2456 538,2455 667,2456 839,2464 945,2456 1108,2456 1208,2455 1448,2455 1494,2456 1649,2455"/>
+                <TextEquiv>
+                    <Unicode>geht der fuchs [weiter] und gelangt zum kristallhaus der joma.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="365,2483 1652,2483 1652,2524 365,2524"/>
+                <Baseline points="365,2516 410,2515 510,2516 691,2516 784,2516 883,2515 924,2516 1088,2516 1231,2522 1267,2524 1447,2515 1583,2514 1652,2515"/>
+                <TextEquiv>
+                    <Unicode>Er tritt dahinein und sagt zur joma: »joma, joma, hier wollen sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>machen!» Die leute des zaren machen [ihm] einen sehr schönen
+anzug, — über und über funkelt er. Der bräutigam zieht ihn an
+und beschaut sich: nach seiner meinung ist er sehr schön. Er
+betrachtet bald die eine, bald die andre schulter. Die zarentoch-
+ter sagt zum fuchs: »lst er närrisch! Was dreht er sich denn da
+herum?» Der fuchs sagt: »Es kommt ihm ja der anzug nicht gut
+[genug] vor. Er ist ihm [seinem reichtum und seiner wohlhaben-
+heit] nicht entsprechend!» Der zar lässt einen schöneren anzug
+machen. Der fuchs zieht ihn dem bräutigam an und steckt ihm
+an die schulter eine sehr grosse stopfnadel, damit er nicht an-
+finge [den kopf] umzudrehen. Der bräutigam dreht sich um und 
+sticht sich [an der nadel]. »Seht», sagt der fuchs, »der anzug ist
+gut geworden, und er dreht sich auch nicht [mehr] um!» Dann
+wird der faule homas mit der zarentochter getraut. Der fuchs
+sagt: »Kommt dann zu uns [d. h. zu homas] auf besuch! Ich
+gehe voraus.» Der fuchs wandert und wandert und gelangt zu
+einer grünen wiese. Dort hüten sie pferde. Der fuchs fragt:
+»Wessen pferde hütet ihr?» Der joma ihre.» »Hier zieht bald ein
+hochzeitszug vorbei, und sagt ihnen: 'homas' [pferde]'!» Das-
+selbe heisst er die kuhhirten und die schafhirten sagen. Dann
+geht der fuchs [weiter] und gelangt zum kristallhaus der joma.}
+Er tritt dahinein und sagt zur joma: »joma, joma, hier wollen sie</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:3;}">
+            <Coords points="1392,2369 1395,2369 1395,2462 1392,2462"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:46.364+02:00</Created>
+        <LastChange>2020-08-21T11:55:04.593+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943346" pageNr="81" tsid="37555289" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=TWDDUMCTUQPGZVFTTPZGZDAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HLWSMEEIFNVITVLGRBOADZNZ" imageId="13587370"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0081.jpg" imageWidth="1830" imageHeight="2963">
+        <PrintSpace>
+            <Coords points="0,264 1474,264 1474,2947 0,2947"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953384596" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_2_4"/>
+                <RegionRefIndexed index="5" regionRef="r_3_1"/>
+                <RegionRefIndexed index="6" regionRef="r_3_2"/>
+                <RegionRefIndexed index="7" regionRef="r_3_3"/>
+                <RegionRefIndexed index="8" regionRef="r_3_4"/>
+                <RegionRefIndexed index="9" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="725,270 831,270 831,300 725,300"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="726,271 830,271 830,299 726,299"/>
+                <Baseline points="726,290 770,290 830,298"/>
+                <TextEquiv>
+                    <Unicode>— 71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 71</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="790,390 841,390 841,422 790,422"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="791,391 840,391 840,421 791,421"/>
+                <Baseline points="791,420 810,420 840,421"/>
+                <TextEquiv>
+                    <Unicode>24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="613,465 1019,465 1019,509 613,509"/>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="614,466 1018,466 1018,508 614,508"/>
+                <Baseline points="614,499 635,499 684,497 836,498 880,498 928,498 1018,500"/>
+                <TextEquiv>
+                    <Unicode>{di̮š poma i rut̕ś,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{di̮š poma i rut̕ś,}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+            <Coords points="170,553 1461,553 1461,1077 170,1077"/>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="277,554 1455,554 1455,596 277,596"/>
+                <Baseline points="277,589 386,587 536,595 671,587 804,588 947,587 1039,587 1133,587 1212,592 1262,585 1455,583"/>
+                <TextEquiv>
+                    <Unicode>{olasni̮ vi̮lasni̮ starik gozja. nale̮n ve̮li e̮t̕ik pi, di̮š poma}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="171,615 1457,615 1457,657 171,657"/>
+                <Baseline points="171,649 235,650 322,649 414,628 524,648 714,650 858,648 999,647 1036,645 1140,647 1282,651 1457,652"/>
+                <TextEquiv>
+                    <Unicode>{sije̮ vek pat̕t̕śe̮r vi̮li̮n kuile̮. e̮t̕t̕śi̮d mami̮s šue̮: »poma. poma,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="172,673 1458,673 1458,716 172,716"/>
+                <Baseline points="172,709 254,710 316,709 366,708 510,707 610,708 762,708 876,708 951,714 1026,708 1119,714 1177,707 1321,706 1458,704"/>
+                <TextEquiv>
+                    <Unicode>{di̮r-e̮ ne̮ te pat̕t̕śe̮r vi̮lad kui̭lan? mun ke̮t̕, kai̭ ve̮re̮, da rut̕ś-gu kodji̮!»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="175,733 1457,733 1457,777 175,777"/>
+                <Baseline points="175,768 295,774 407,768 502,768 634,766 697,768 775,768 845,767 1021,767 1145,767 1240,766 1394,765 1457,764"/>
+                <TextEquiv>
+                    <Unicode>{»kodja, tol̕ke̮ aski t̕śḙt̕t̕śi̮ da rok pu meni̮m!» mam aski t̕śḙt̕t̕śas da}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="175,792 1459,792 1459,837 175,837"/>
+                <Baseline points="175,828 230,828 276,837 406,836 584,827 707,834 799,827 915,827 951,827 1087,827 1240,826 1348,825 1459,825"/>
+                <TextEquiv>
+                    <Unicode>{rok puas. poma rok śojas, ve̮re̮ kajas i kodjas rut̕ś-gu. aski kajas}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="173,854 1457,854 1457,896 173,896"/>
+                <Baseline points="173,888 303,888 351,888 416,895 464,888 573,888 681,889 797,888 849,888 1077,894 1128,896 1335,886 1457,891"/>
+                <TextEquiv>
+                    <Unicode>{rut̕ś-gu dine̮, a gui̮n rut̕ś. rut̕ś šue̮: »poma, poma, led̕ź mene̮,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="174,913 1458,913 1458,956 174,956"/>
+                <Baseline points="174,948 224,948 335,948 456,948 491,948 574,947 633,948 770,956 1024,947 1107,948 1225,955 1458,944"/>
+                <TextEquiv>
+                    <Unicode>{me teni̮d i̮₍dži̮d i bur kera!» poma le₍d̕źas. gortas poma loktas}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="174,973 1460,973 1460,1014 174,1014"/>
+                <Baseline points="174,1007 215,1007 397,1005 454,1007 544,1007 659,1014 770,1008 871,1007 960,1008 1117,1013 1183,1007 1257,1006 1378,1005 1460,1003"/>
+                <TextEquiv>
+                    <Unicode>{da mami̮sli̮ šuḙ: »mame̮, mem rut̕ś ve̮li šede̮ma, da zev i̮₍dži̮d bur}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="176,1034 1242,1034 1242,1076 176,1076"/>
+                <Baseline points="176,1067 262,1067 388,1074 453,1068 489,1068 571,1066 680,1076 882,1067 1030,1067 1113,1067 1242,1066"/>
+                <TextEquiv>
+                    <Unicode>{ke̮sje̮ kerni̮, da i le₍d̕źi. poma bara pat̕t̕śe̮r vi̮le̮ vodas.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{olasni̮ vi̮lasni̮ starik gozja. nale̮n ve̮li e̮t̕ik pi, di̮š poma}
+{sije̮ vek pat̕t̕śe̮r vi̮li̮n kuile̮. e̮t̕t̕śi̮d mami̮s šue̮: »poma. poma,}
+{di̮r-e̮ ne̮ te pat̕t̕śe̮r vi̮lad kui̭lan? mun ke̮t̕, kai̭ ve̮re̮, da rut̕ś-gu kodji̮!»}
+{»kodja, tol̕ke̮ aski t̕śḙt̕t̕śi̮ da rok pu meni̮m!» mam aski t̕śḙt̕t̕śas da}
+{rok puas. poma rok śojas, ve̮re̮ kajas i kodjas rut̕ś-gu. aski kajas}
+{rut̕ś-gu dine̮, a gui̮n rut̕ś. rut̕ś šue̮: »poma, poma, led̕ź mene̮,}
+{me teni̮d i̮₍dži̮d i bur kera!» poma le₍d̕źas. gortas poma loktas}
+{da mami̮sli̮ šuḙ: »mame̮, mem rut̕ś ve̮li šede̮ma, da zev i̮₍dži̮d bur}
+{ke̮sje̮ kerni̮, da i le₍d̕źi. poma bara pat̕t̕śe̮r vi̮le̮ vodas.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:4;}">
+            <Coords points="175,1091 1462,1091 1462,1196 175,1196"/>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="279,1092 1461,1092 1461,1136 279,1136"/>
+                <Baseline points="279,1127 299,1127 391,1128 508,1127 585,1127 660,1127 748,1127 811,1128 886,1126 985,1126 1102,1126 1228,1126 1357,1125 1461,1124"/>
+                <TextEquiv>
+                    <Unicode>{a rut̕ś kajas śe̮d ve̮r še̮re̮ da zev jona kutas vosni̮. set̕t̕śe̮ ke̮i̭in}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="176,1153 1460,1153 1460,1195 176,1195"/>
+                <Baseline points="176,1186 277,1186 350,1186 387,1187 479,1187 622,1188 733,1194 820,1186 880,1187 930,1186 1089,1186 1146,1186 1242,1194 1460,1184"/>
+                <TextEquiv>
+                    <Unicode>{loktas da i šue̮: »ru₍t̕śe̮ t̕śoje̮, mi̮i̭ ne̮ te vosan?» »me poma ordi̮n}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{a rut̕ś kajas śe̮d ve̮r še̮re̮ da zev jona kutas vosni̮. set̕t̕śe̮ ke̮i̭in}
+{loktas da i šue̮: »ru₍t̕śe̮ t̕śoje̮, mi̮i̭ ne̮ te vosan?» »me poma ordi̮n}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:5;}">
+            <Coords points="791,1295 844,1295 844,1326 791,1326"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="792,1296 843,1296 843,1325 792,1325"/>
+                <Baseline points="792,1324 810,1324 843,1325"/>
+                <TextEquiv>
+                    <Unicode>24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:6;}">
+            <Coords points="391,1370 1246,1370 1246,1404 391,1404"/>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="392,1371 1245,1371 1245,1403 392,1403"/>
+                <Baseline points="392,1402 474,1402 629,1403 849,1403 968,1402 1075,1403 1245,1402"/>
+                <TextEquiv>
+                    <Unicode>Der faule homas und der fuchs.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der faule homas und der fuchs.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:7;}">
+            <Coords points="173,1453 1467,1453 1467,2328 173,2328"/>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="281,1454 1459,1454 1459,1488 281,1488"/>
+                <Baseline points="281,1487 323,1488 389,1488 581,1488 668,1488 804,1488 898,1488 992,1487 1098,1487 1197,1487 1339,1485 1459,1485"/>
+                <TextEquiv>
+                    <Unicode>Es war einmal ein mann und eine frau. Sie hatten einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="174,1514 1460,1514 1460,1556 174,1556"/>
+                <Baseline points="174,1548 272,1555 371,1548 518,1549 709,1550 802,1548 914,1548 1063,1547 1157,1547 1278,1547 1360,1545 1460,1546"/>
+                <TextEquiv>
+                    <Unicode>sohn, den faulen homas. Er liegt immer nur träge auf dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="179,1574 1463,1574 1463,1617 179,1617"/>
+                <Baseline points="179,1607 265,1607 446,1608 555,1608 680,1608 857,1608 1064,1614 1253,1613 1343,1606 1463,1606"/>
+                <TextEquiv>
+                    <Unicode>ofen. Einmal sagt seine mutter: »homas, homas, wie lange</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="180,1634 1462,1634 1462,1676 180,1676"/>
+                <Baseline points="180,1667 276,1667 345,1667 456,1668 540,1667 638,1668 762,1669 876,1668 987,1667 1208,1666 1264,1666 1352,1665 1462,1666"/>
+                <TextEquiv>
+                    <Unicode>liegst du denn auf dem ofen? Geh doch wenigstens in den wald</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="179,1695 1464,1695 1464,1736 179,1736"/>
+                <Baseline points="179,1727 250,1728 375,1728 471,1728 731,1726 921,1734 999,1728 1121,1727 1208,1732 1307,1726 1376,1726 1464,1725"/>
+                <TextEquiv>
+                    <Unicode>und grabe eine fuchsgrube!» »Gewiss, die grabe ich, steh du nur</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="178,1755 1462,1755 1462,1796 178,1796"/>
+                <Baseline points="178,1786 315,1787 426,1787 519,1787 621,1787 761,1787 847,1787 1015,1785 1120,1787 1271,1785 1384,1786 1462,1786"/>
+                <TextEquiv>
+                    <Unicode>morgen früh auf und koche mir grütze!» Die mutter steht am</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="180,1814 1463,1814 1463,1856 180,1856"/>
+                <Baseline points="180,1845 358,1847 518,1847 601,1846 695,1847 820,1846 968,1847 1153,1847 1236,1846 1313,1846 1463,1852"/>
+                <TextEquiv>
+                    <Unicode>folgenden morgen auf und kocht grütze. homas isst die grütze,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="179,1874 1464,1874 1464,1915 179,1915"/>
+                <Baseline points="179,1915 259,1907 324,1906 412,1907 523,1907 616,1907 738,1906 833,1907 1067,1906 1178,1906 1363,1906 1464,1905"/>
+                <TextEquiv>
+                    <Unicode>geht in den wald und gräbt eine fuchsgrube. Am nächsten tage</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="179,1933 1464,1933 1464,1975 179,1975"/>
+                <Baseline points="179,1975 260,1967 327,1967 397,1966 485,1966 720,1972 814,1966 870,1966 952,1965 1078,1967 1144,1966 1220,1965 1349,1966 1464,1966"/>
+                <TextEquiv>
+                    <Unicode>geht er zu der fuchsgrube, und in der grube ist ein fuchs. Der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="185,1993 1464,1993 1464,2034 185,2034"/>
+                <Baseline points="185,2026 283,2026 395,2026 590,2032 772,2032 861,2027 971,2025 1127,2032 1205,2025 1285,2026 1353,2024 1464,2025"/>
+                <TextEquiv>
+                    <Unicode>fuchs sagt: »homas, homas, lass mich heraus, ich tue dir einen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="180,2054 1465,2054 1465,2095 180,2095"/>
+                <Baseline points="180,2086 257,2086 421,2086 592,2086 786,2086 890,2086 992,2086 1122,2093 1271,2085 1465,2085"/>
+                <TextEquiv>
+                    <Unicode>sehr grossen dienst!» homas lässt [den fuchs] laufen. homas</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="177,2114 1465,2114 1465,2155 177,2155"/>
+                <Baseline points="177,2146 310,2147 483,2146 558,2146 659,2146 765,2146 836,2146 966,2146 1130,2146 1298,2146 1465,2139"/>
+                <TextEquiv>
+                    <Unicode>kommt zuhause an und sagt zu seiner mutter: »Liebes mütter-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="178,2174 1466,2174 1466,2215 178,2215"/>
+                <Baseline points="178,2207 275,2214 352,2206 472,2207 591,2207 716,2207 913,2214 1017,2206 1075,2206 1154,2205 1258,2214 1372,2205 1466,2206"/>
+                <TextEquiv>
+                    <Unicode>chen, ich hatte einen fuchs gefangen, aber er will [mir] einen sehr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="178,2234 1465,2234 1465,2275 178,2275"/>
+                <Baseline points="178,2275 313,2267 447,2266 599,2273 695,2266 762,2267 859,2267 936,2266 1043,2274 1203,2264 1381,2266 1465,2266"/>
+                <TextEquiv>
+                    <Unicode>grossen dienst leisten, und da liess ich [ihn] laufen.» homas legt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="176,2294 821,2294 821,2327 176,2327"/>
+                <Baseline points="176,2326 249,2326 395,2327 475,2327 575,2326 676,2327 821,2327"/>
+                <TextEquiv>
+                    <Unicode>sich wieder auf dem ofen nieder.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Es war einmal ein mann und eine frau. Sie hatten einen
+sohn, den faulen homas. Er liegt immer nur träge auf dem
+ofen. Einmal sagt seine mutter: »homas, homas, wie lange
+liegst du denn auf dem ofen? Geh doch wenigstens in den wald
+und grabe eine fuchsgrube!» »Gewiss, die grabe ich, steh du nur
+morgen früh auf und koche mir grütze!» Die mutter steht am
+folgenden morgen auf und kocht grütze. homas isst die grütze,
+geht in den wald und gräbt eine fuchsgrube. Am nächsten tage
+geht er zu der fuchsgrube, und in der grube ist ein fuchs. Der
+fuchs sagt: »homas, homas, lass mich heraus, ich tue dir einen
+sehr grossen dienst!» homas lässt [den fuchs] laufen. homas
+kommt zuhause an und sagt zu seiner mutter: »Liebes mütter-
+chen, ich hatte einen fuchs gefangen, aber er will [mir] einen sehr
+grossen dienst leisten, und da liess ich [ihn] laufen.» homas legt
+sich wieder auf dem ofen nieder.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_4" custom="readingOrder {index:8;}">
+            <Coords points="177,2353 1469,2353 1469,2513 177,2513"/>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="284,2354 1464,2354 1464,2395 284,2395"/>
+                <Baseline points="284,2386 352,2386 482,2387 596,2386 709,2387 855,2386 912,2386 1000,2386 1183,2386 1291,2386 1387,2386 1464,2376"/>
+                <TextEquiv>
+                    <Unicode>Der fuchs aber geht mitten in den finsteren wald und be-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="179,2414 1463,2414 1463,2455 179,2455"/>
+                <Baseline points="179,2454 276,2446 370,2446 500,2455 564,2446 778,2446 926,2445 1081,2445 1157,2446 1258,2445 1350,2446 1463,2446"/>
+                <TextEquiv>
+                    <Unicode>ginnt sich heftig zu erbrechen. Herzu kommt ein wolf und sagt:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="178,2474 1468,2474 1468,2512 178,2512"/>
+                <Baseline points="178,2504 315,2512 439,2505 731,2512 833,2506 1029,2505 1097,2505 1196,2505 1349,2504 1468,2505"/>
+                <TextEquiv>
+                    <Unicode>»Fuchs, mein schwesterlein, was erbrichst du dich denn?» »lch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der fuchs aber geht mitten in den finsteren wald und be-
+ginnt sich heftig zu erbrechen. Herzu kommt ein wolf und sagt:
+»Fuchs, mein schwesterlein, was erbrichst du dich denn?» »lch</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:9;}">
+            <Coords points="1235,2617 1242,2617 1242,2638 1235,2638"/>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1236,2618 1241,2618 1241,2637 1236,2637"/>
+                <Baseline points="1236,2637 1241,2637"/>
+                <Word id="w_w2aab1b7b2b1b1ab1" language="German" custom="readingOrder {index:0;}">
+                    <Coords points="1236,2618 1241,2618 1241,2637 1236,2637"/>
+                    <TextEquiv>
+                        <Unicode>i</Unicode>
+                    </TextEquiv>
+                    <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+                </Word>
+                <TextEquiv>
+                    <Unicode>i</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="5.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>i</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:10;}">
+            <Coords points="228,1224 1343,1224 1343,1229 228,1229"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:11;}">
+            <Coords points="0,2943 197,2943 197,2947 0,2947"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

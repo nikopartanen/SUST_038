@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:47.353+02:00</Created>
+        <LastChange>2020-08-21T11:55:51.660+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943350" pageNr="83" tsid="37555514" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=KOWAVRLEIBRUXVNKWCRZVYYD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQIJTQYGDJRAIYCTYYMUAUZS" imageId="13587374"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0083.jpg" imageWidth="1797" imageHeight="2932">
+        <PrintSpace>
+            <Coords points="145,265 1448,265 1448,2527 145,2527"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953384840" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="776,271 882,271 882,302 776,302"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="777,272 881,272 881,301 777,301"/>
+                <Baseline points="777,300 793,300 881,291"/>
+                <TextEquiv>
+                    <Unicode>73 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>73 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="153,363 1442,363 1442,1129 153,1129"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="158,364 1441,364 1441,406 158,406"/>
+                <Baseline points="158,395 167,395 282,387 337,396 477,396 685,396 783,395 884,396 1004,396 1079,404 1219,405 1344,399 1386,398 1441,398"/>
+                <TextEquiv>
+                    <Unicode>{te̮d. — śo ki̮mi̮n pudovńa.» sar šue̮: »nole̮ že̮, vidle̮i̭, gaške̮ i ez}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="155,424 1438,424 1438,465 155,465"/>
+                <Baseline points="155,456 309,454 394,456 680,463 781,456 923,457 1066,456 1262,457 1438,465"/>
+                <TextEquiv>
+                    <Unicode>{merai̭tni̮ da! merai̭tisni̮-ke̮, kol̕i mi̮i̭-ke̮ set̕t̕śe̮.» pudovńa vidlasni̮,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="156,484 1439,484 1439,527 156,527"/>
+                <Baseline points="156,516 175,516 309,517 452,516 635,515 770,516 870,516 1061,518 1236,518 1293,518 1439,519"/>
+                <TextEquiv>
+                    <Unicode>{a śume̮d kostśi̮s ad̕d̕źasni̮ d̕ḙńga. sar d̕ivui̭t̕t̕śe̮: »ku₍tše̮m že̮ ta₍tše̮m}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="157,545 1437,545 1437,587 157,587"/>
+                <Baseline points="157,577 224,576 408,577 519,577 636,577 708,578 843,577 969,578 1089,587 1297,579 1437,579"/>
+                <TextEquiv>
+                    <Unicode>{ozi̮r poma!» rut̕ś sarli̮ šue̮: »sar gospod̕in, poma ni̮vte̮ korale̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="155,606 1439,606 1439,647 155,647"/>
+                <Baseline points="155,638 244,638 341,638 429,638 520,638 635,645 782,639 872,638 962,639 1022,640 1121,639 1181,647 1272,640 1365,639 1439,640"/>
+                <TextEquiv>
+                    <Unicode>{śetan on?» sar šue̮: »śeta, se₍tše̮m ozi̮r saje̮ ne̮ ki̮d̕ź og śet!» »mi ve̮d}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="156,667 1438,667 1438,708 156,708"/>
+                <Baseline points="156,699 253,699 360,699 433,699 515,698 607,699 645,697 696,704 777,699 941,700 1137,699 1337,699 1438,701"/>
+                <TextEquiv>
+                    <Unicode>{barka vi̮li̮n loktam» rut̕ś šue̮, »da mijane̮s va-dorśa̭ń vit̕t̕śi̮śe̮i̭!» rut̕ś}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="154,727 1437,727 1437,768 154,768"/>
+                <Baseline points="154,767 218,758 350,759 393,758 459,768 640,756 733,757 844,757 943,765 1015,759 1094,759 1206,760 1341,761 1437,764"/>
+                <TextEquiv>
+                    <Unicode>{pur ve̮₍t̕śas da pomali̮ šue̮: »t̕śḙt̕t̕śi̮ e̮dje̮, me sar ordi̮n koraśi. lok,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="155,787 1437,787 1437,829 155,829"/>
+                <Baseline points="155,827 301,816 402,818 569,819 666,819 781,819 869,818 948,820 1118,819 1184,819 1346,820 1437,813"/>
+                <TextEquiv>
+                    <Unicode>{pirui̭tni̮ munam!» pomae̮s rut̕ś pur vi̮le̮ let̕t̕śe̮das da lapanas mi̮ś-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="155,846 1436,846 1436,887 155,887"/>
+                <Baseline points="155,879 213,879 275,879 434,885 465,879 605,878 765,879 821,879 949,880 1138,878 1287,880 1436,874"/>
+                <TextEquiv>
+                    <Unicode>{kas da mi̮śkas, i munni̮ kutasni̮. a sarle̮n vit̕t̕śi̮śe̮ni̮ že̮ńike̮s va-dor-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="154,907 1435,907 1435,948 154,948"/>
+                <Baseline points="154,938 226,945 291,938 368,938 664,939 743,938 979,939 1120,940 1232,948 1327,940 1435,946"/>
+                <TextEquiv>
+                    <Unicode>{śa̭ń, da sar kit̕t̕śe̮-pone̮₍d̕źi̮s gi̮n vol̕sale̮mae̮ś. že̮ńik bere̮g dore̮ voas,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="154,967 1437,967 1437,1007 154,1007"/>
+                <Baseline points="154,997 208,998 336,998 469,998 585,998 647,998 780,998 970,1006 1040,999 1120,1000 1219,999 1340,1000 1437,990"/>
+                <TextEquiv>
+                    <Unicode>{sar pani̮d loktas. rut̕ś šue̮: »sar gospod̕in, mi ve̮d e̮dva voim: bar-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="155,1026 1439,1026 1439,1068 155,1068"/>
+                <Baseline points="155,1058 269,1058 372,1058 488,1058 580,1059 756,1058 867,1059 991,1059 1115,1060 1266,1060 1353,1059 1439,1059"/>
+                <TextEquiv>
+                    <Unicode>{kani̮m ve̮ji. seni ve̮li śiźimdas mort. e̮dva vermi že̮ńike̮s pur vi̮le̮}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="155,1086 1435,1086 1435,1128 155,1128"/>
+                <Baseline points="155,1118 310,1118 389,1125 514,1118 716,1118 795,1118 931,1118 1064,1118 1221,1119 1361,1119 1435,1119"/>
+                <TextEquiv>
+                    <Unicode>{kvat̕itni̮! so, stavi̮s paś-ke̮mi̮s kośa̭ślis, vi̮l̕i̮s loe̮ ve̮t̕śni̮!» sarle̮n zev}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{te̮d. — śo ki̮mi̮n pudovńa.» sar šue̮: »nole̮ že̮, vidle̮i̭, gaške̮ i ez}
+{merai̭tni̮ da! merai̭tisni̮-ke̮, kol̕i mi̮i̭-ke̮ set̕t̕śe̮.» pudovńa vidlasni̮,}
+{a śume̮d kostśi̮s ad̕d̕źasni̮ d̕ḙńga. sar d̕ivui̭t̕t̕śe̮: »ku₍tše̮m že̮ ta₍tše̮m}
+{ozi̮r poma!» rut̕ś sarli̮ šue̮: »sar gospod̕in, poma ni̮vte̮ korale̮.}
+{śetan on?» sar šue̮: »śeta, se₍tše̮m ozi̮r saje̮ ne̮ ki̮d̕ź og śet!» »mi ve̮d}
+{barka vi̮li̮n loktam» rut̕ś šue̮, »da mijane̮s va-dorśa̭ń vit̕t̕śi̮śe̮i̭!» rut̕ś}
+{pur ve̮₍t̕śas da pomali̮ šue̮: »t̕śḙt̕t̕śi̮ e̮dje̮, me sar ordi̮n koraśi. lok,}
+{pirui̭tni̮ munam!» pomae̮s rut̕ś pur vi̮le̮ let̕t̕śe̮das da lapanas mi̮ś-}
+{kas da mi̮śkas, i munni̮ kutasni̮. a sarle̮n vit̕t̕śi̮śe̮ni̮ že̮ńike̮s va-dor-}
+{śa̭ń, da sar kit̕t̕śe̮-pone̮₍d̕źi̮s gi̮n vol̕sale̮mae̮ś. že̮ńik bere̮g dore̮ voas,}
+{sar pani̮d loktas. rut̕ś šue̮: »sar gospod̕in, mi ve̮d e̮dva voim: bar-}
+{kani̮m ve̮ji. seni ve̮li śiźimdas mort. e̮dva vermi že̮ńike̮s pur vi̮le̮}
+{kvat̕itni̮! so, stavi̮s paś-ke̮mi̮s kośa̭ślis, vi̮l̕i̮s loe̮ ve̮t̕śni̮!» sarle̮n zev}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="150,1214 1437,1214 1437,2521 150,2521"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="156,1215 1435,1215 1435,1257 156,1257"/>
+                <Baseline points="156,1246 258,1247 387,1254 539,1247 630,1247 725,1248 832,1247 949,1248 1077,1255 1144,1239 1331,1248 1435,1239"/>
+                <TextEquiv>
+                    <Unicode>fragt: »Nun, wieviel war es?» »lch weiss nicht, — ungefähr hun-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="155,1276 1435,1276 1435,1317 155,1317"/>
+                <Baseline points="155,1307 229,1308 439,1307 543,1307 621,1307 732,1308 891,1308 990,1309 1113,1317 1211,1316 1435,1309"/>
+                <TextEquiv>
+                    <Unicode>dert pudmass.» Der zar sagt: »Bringt [das mass] her, untersucht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="155,1335 1436,1335 1436,1378 155,1378"/>
+                <Baseline points="155,1367 199,1374 399,1368 539,1367 608,1367 690,1368 805,1369 1014,1370 1170,1369 1241,1369 1436,1368"/>
+                <TextEquiv>
+                    <Unicode>es, vielleicht haben sie gar nicht gemessen! Wenn sie gemessen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="152,1396 1434,1396 1434,1438 152,1438"/>
+                <Baseline points="152,1427 275,1434 345,1428 423,1429 560,1428 639,1428 740,1428 862,1437 1089,1428 1185,1429 1434,1429"/>
+                <TextEquiv>
+                    <Unicode>haben, so ist etwas [in dem mass] geblieben.» Sie untersuchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="154,1457 1435,1457 1435,1498 154,1498"/>
+                <Baseline points="154,1488 213,1487 333,1488 430,1488 574,1489 632,1488 731,1488 958,1489 1066,1490 1181,1489 1260,1489 1435,1480"/>
+                <TextEquiv>
+                    <Unicode>das mass und finden in dem rindenrand geld. Der zar verwun-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="154,1516 1433,1516 1433,1558 154,1558"/>
+                <Baseline points="154,1548 228,1548 334,1548 454,1548 530,1548 605,1548 753,1548 922,1549 1007,1550 1104,1548 1216,1550 1335,1550 1433,1550"/>
+                <TextEquiv>
+                    <Unicode>dert sich: »Was für ein reicher homas das ist!» Der fuchs sagt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="154,1577 1431,1577 1431,1618 154,1618"/>
+                <Baseline points="154,1607 229,1607 378,1608 514,1608 612,1615 791,1609 961,1610 1085,1609 1241,1609 1344,1610 1431,1618"/>
+                <TextEquiv>
+                    <Unicode>zum zaren: »Herr zar, Dhomas erbittet deine tochter [von dir]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="154,1636 1432,1636 1432,1678 154,1678"/>
+                <Baseline points="154,1667 212,1667 422,1669 566,1668 643,1668 721,1668 847,1677 962,1669 1125,1668 1238,1669 1320,1669 1432,1669"/>
+                <TextEquiv>
+                    <Unicode>zur gemahlin. Gibst du sie [ihm] oder nicht?» Der zar sagt:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="154,1697 1436,1697 1436,1736 154,1736"/>
+                <Baseline points="154,1726 227,1728 341,1728 418,1729 528,1735 612,1729 731,1729 806,1729 875,1730 1006,1730 1164,1729 1318,1730 1436,1729"/>
+                <TextEquiv>
+                    <Unicode>»lch gebe sie ihm, wie sollte ich sie einem solchen Krösus nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="152,1758 1434,1758 1434,1798 152,1798"/>
+                <Baseline points="152,1797 290,1787 418,1788 601,1789 665,1789 749,1789 862,1789 1011,1797 1110,1790 1193,1790 1325,1796 1434,1789"/>
+                <TextEquiv>
+                    <Unicode>geben!» »Wir kommen ja mit einer barke», sagt der fuchs, »und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="152,1818 1436,1818 1436,1856 152,1856"/>
+                <Baseline points="152,1848 214,1856 404,1850 500,1850 587,1849 725,1848 837,1850 964,1850 1079,1850 1155,1850 1259,1850 1342,1850 1436,1849"/>
+                <TextEquiv>
+                    <Unicode>ihr, erwartet uns am ufer!» Der fuchs stellt ein floss her und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="152,1878 1434,1878 1434,1918 152,1918"/>
+                <Baseline points="152,1911 226,1909 298,1910 491,1910 631,1918 741,1909 828,1916 906,1910 1018,1910 1132,1909 1212,1910 1306,1909 1434,1908"/>
+                <TextEquiv>
+                    <Unicode>sagt zu homas: »Steig flink ein, ich warb beim zar [für dich].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="155,1938 1434,1938 1434,1976 155,1976"/>
+                <Baseline points="155,1970 289,1976 462,1970 552,1969 637,1969 718,1969 797,1970 916,1970 1096,1970 1160,1970 1321,1968 1434,1969"/>
+                <TextEquiv>
+                    <Unicode>Komm, machen wir uns auf um einen schmaus zu feiern!» Der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="153,1998 1434,1998 1434,2038 153,2038"/>
+                <Baseline points="153,2030 248,2030 375,2030 555,2030 748,2030 837,2030 928,2031 1045,2037 1197,2030 1291,2030 1434,2030"/>
+                <TextEquiv>
+                    <Unicode>fuchs führt homas hinunter auf das floss, wäscht und reinigt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="155,2059 1436,2059 1436,2099 155,2099"/>
+                <Baseline points="155,2098 234,2097 323,2091 453,2090 579,2097 667,2090 799,2098 985,2091 1052,2091 1107,2091 1258,2091 1363,2090 1436,2089"/>
+                <TextEquiv>
+                    <Unicode>[ihn] mit seiner pfote, und [dann] beginnen sie zu fahren. Der zar</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="152,2118 1434,2118 1434,2159 152,2159"/>
+                <Baseline points="152,2150 232,2150 409,2150 494,2149 640,2150 792,2150 880,2150 1096,2151 1174,2150 1345,2157 1434,2150"/>
+                <TextEquiv>
+                    <Unicode>aber erwartet mit seinem gefolge den bräutigam am strande, und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="153,2178 1432,2178 1432,2219 153,2219"/>
+                <Baseline points="153,2210 278,2210 384,2209 506,2209 617,2218 694,2210 795,2209 968,2218 1048,2210 1171,2210 1432,2210"/>
+                <TextEquiv>
+                    <Unicode>decken sind [vom ufer] bis zum vorgang des zaren ausgebreitet,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="154,2238 1432,2238 1432,2279 154,2279"/>
+                <Baseline points="154,2271 221,2270 433,2270 549,2270 628,2270 787,2271 861,2277 936,2270 1007,2270 1155,2270 1240,2270 1432,2269"/>
+                <TextEquiv>
+                    <Unicode>Der bräutigam langt am strande an, der zar kommt ihm entgegen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="154,2298 1434,2298 1434,2339 154,2339"/>
+                <Baseline points="154,2330 220,2330 338,2330 450,2330 576,2329 663,2337 750,2330 925,2331 1007,2330 1106,2331 1187,2330 1360,2339 1434,2323"/>
+                <TextEquiv>
+                    <Unicode>Der fuchs sagt: »Herr zar, mit knapper not sind wir [hierher] ge-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="151,2359 1433,2359 1433,2400 151,2400"/>
+                <Baseline points="151,2390 259,2390 400,2390 527,2391 703,2391 854,2391 986,2391 1134,2400 1329,2391 1433,2391"/>
+                <TextEquiv>
+                    <Unicode>langt: unsere barke versank. Darin waren siebzig personen. Mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="152,2419 1432,2419 1432,2460 152,2460"/>
+                <Baseline points="152,2451 252,2451 338,2451 487,2452 561,2451 651,2451 860,2451 933,2451 1009,2451 1105,2451 1259,2452 1432,2459"/>
+                <TextEquiv>
+                    <Unicode>mühe nur konnte ich den bräutigam auf das floss reissen! Schaut,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="153,2479 1433,2479 1433,2520 153,2520"/>
+                <Baseline points="153,2511 222,2511 376,2511 518,2520 593,2511 796,2518 909,2512 1034,2512 1162,2520 1293,2512 1433,2512"/>
+                <TextEquiv>
+                    <Unicode>sein ganzer anzug ist zerrissen, man muss [ihm] einen neuen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fragt: »Nun, wieviel war es?» »lch weiss nicht, — ungefähr hun-
+dert pudmass.» Der zar sagt: »Bringt [das mass] her, untersucht
+es, vielleicht haben sie gar nicht gemessen! Wenn sie gemessen
+haben, so ist etwas [in dem mass] geblieben.» Sie untersuchen
+das mass und finden in dem rindenrand geld. Der zar verwun-
+dert sich: »Was für ein reicher homas das ist!» Der fuchs sagt
+zum zaren: »Herr zar, Dhomas erbittet deine tochter [von dir]
+zur gemahlin. Gibst du sie [ihm] oder nicht?» Der zar sagt:
+»lch gebe sie ihm, wie sollte ich sie einem solchen Krösus nicht
+geben!» »Wir kommen ja mit einer barke», sagt der fuchs, »und 
+ihr, erwartet uns am ufer!» Der fuchs stellt ein floss her und 
+sagt zu homas: »Steig flink ein, ich warb beim zar [für dich].
+Komm, machen wir uns auf um einen schmaus zu feiern!» Der
+fuchs führt homas hinunter auf das floss, wäscht und reinigt
+[ihn] mit seiner pfote, und [dann] beginnen sie zu fahren. Der zar
+aber erwartet mit seinem gefolge den bräutigam am strande, und 
+decken sind [vom ufer] bis zum vorgang des zaren ausgebreitet,
+Der bräutigam langt am strande an, der zar kommt ihm entgegen.
+Der fuchs sagt: »Herr zar, mit knapper not sind wir [hierher] ge-
+langt: unsere barke versank. Darin waren siebzig personen. Mit
+mühe nur konnte ich den bräutigam auf das floss reissen! Schaut,
+sein ganzer anzug ist zerrissen, man muss [ihm] einen neuen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="156,1157 1438,1157 1438,1162 156,1162"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="241,1157 282,1157 282,1158 241,1158"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

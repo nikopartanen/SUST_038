@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:42.594+02:00</Created>
+        <LastChange>2020-08-21T11:52:23.119+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943325" pageNr="71" tsid="37554653" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=BXETFWTBFRSBSTGOQDKAXPCE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKUOKKELPKUTMTDCOCSODQAQ" imageId="13587349"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0071.jpg" imageWidth="1813" imageHeight="2944">
+        <PrintSpace>
+            <Coords points="156,249 1461,249 1461,2468 156,2468"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953383389" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3_1"/>
+                <RegionRefIndexed index="4" regionRef="r_3_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="720,255 869,255 869,285 720,285"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="721,256 868,256 868,284 721,284"/>
+                <Baseline points="721,275 733,275 802,284 868,273"/>
+                <TextEquiv>
+                    <Unicode>— 61 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 61 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="161,346 1453,346 1453,812 161,812"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="163,347 1451,347 1451,389 163,389"/>
+                <Baseline points="163,383 304,384 461,389 595,382 631,382 771,380 904,380 937,380 1070,380 1349,386 1451,379"/>
+                <TextEquiv>
+                    <Unicode>{vit̕t̕śi̮ni̮. munis, munis i pemdi. kerka voi̭is. ńorim ve̮zji̮śni̮ kutis}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="166,408 1450,408 1450,448 166,448"/>
+                <Baseline points="166,432 169,432 312,443 579,442 718,440 960,441 1126,441 1214,441 1376,441 1450,448"/>
+                <TextEquiv>
+                    <Unicode>{uźni̮. ńorime̮s le₍d̕źisni̮. ńorim šui̭is: »menam eśke̮ ńin-ke̮m em,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="164,468 1452,468 1452,511 164,511"/>
+                <Baseline points="164,503 205,503 297,504 551,502 668,502 773,500 878,501 967,501 1060,508 1331,501 1452,500"/>
+                <TextEquiv>
+                    <Unicode>{da sije̮ t̕śipanjaske̮d uźle̮.» si̮li̮ šui̭isni̮: »to-tai̭ t̕śipan-pozji̮s! śui̭!»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="162,529 1451,529 1451,571 162,571"/>
+                <Baseline points="162,564 186,564 431,563 591,561 670,561 796,561 1143,562 1178,561 1332,561 1451,561"/>
+                <TextEquiv>
+                    <Unicode>{ńorim śujis. voi̭nas t̕śḙt̕t̕śis ńorim, ńin-ke̮mse̮ i kośalis. aski}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="166,590 1451,590 1451,631 166,631"/>
+                <Baseline points="166,625 277,625 442,630 672,622 791,622 935,620 969,622 1106,622 1309,622 1451,614"/>
+                <TextEquiv>
+                    <Unicode>{babai̮s t̕śḙt̕t̕śis, t̕śipanjase̮s kutis verdni̮ i ad̕d̕źis ńin-ke̮mse̮ kośale̮-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="166,649 1452,649 1452,692 166,692"/>
+                <Baseline points="166,685 263,685 422,683 538,683 653,683 871,683 1035,683 1237,683 1452,681"/>
+                <TextEquiv>
+                    <Unicode>{mae̮ś. babai̮s šui̭is aslas muži̮ki̮sli̮: »kod-ke̮ ńin-ke̮mse̮ kośale̮ma!»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="165,710 1451,710 1451,751 165,751"/>
+                <Baseline points="165,744 242,744 306,744 416,743 453,744 545,743 622,751 724,742 814,741 896,742 1017,742 1103,742 1178,742 1334,742 1451,742"/>
+                <TextEquiv>
+                    <Unicode>{ńorim ki̮las i šue̮: »og e̮me̮i̭ ki̮v! me tenśi̮d med bur t̕śipante̮ nua!»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="164,771 837,771 837,811 164,811"/>
+                <Baseline points="164,806 189,806 485,802 578,803 658,802 837,803"/>
+                <TextEquiv>
+                    <Unicode>{ńorimli̮ śetisni̮ med bur t̕śipanse̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{vit̕t̕śi̮ni̮. munis, munis i pemdi. kerka voi̭is. ńorim ve̮zji̮śni̮ kutis}
+{uźni̮. ńorime̮s le₍d̕źisni̮. ńorim šui̭is: »menam eśke̮ ńin-ke̮m em,}
+{da sije̮ t̕śipanjaske̮d uźle̮.» si̮li̮ šui̭isni̮: »to-tai̭ t̕śipan-pozji̮s! śui̭!»}
+{ńorim śujis. voi̭nas t̕śḙt̕t̕śis ńorim, ńin-ke̮mse̮ i kośalis. aski}
+{babai̮s t̕śḙt̕t̕śis, t̕śipanjase̮s kutis verdni̮ i ad̕d̕źis ńin-ke̮mse̮ kośale̮-}
+{mae̮ś. babai̮s šui̭is aslas muži̮ki̮sli̮: »kod-ke̮ ńin-ke̮mse̮ kośale̮ma!»}
+{ńorim ki̮las i šue̮: »og e̮me̮i̭ ki̮v! me tenśi̮d med bur t̕śipante̮ nua!»}
+{ńorimli̮ śetisni̮ med bur t̕śipanse̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="163,829 1452,829 1452,1055 163,1055"/>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="266,830 1451,830 1451,871 266,871"/>
+                <Baseline points="266,864 289,864 549,863 681,863 846,863 881,863 1022,862 1166,862 1280,861 1415,862 1451,862"/>
+                <TextEquiv>
+                    <Unicode>{ńorim munis vo₍d̕źe̮ ri̮te̮₍d̕źi̮s i pemdi. kerka voi̭is. pi̮ris i}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="165,891 1448,891 1448,933 165,933"/>
+                <Baseline points="165,925 280,925 323,925 449,924 716,924 854,923 1035,924 1231,923 1366,923 1448,923"/>
+                <TextEquiv>
+                    <Unicode>{ve̮zji̮śe̮ uźni̮. ńorime̮s le₍d̕źisni̮. ńorim šue̮̭: »menam t̕śipan em.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="164,950 1450,950 1450,994 164,994"/>
+                <Baseline points="164,985 227,985 439,985 556,984 712,991 792,983 967,984 1109,983 1343,983 1450,972"/>
+                <TextEquiv>
+                    <Unicode>{sije̮ utkajaske̮d uźle̮.» »to-tai̭, śui̭ utka-pozjas!» ńorim śujis. voi̭-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="164,1012 1451,1012 1451,1054 164,1054"/>
+                <Baseline points="164,1045 225,1046 377,1046 440,1045 540,1045 720,1045 831,1045 934,1044 1090,1051 1201,1044 1337,1043 1451,1036"/>
+                <TextEquiv>
+                    <Unicode>{nas t̕śḙt̕t̕śis da vii̭is t̕śipanse̮. aski baba t̕śḙt̕t̕śis, kutis verdni̮ utka-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{ńorim munis vo₍d̕źe̮ ri̮te̮₍d̕źi̮s i pemdi. kerka voi̭is. pi̮ris i}
+{ve̮zji̮śe̮ uźni̮. ńorime̮s le₍d̕źisni̮. ńorim šue̮̭: »menam t̕śipan em.}
+{sije̮ utkajaske̮d uźle̮.» »to-tai̭, śui̭ utka-pozjas!» ńorim śujis. voi̭-}
+{nas t̕śḙt̕t̕śis da vii̭is t̕śipanse̮. aski baba t̕śḙt̕t̕śis, kutis verdni̮ utka-}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:3;}">
+            <Coords points="165,1160 1454,1160 1454,1983 165,1983"/>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="166,1161 1450,1161 1450,1201 166,1201"/>
+                <Baseline points="166,1194 224,1193 311,1193 434,1201 503,1192 716,1192 810,1191 1001,1192 1094,1192 1298,1198 1391,1192 1450,1192"/>
+                <TextEquiv>
+                    <Unicode>auf um [geld] zu verdienen. Er wanderte und wanderte, und es</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="168,1220 1452,1220 1452,1260 168,1260"/>
+                <Baseline points="168,1252 280,1253 447,1253 540,1252 653,1252 726,1251 850,1252 989,1252 1067,1251 1149,1252 1387,1252 1452,1252"/>
+                <TextEquiv>
+                    <Unicode>wurde dunkel. Er kam zu einer hütte. Der ńorim begann zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="170,1280 1452,1280 1452,1321 170,1321"/>
+                <Baseline points="170,1313 290,1320 392,1313 553,1312 634,1312 728,1312 803,1312 928,1312 985,1312 1062,1312 1195,1320 1377,1312 1452,1311"/>
+                <TextEquiv>
+                    <Unicode>flehen, man möchte ihn [für die nacht in die hütte] einlassen um</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="168,1340 1453,1340 1453,1380 168,1380"/>
+                <Baseline points="168,1372 210,1372 401,1373 526,1372 635,1373 691,1372 790,1372 970,1372 1048,1371 1130,1372 1346,1372 1453,1372"/>
+                <TextEquiv>
+                    <Unicode>zu schlafen. Man liess den ńorim ein. Der ńorim sagte: »lch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="168,1400 1452,1400 1452,1440 168,1440"/>
+                <Baseline points="168,1432 264,1433 358,1432 475,1433 693,1439 799,1432 880,1432 946,1432 1124,1431 1200,1432 1281,1433 1452,1434"/>
+                <TextEquiv>
+                    <Unicode>hätte hier einen bastschuh, aber der ist gewöhnt bei den hühnern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="168,1460 1452,1460 1452,1504 168,1504"/>
+                <Baseline points="168,1492 208,1493 405,1492 626,1493 728,1493 856,1492 923,1492 974,1492 1049,1492 1297,1493 1452,1495"/>
+                <TextEquiv>
+                    <Unicode>zu schlafen.» Sie'sagten ihm: »Dort ist ja der hühnerkäfig. Stecke</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="170,1520 1449,1520 1449,1563 170,1563"/>
+                <Baseline points="170,1563 250,1562 450,1552 515,1553 590,1554 819,1553 918,1560 1060,1552 1137,1553 1212,1552 1331,1553 1449,1555"/>
+                <TextEquiv>
+                    <Unicode>[ihn] dahinein.» Der ńorim steckte [ihn] hinein. In der nacht stand </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="167,1581 1448,1581 1448,1623 167,1623"/>
+                <Baseline points="167,1614 189,1614 280,1614 453,1614 555,1614 648,1614 788,1614 1004,1613 1176,1614 1288,1614 1448,1614"/>
+                <TextEquiv>
+                    <Unicode>der ńorim auf und riss seinen bastschuh entzwei. Am morgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="168,1642 1452,1642 1452,1682 168,1682"/>
+                <Baseline points="168,1674 268,1673 344,1674 443,1673 534,1680 690,1673 784,1673 938,1673 1003,1673 1155,1673 1248,1673 1452,1680"/>
+                <TextEquiv>
+                    <Unicode>stand die frau auf, begann ihre hühner zu füttern und gewahrte,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="168,1700 1453,1700 1453,1741 168,1741"/>
+                <Baseline points="168,1733 245,1734 336,1733 499,1741 590,1733 798,1733 1107,1733 1259,1733 1361,1734 1453,1733"/>
+                <TextEquiv>
+                    <Unicode>dass [die hühner] den bastschuh entzweigerissen hatten. Die frau</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="168,1761 1452,1761 1452,1802 168,1802"/>
+                <Baseline points="168,1793 262,1793 334,1793 465,1794 632,1794 762,1793 845,1793 979,1792 1188,1792 1452,1784"/>
+                <TextEquiv>
+                    <Unicode>sagte zu ihrem manne: »Eins hat seinen bastschuh entzweigeris-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="169,1821 1453,1821 1453,1861 169,1861"/>
+                <Baseline points="169,1853 259,1851 333,1852 425,1854 618,1853 686,1854 789,1853 915,1853 1072,1853 1155,1859 1233,1852 1336,1852 1453,1854"/>
+                <TextEquiv>
+                    <Unicode>sen!» Der ńorim hört es und sagt: »Meint ihr, ich höre nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="173,1881 1449,1881 1449,1921 173,1921"/>
+                <Baseline points="173,1921 251,1912 333,1913 408,1913 602,1913 708,1912 852,1913 926,1913 1012,1912 1143,1913 1220,1912 1308,1913 1449,1921"/>
+                <TextEquiv>
+                    <Unicode>[was ihr da sprecht]! Ich nehme dir [als ersatz für den schuh]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="169,1941 1450,1941 1450,1982 169,1982"/>
+                <Baseline points="169,1974 245,1974 390,1973 518,1973 650,1974 745,1973 886,1973 930,1973 1030,1973 1189,1973 1323,1973 1450,1973"/>
+                <TextEquiv>
+                    <Unicode>dein bestes huhn weg.» Sie gaben dem ńorim ihr bestes huhn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf um [geld] zu verdienen. Er wanderte und wanderte, und es
+wurde dunkel. Er kam zu einer hütte. Der ńorim begann zu
+flehen, man möchte ihn [für die nacht in die hütte] einlassen um
+zu schlafen. Man liess den ńorim ein. Der ńorim sagte: »lch
+hätte hier einen bastschuh, aber der ist gewöhnt bei den hühnern
+zu schlafen.» Sie'sagten ihm: »Dort ist ja der hühnerkäfig. Stecke
+[ihn] dahinein.» Der ńorim steckte [ihn] hinein. In der nacht stand 
+der ńorim auf und riss seinen bastschuh entzwei. Am morgen
+stand die frau auf, begann ihre hühner zu füttern und gewahrte,
+dass [die hühner] den bastschuh entzweigerissen hatten. Die frau
+sagte zu ihrem manne: »Eins hat seinen bastschuh entzweigeris-
+sen!» Der ńorim hört es und sagt: »Meint ihr, ich höre nicht
+[was ihr da sprecht]! Ich nehme dir [als ersatz für den schuh]
+dein bestes huhn weg.» Sie gaben dem ńorim ihr bestes huhn.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:4;}">
+            <Coords points="168,2000 1455,2000 1455,2462 168,2462"/>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="273,2001 1451,2001 1451,2042 273,2042"/>
+                <Baseline points="273,2034 302,2034 384,2034 568,2042 641,2034 740,2034 872,2034 1020,2040 1115,2033 1166,2033 1294,2033 1451,2034"/>
+                <TextEquiv>
+                    <Unicode>Der ńorim ging bis zum abend weiter, und es wurde dunkel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="171,2061 1453,2061 1453,2099 171,2099"/>
+                <Baseline points="171,2094 216,2093 323,2094 395,2094 514,2094 646,2094 739,2094 835,2094 972,2093 1064,2093 1183,2099 1287,2093 1453,2094"/>
+                <TextEquiv>
+                    <Unicode>Er kam zu einer hütte. Er trat hinein und fleht, man möchte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="170,2122 1453,2122 1453,2163 170,2163"/>
+                <Baseline points="170,2154 227,2154 330,2155 411,2155 552,2163 749,2155 838,2153 912,2154 1104,2154 1203,2155 1352,2153 1453,2154"/>
+                <TextEquiv>
+                    <Unicode>ihn [für die nacht] einlassen um zu schlafen. Sie liessen den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="169,2182 1454,2182 1454,2223 169,2223"/>
+                <Baseline points="169,2214 192,2214 373,2216 451,2214 540,2214 744,2214 855,2214 974,2214 1058,2213 1194,2214 1311,2214 1378,2214 1454,2205"/>
+                <TextEquiv>
+                    <Unicode>{ńorim ein. Der ńorim sagt: »lch habe ein huhn. Das ist ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="171,2242 1451,2242 1451,2283 171,2283"/>
+                <Baseline points="171,2273 285,2274 360,2274 449,2275 572,2274 638,2274 836,2272 969,2274 1080,2276 1159,2281 1231,2280 1367,2273 1451,2282"/>
+                <TextEquiv>
+                    <Unicode>wöhnt bei den enten zu schlafen.» »Dort [sind sie] ja, stecke [es]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="170,2302 1453,2302 1453,2342 170,2342"/>
+                <Baseline points="170,2333 204,2333 298,2334 554,2334 629,2334 709,2334 945,2334 1003,2334 1148,2334 1235,2333 1322,2333 1453,2333"/>
+                <TextEquiv>
+                    <Unicode>in den entenkäfig!» Der ńorim steckte es hinein. In der nacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="170,2361 1454,2361 1454,2401 170,2401"/>
+                <Baseline points="170,2392 270,2393 340,2393 428,2393 528,2393 663,2393 756,2393 883,2394 995,2393 1154,2392 1279,2395 1356,2394 1454,2393"/>
+                <TextEquiv>
+                    <Unicode>stand er auf und tötete sein huhn. Am morgen stand die frau</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="171,2421 1454,2421 1454,2461 171,2461"/>
+                <Baseline points="171,2454 239,2459 405,2454 490,2453 624,2453 698,2454 856,2453 956,2454 1054,2460 1156,2453 1251,2461 1338,2454 1454,2453"/>
+                <TextEquiv>
+                    <Unicode>auf, begann die enten zu füttern und sah, dass [sie] das huhn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der ńorim ging bis zum abend weiter, und es wurde dunkel.
+Er kam zu einer hütte. Er trat hinein und fleht, man möchte
+ihn [für die nacht] einlassen um zu schlafen. Sie liessen den
+{ńorim ein. Der ńorim sagt: »lch habe ein huhn. Das ist ge-
+wöhnt bei den enten zu schlafen.» »Dort [sind sie] ja, stecke [es]
+in den entenkäfig!» Der ńorim steckte es hinein. In der nacht
+stand er auf und tötete sein huhn. Am morgen stand die frau
+auf, begann die enten zu füttern und sah, dass [sie] das huhn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="280,1093 712,1093 712,1096 280,1096"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-17T10:08:29.283+02:00</Created>
+        <LastChange>2020-08-17T11:38:48.056+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943399" pageNr="107" tsid="37085704" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=SMFFXMODTWJRLHOWPWWXOBVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TNLBOXYFBARILGMBIPBMZTHK" imageId="13587423"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0107.jpg" imageWidth="1797" imageHeight="2942">
+        <PrintSpace>
+            <Coords points="126,244 1443,244 1443,2505 126,2505"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953387680" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3_1"/>
+                <RegionRefIndexed index="4" regionRef="r_3_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="759,251 868,251 868,281 759,281"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="760,252 867,252 867,280 760,280"/>
+                <Baseline points="760,280 779,280 867,271"/>
+                <TextEquiv>
+                    <Unicode>97 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>97 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="132,342 1427,342 1427,868 132,868"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="133,343 1422,343 1422,386 133,386"/>
+                <Baseline points="133,377 179,378 339,376 549,376 704,376 823,381 878,383 995,375 1208,375 1327,382 1422,375"/>
+                <TextEquiv>
+                    <Unicode>{da perevoz ki̮r-ke̮₍tšas voasni̮. seti̮ś petas usi̮ńe̮: »me tianli̮ med}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="137,402 1426,402 1426,445 137,445"/>
+                <Baseline points="137,438 220,438 294,437 386,437 587,443 702,435 770,442 827,435 918,435 1138,436 1261,435 1426,442"/>
+                <TextEquiv>
+                    <Unicode>{i₍t̕śe̮t vok loa». munasni̮, munasni̮, da voas kujim-suda kerka. pi̮rasni̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="139,463 1422,463 1422,507 139,507"/>
+                <Baseline points="139,507 283,497 432,496 526,497 661,496 769,496 954,494 1081,496 1146,497 1290,495 1388,495 1422,496"/>
+                <TextEquiv>
+                    <Unicode>{pi̮tškas: ńe-kod abu. karta vi̮las ad̕d̕źasni̮ kujim e̮š. e̮t̕ike̮s naje̮ i}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="139,524 1421,524 1421,566 139,566"/>
+                <Baseline points="139,557 327,565 469,555 524,557 714,557 755,557 1036,556 1064,556 1098,564 1421,562"/>
+                <TextEquiv>
+                    <Unicode>{nat̕śkasni̮, puasni̮ da pe̮žalasni̮. seśśa mika·i̭le̮ i ge̮ri·ńe̮ munasni̮,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="137,584 1422,584 1422,627 137,627"/>
+                <Baseline points="137,619 158,619 204,619 255,618 467,618 559,616 713,618 871,616 1096,617 1192,624 1290,616 1422,606"/>
+                <TextEquiv>
+                    <Unicode>{a usi̮ńe̮se̮ gorte̮ ovni̮ kol̕asni̮. ńe-una ne̮re̮vit-mi̮śt drug petis džodž-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="141,644 1424,644 1424,688 141,688"/>
+                <Baseline points="141,679 160,679 242,678 425,680 558,676 674,678 820,677 876,684 1002,677 1066,677 1159,678 1187,678 1304,677 1424,677"/>
+                <TextEquiv>
+                    <Unicode>{uli̮ś i₍t̕śe̮t d̕a̭d̕e̮. uśke̮d̕t̕śas usi̮ńe̮ vi̮le̮, ne̮i̭tas da t̕śḙl̕e̮ i śujas. a₍t̕śi̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="138,705 1422,705 1422,747 138,747"/>
+                <Baseline points="138,747 317,738 380,738 590,736 626,737 721,737 785,737 1008,736 1038,737 1119,736 1286,734 1422,743"/>
+                <TextEquiv>
+                    <Unicode>{pesovt̕t̕śas da turun-jure̮ i pe̮re̮ da džodž-roźas i uśe̮. loktasni̮ vokjas,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="139,765 1424,765 1424,806 139,806"/>
+                <Baseline points="139,798 273,804 399,797 446,798 585,798 805,798 894,797 1017,797 1081,797 1141,804 1264,794 1424,797"/>
+                <TextEquiv>
+                    <Unicode>{kutasni̮ korni̮ śoi̭ni̮. usi̮ńe̮ šuas: »me kol̕mi da og vermi̮ verdni̮.»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="136,825 635,825 635,867 136,867"/>
+                <Baseline points="136,857 227,857 327,858 441,857 477,857 635,858"/>
+                <TextEquiv>
+                    <Unicode>{seśśa naje̮ aśni̮s i śojasni̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{da perevoz ki̮r-ke̮₍tšas voasni̮. seti̮ś petas usi̮ńe̮: »me tianli̮ med}
+{i₍t̕śe̮t vok loa». munasni̮, munasni̮, da voas kujim-suda kerka. pi̮rasni̮}
+{pi̮tškas: ńe-kod abu. karta vi̮las ad̕d̕źasni̮ kujim e̮š. e̮t̕ike̮s naje̮ i}
+{nat̕śkasni̮, puasni̮ da pe̮žalasni̮. seśśa mika·i̭le̮ i ge̮ri·ńe̮ munasni̮,}
+{a usi̮ńe̮se̮ gorte̮ ovni̮ kol̕asni̮. ńe-una ne̮re̮vit-mi̮śt drug petis džodž-}
+{uli̮ś i₍t̕śe̮t d̕a̭d̕e̮. uśke̮d̕t̕śas usi̮ńe̮ vi̮le̮, ne̮i̭tas da t̕śḙl̕e̮ i śujas. a₍t̕śi̮s}
+{pesovt̕t̕śas da turun-jure̮ i pe̮re̮ da džodž-roźas i uśe̮. loktasni̮ vokjas,}
+{kutasni̮ korni̮ śoi̭ni̮. usi̮ńe̮ šuas: »me kol̕mi da og vermi̮ verdni̮.»}
+{seśśa naje̮ aśni̮s i śojasni̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="135,883 1427,883 1427,1107 135,1107"/>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="245,884 1424,884 1424,926 245,926"/>
+                <Baseline points="245,917 317,918 424,919 517,918 570,916 768,916 830,917 978,916 1012,917 1215,917 1347,916 1424,906"/>
+                <TextEquiv>
+                    <Unicode>{aski naje̮ me̮d e̮š nat̕śkasni̮ da puasni̮ i pe̮žalasni̮. seśśa ko-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="136,944 1426,944 1426,986 136,986"/>
+                <Baseline points="136,976 233,976 273,986 357,978 626,975 689,976 744,977 767,977 842,960 907,977 943,976 981,976 1267,976 1426,966"/>
+                <TextEquiv>
+                    <Unicode>{l̕asni̮ ge̮ri·ńe̮e̮s gortavni̮ da mika·i̭le̮ i usi̮ńe̮ munasni̮. ńe-di̮r-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="142,1004 1425,1004 1425,1046 142,1046"/>
+                <Baseline points="142,1038 220,1038 321,1038 427,1038 536,1038 630,1037 724,1044 814,1037 862,1034 934,1036 1121,1036 1199,1040 1425,1034"/>
+                <TextEquiv>
+                    <Unicode>{mi̮śt bara d̕a̭d̕e̮ voas: »atte̮ d̕ive̮, me̮d e̮š ńin śoje̮mae̮ś! lok, vermaśam!»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="136,1064 1425,1064 1425,1106 136,1106"/>
+                <Baseline points="136,1095 152,1095 261,1105 587,1097 626,1097 713,1105 1036,1096 1099,1096 1226,1096 1290,1096 1390,1096 1425,1097"/>
+                <TextEquiv>
+                    <Unicode>{šuas ge̮ri·ńe̮li̮. seśśa sije̮ ge̮ri·ńe̮e̮s ne̮i̭tas da ne̮i̭tas da t̕śḙl̕e̮ i}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{aski naje̮ me̮d e̮š nat̕śkasni̮ da puasni̮ i pe̮žalasni̮. seśśa ko-}
+{l̕asni̮ ge̮ri·ńe̮e̮s gortavni̮ da mika·i̭le̮ i usi̮ńe̮ munasni̮. ńe-di̮r-}
+{mi̮śt bara d̕a̭d̕e̮ voas: »atte̮ d̕ive̮, me̮d e̮š ńin śoje̮mae̮ś! lok, vermaśam!»}
+{šuas ge̮ri·ńe̮li̮. seśśa sije̮ ge̮ri·ńe̮e̮s ne̮i̭tas da ne̮i̭tas da t̕śḙl̕e̮ i}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:3;}">
+            <Coords points="138,1192 1433,1192 1433,2078 138,2078"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="140,1193 1426,1193 1426,1236 140,1236"/>
+                <Baseline points="140,1227 305,1227 381,1227 494,1227 799,1227 919,1225 1036,1225 1165,1226 1334,1225 1426,1225"/>
+                <TextEquiv>
+                    <Unicode>abschuss bei einer übergangsstelle [über einen fluss]. Heraus [aus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="140,1254 1427,1254 1427,1295 140,1295"/>
+                <Baseline points="140,1287 220,1286 427,1295 595,1286 777,1285 888,1286 976,1284 1083,1285 1255,1285 1427,1283"/>
+                <TextEquiv>
+                    <Unicode>dem abschuss] kommt Usynja: »lch bin euer jüngster bruder.»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="145,1314 1428,1314 1428,1355 145,1355"/>
+                <Baseline points="145,1355 371,1355 570,1346 666,1352 857,1346 959,1346 1150,1345 1225,1345 1309,1345 1428,1338"/>
+                <TextEquiv>
+                    <Unicode>[Zusammen] wandern sie, wandern und gelangen an ein drei-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="139,1374 1426,1374 1426,1416 139,1416"/>
+                <Baseline points="139,1407 309,1407 435,1407 535,1407 675,1406 838,1407 907,1407 983,1406 1174,1407 1314,1406 1426,1406"/>
+                <TextEquiv>
+                    <Unicode>stöckiges haus. Sie treten hinein: es ist niemand [dort]. Auf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="143,1434 1426,1434 1426,1472 143,1472"/>
+                <Baseline points="143,1467 222,1468 414,1467 548,1467 627,1467 730,1465 896,1467 1056,1466 1155,1465 1286,1466 1426,1472"/>
+                <TextEquiv>
+                    <Unicode>dem viehhofe sehen sie drei ochsen. Einen von ihnen töten,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="144,1494 1427,1494 1427,1534 144,1534"/>
+                <Baseline points="144,1527 275,1527 378,1528 529,1527 617,1527 793,1525 922,1525 1066,1525 1158,1525 1333,1526 1427,1533"/>
+                <TextEquiv>
+                    <Unicode>kochen und braten sie. Darauf gehen Michel und Gorynja aus,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="144,1554 1427,1554 1427,1596 144,1596"/>
+                <Baseline points="144,1588 278,1588 382,1588 511,1587 580,1587 652,1587 870,1586 1027,1585 1168,1586 1282,1586 1427,1586"/>
+                <TextEquiv>
+                    <Unicode>Usynja aber lassen sie als haushalter zurück. Nach einer kurzen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="141,1614 1427,1614 1427,1656 141,1656"/>
+                <Baseline points="141,1648 211,1648 370,1648 464,1648 645,1647 768,1647 848,1646 952,1646 1088,1646 1157,1646 1298,1646 1427,1646"/>
+                <TextEquiv>
+                    <Unicode>zeit erhebte sich plötzlich unter der diele hervor ein kleiner mann.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="148,1674 1429,1674 1429,1716 148,1716"/>
+                <Baseline points="148,1708 193,1708 332,1707 425,1709 508,1707 672,1714 829,1706 935,1714 1033,1707 1165,1706 1273,1714 1334,1706 1429,1707"/>
+                <TextEquiv>
+                    <Unicode>Er stürzt sich auf Usynja, prügelt [ihn] und steckt [ihn] in eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="143,1736 1430,1736 1430,1777 143,1777"/>
+                <Baseline points="143,1769 255,1769 325,1768 408,1768 552,1768 639,1767 765,1767 970,1767 1178,1767 1266,1768 1430,1757"/>
+                <TextEquiv>
+                    <Unicode>spalte [in der wand]. Er selbst schrumpft zusammen und verwan-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="145,1795 1430,1795 1430,1829 145,1829"/>
+                <Baseline points="145,1829 219,1828 310,1828 368,1828 487,1828 702,1828 797,1828 895,1827 1024,1827 1099,1827 1197,1827 1253,1827 1330,1827 1430,1827"/>
+                <TextEquiv>
+                    <Unicode>delt sich in einen heuhaufen und fällt durch ein loch in der diele</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="148,1855 1431,1855 1431,1896 148,1896"/>
+                <Baseline points="148,1888 263,1889 371,1889 528,1888 717,1888 860,1895 938,1888 1086,1887 1154,1887 1270,1886 1335,1887 1431,1877"/>
+                <TextEquiv>
+                    <Unicode>hinab. Die brüder kommen herzu, sie fangen an essen zu ver-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="148,1915 1432,1915 1432,1957 148,1957"/>
+                <Baseline points="148,1948 279,1948 449,1949 562,1948 661,1948 772,1948 1023,1947 1078,1947 1167,1947 1267,1947 1432,1946"/>
+                <TextEquiv>
+                    <Unicode>langen. Usynja sagt: »lch habe kohlendunst in den kopf gekriegt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="147,1974 1432,1974 1432,2015 147,2015"/>
+                <Baseline points="147,2008 217,2008 340,2008 457,2008 596,2008 659,2008 776,2007 933,2005 1107,2006 1269,2006 1339,2006 1432,2006"/>
+                <TextEquiv>
+                    <Unicode>und kann euch nichts zu essen geben.» Darauf machen sie sich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="144,2035 844,2035 844,2077 144,2077"/>
+                <Baseline points="144,2068 257,2068 373,2068 533,2068 632,2068 748,2067 844,2068"/>
+                <TextEquiv>
+                    <Unicode>selber essen zurecht [eig. essen sie].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>abschuss bei einer übergangsstelle [über einen fluss]. Heraus [aus
+dem abschuss] kommt Usynja: »lch bin euer jüngster bruder.»
+[Zusammen] wandern sie, wandern und gelangen an ein drei-
+stöckiges haus. Sie treten hinein: es ist niemand [dort]. Auf
+dem viehhofe sehen sie drei ochsen. Einen von ihnen töten,
+kochen und braten sie. Darauf gehen Michel und Gorynja aus,
+Usynja aber lassen sie als haushalter zurück. Nach einer kurzen
+zeit erhebte sich plötzlich unter der diele hervor ein kleiner mann.
+Er stürzt sich auf Usynja, prügelt [ihn] und steckt [ihn] in eine
+spalte [in der wand]. Er selbst schrumpft zusammen und verwan-
+delt sich in einen heuhaufen und fällt durch ein loch in der diele
+hinab. Die brüder kommen herzu, sie fangen an essen zu ver-
+langen. Usynja sagt: »lch habe kohlendunst in den kopf gekriegt
+und kann euch nichts zu essen geben.» Darauf machen sie sich
+selber essen zurecht [eig. essen sie].</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:4;}">
+            <Coords points="145,2093 1437,2093 1437,2499 145,2499"/>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="254,2094 1432,2094 1432,2137 254,2137"/>
+                <Baseline points="254,2128 317,2128 519,2129 602,2136 719,2127 790,2128 878,2127 1040,2126 1185,2125 1280,2126 1432,2124"/>
+                <TextEquiv>
+                    <Unicode>Am folgenden tag töten sie den zweiten ochsen und kochen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="149,2155 1432,2155 1432,2195 149,2195"/>
+                <Baseline points="149,2188 220,2189 372,2189 462,2189 607,2188 739,2188 811,2187 987,2187 1057,2186 1275,2186 1432,2190"/>
+                <TextEquiv>
+                    <Unicode>und braten ihn. Dann lassen sie Gorynja als haushalter zurück,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="148,2213 1434,2213 1434,2257 148,2257"/>
+                <Baseline points="148,2248 220,2249 364,2248 456,2249 612,2249 739,2247 834,2248 967,2247 1114,2246 1194,2246 1342,2246 1434,2239"/>
+                <TextEquiv>
+                    <Unicode>und Michel und Usynja gehen aus. Nach einiger zeit kommt wie-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="146,2275 1432,2275 1432,2314 146,2314"/>
+                <Baseline points="146,2309 208,2308 300,2309 432,2309 598,2309 739,2308 910,2314 1036,2307 1125,2306 1288,2306 1432,2306"/>
+                <TextEquiv>
+                    <Unicode>der der mann hervor: »Gotts wunder, schon den zweiten ochsen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="150,2334 1435,2334 1435,2378 150,2378"/>
+                <Baseline points="150,2370 260,2369 341,2369 549,2369 720,2368 819,2374 1038,2366 1127,2366 1267,2366 1435,2363"/>
+                <TextEquiv>
+                    <Unicode>haben sie gegessen! Komm her, versuchen wir unsere kräfte!»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="147,2394 1433,2394 1433,2439 147,2439"/>
+                <Baseline points="147,2430 227,2429 295,2430 366,2429 559,2430 706,2429 862,2427 953,2427 1110,2427 1168,2426 1342,2426 1433,2425"/>
+                <TextEquiv>
+                    <Unicode>sagt er zu Gorynja. Dann prügelt und prügelt er Gorynja und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="150,2453 1436,2453 1436,2498 150,2498"/>
+                <Baseline points="150,2490 265,2490 372,2498 431,2489 527,2489 650,2489 715,2488 791,2487 929,2489 1011,2487 1128,2486 1350,2485 1436,2484"/>
+                <TextEquiv>
+                    <Unicode>steckt [ihn] in eine spalte [in der wand]. Er selbst verwandelt sich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Am folgenden tag töten sie den zweiten ochsen und kochen
+und braten ihn. Dann lassen sie Gorynja als haushalter zurück,
+und Michel und Usynja gehen aus. Nach einiger zeit kommt wie-
+der der mann hervor: »Gotts wunder, schon den zweiten ochsen
+haben sie gegessen! Komm her, versuchen wir unsere kräfte!»
+sagt er zu Gorynja. Dann prügelt und prügelt er Gorynja und 
+steckt [ihn] in eine spalte [in der wand]. Er selbst verwandelt sich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="142,1136 1398,1136 1398,1140 142,1140"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

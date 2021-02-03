@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-19T13:26:12.792+02:00</Created>
+        <LastChange>2020-08-19T13:43:30.518+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: Finnish
+                Language: RussianOldSpelling
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943695" pageNr="219" tsid="37293334" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=XWUEODILKLCBHLZXSWQAZDFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSUMMSTSTPKTNBEYCRLALSIO" imageId="13587719"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0219.jpg" imageWidth="1793" imageHeight="2926">
+        <PrintSpace>
+            <Coords points="161,249 1448,249 1448,2539 161,2539"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953401503" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_3_1"/>
+                <RegionRefIndexed index="5" regionRef="r_3_2"/>
+                <RegionRefIndexed index="6" regionRef="r_3_3"/>
+                <RegionRefIndexed index="7" regionRef="r_3_4"/>
+                <RegionRefIndexed index="8" regionRef="r_4_1"/>
+                <RegionRefIndexed index="9" regionRef="r_4_2"/>
+                <RegionRefIndexed index="10" regionRef="r_4_3"/>
+                <RegionRefIndexed index="11" regionRef="r_4_4"/>
+                <RegionRefIndexed index="12" regionRef="r_4_5"/>
+                <RegionRefIndexed index="13" regionRef="r_4_6"/>
+                <RegionRefIndexed index="14" regionRef="r_4_7"/>
+                <RegionRefIndexed index="15" regionRef="r_4_8"/>
+                <RegionRefIndexed index="16" regionRef="r_4_9"/>
+                <RegionRefIndexed index="17" regionRef="r_4_10"/>
+                <RegionRefIndexed index="18" regionRef="r_4_11"/>
+                <RegionRefIndexed index="19" regionRef="r_4_12"/>
+                <RegionRefIndexed index="20" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="695,255 889,255 889,287 695,287"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="696,256 888,256 888,286 696,286"/>
+                <Baseline points="696,276 737,276 779,285 888,276"/>
+                <TextEquiv>
+                    <Unicode>— 209 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 209 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="526,349 871,349 871,452 526,452"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="527,350 862,350 862,391 527,391"/>
+                <Baseline points="527,382 711,383 862,389"/>
+                <TextEquiv>
+                    <Unicode>{de̮re̮mani̮s džeńi̮d,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="527,410 870,410 870,451 527,451"/>
+                <Baseline points="527,450 549,450 601,441 687,442 704,440 870,441"/>
+                <TextEquiv>
+                    <Unicode>{patre̮pani̮s paśki̮d.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{de̮re̮mani̮s džeńi̮d,}
+{patre̮pani̮s paśki̮d.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="475,470 872,470 872,512 475,512"/>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="476,471 871,471 871,511 476,511"/>
+                <Baseline points="476,501 488,501 765,502 871,510"/>
+                <TextEquiv>
+                    <Unicode>{5. sape̮g-ge̮l̕ḙńi̮s ge̮rd,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{5. sape̮g-ge̮l̕ḙńi̮s ge̮rd,}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+            <Coords points="523,529 1047,529 1047,753 523,753"/>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="524,530 996,530 996,573 524,573"/>
+                <Baseline points="524,563 696,563 844,563 903,571 996,570"/>
+                <TextEquiv>
+                    <Unicode>{ispravńik vo₍d̕źi̮n og pov,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="527,592 1001,592 1001,633 527,633"/>
+                <Baseline points="527,622 553,622 889,624 1001,624"/>
+                <TextEquiv>
+                    <Unicode>{d̕emeńte̮i̭ vo₍d̕źi̮n pola:}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="528,651 953,651 953,693 528,693"/>
+                <Baseline points="528,683 565,683 683,684 831,684 953,686"/>
+                <TextEquiv>
+                    <Unicode>{as koźin vo₍d̕źi̮n mi̮ža.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="526,708 1046,708 1046,752 526,752"/>
+                <Baseline points="526,742 632,742 739,750 887,743 1046,744"/>
+                <TextEquiv>
+                    <Unicode>{i₍t̕ś-iń d̕a̭d̕e̮ vo₍d̕źi̮n vinovat.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{ispravńik vo₍d̕źi̮n og pov,}
+{d̕emeńte̮i̭ vo₍d̕źi̮n pola:}
+{as koźin vo₍d̕źi̮n mi̮ža.}
+{i₍t̕ś-iń d̕a̭d̕e̮ vo₍d̕źi̮n vinovat.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:4;}">
+            <Coords points="670,905 939,905 939,948 670,948"/>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="671,906 938,906 938,947 671,947"/>
+                <Baseline points="671,940 708,939 938,940"/>
+                <TextEquiv>
+                    <Unicode>C. Vyčegda.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>C. Vyčegda.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:5;}">
+            <Coords points="683,982 925,982 925,1025 683,1025"/>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="684,983 924,983 924,1024 684,1024"/>
+                <Baseline points="684,1023 924,1024"/>
+                <TextEquiv>
+                    <Unicode>(Ust̕sysol̕sk.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Ust̕sysol̕sk.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:6;}">
+            <Coords points="773,1080 823,1080 823,1110 773,1110"/>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="774,1081 822,1081 822,1109 774,1109"/>
+                <Baseline points="774,1109 789,1109 822,1109"/>
+                <TextEquiv>
+                    <Unicode>15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_4" custom="readingOrder {index:7;}">
+            <Coords points="478,1151 919,1151 919,1433 478,1433"/>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="528,1152 749,1152 749,1186 528,1186"/>
+                <Baseline points="528,1185 541,1185 749,1186"/>
+                <TextEquiv>
+                    <Unicode>{ižva kuźa}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="527,1213 846,1213 846,1247 527,1247"/>
+                <Baseline points="527,1245 634,1245 714,1246 846,1246"/>
+                <TextEquiv>
+                    <Unicode>{mi₍t̕śa ni̮v ve̮rale̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="529,1272 751,1272 751,1313 529,1313"/>
+                <Baseline points="529,1304 566,1304 751,1312"/>
+                <TextEquiv>
+                    <Unicode>{»ni̮le̮i̭, ni̮le̮i̭,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="530,1332 918,1332 918,1373 530,1373"/>
+                <Baseline points="530,1364 562,1364 618,1364 818,1366 918,1363"/>
+                <TextEquiv>
+                    <Unicode>{me saje̮ munan on?»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="479,1400 868,1400 868,1432 479,1432"/>
+                <Baseline points="479,1423 490,1423 543,1422 636,1425 737,1425 868,1432"/>
+                <TextEquiv>
+                    <Unicode>{5. »og mun, og mun,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{ižva kuźa}
+{mi₍t̕śa ni̮v ve̮rale̮.}
+{»ni̮le̮i̭, ni̮le̮i̭,}
+{me saje̮ munan on?»}
+{5. »og mun, og mun,}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:8;}">
+            <Coords points="218,1520 683,1520 683,1621 218,1621"/>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="219,1521 682,1521 682,1560 219,1560"/>
+                <Baseline points="219,1553 287,1553 498,1553 565,1554 682,1560"/>
+                <TextEquiv>
+                    <Unicode>Das hemdchen ist kurz,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="219,1581 649,1581 649,1620 219,1620"/>
+                <Baseline points="219,1613 271,1614 537,1614 649,1620"/>
+                <TextEquiv>
+                    <Unicode>die kattunblouse weit,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das hemdchen ist kurz,
+die kattunblouse weit,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_2" custom="readingOrder {index:9;}">
+            <Coords points="167,1639 627,1639 627,1681 167,1681"/>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="168,1640 626,1640 626,1680 168,1680"/>
+                <Baseline points="168,1672 190,1673 272,1673 537,1675 626,1680"/>
+                <TextEquiv>
+                    <Unicode>5. die stiefelschäfte rot,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5. die stiefelschäfte rot,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_3" custom="readingOrder {index:10;}">
+            <Coords points="221,1700 1001,1700 1001,1743 221,1743"/>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="222,1701 1000,1701 1000,1742 222,1742"/>
+                <Baseline points="222,1741 348,1742 440,1733 641,1734 796,1734 872,1733 1000,1741"/>
+                <TextEquiv>
+                    <Unicode>[selbst] den ispravnik fürchte ich nicht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>[selbst] den ispravnik fürchte ich nicht,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_4" custom="readingOrder {index:11;}">
+            <Coords points="221,1760 936,1760 936,1803 221,1803"/>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="222,1761 935,1761 935,1802 222,1802"/>
+                <Baseline points="222,1801 323,1801 412,1793 634,1793 701,1794 788,1793 935,1794"/>
+                <TextEquiv>
+                    <Unicode>[aber] vor Dementius ist mir bange:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>[aber] vor Dementius ist mir bange:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_5" custom="readingOrder {index:12;}">
+            <Coords points="217,1820 1442,1820 1442,1864 217,1864"/>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="218,1821 1441,1821 1441,1863 218,1863"/>
+                <Baseline points="218,1853 330,1852 453,1853 669,1853 733,1853 899,1862 1117,1854 1214,1854 1305,1855 1441,1855"/>
+                <TextEquiv>
+                    <Unicode>wegen eines [vielleicht zu kleinen] geschenks von mir [fühle</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wegen eines [vielleicht zu kleinen] geschenks von mir [fühle</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_6" custom="readingOrder {index:13;}">
+            <Coords points="977,1881 1402,1881 1402,1924 977,1924"/>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="978,1882 1401,1882 1401,1923 978,1923"/>
+                <Baseline points="978,1913 1042,1920 1123,1914 1211,1922 1401,1921"/>
+                <TextEquiv>
+                    <Unicode>ich, bin ich] schuldig.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ich, bin ich] schuldig.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_7" custom="readingOrder {index:14;}">
+            <Coords points="221,1939 1441,1939 1441,2043 221,2043"/>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="222,1940 1440,1940 1440,1982 222,1982"/>
+                <Baseline points="222,1981 330,1979 419,1972 567,1972 686,1973 811,1973 900,1973 981,1981 1153,1982 1270,1974 1354,1975 1440,1975"/>
+                <TextEquiv>
+                    <Unicode>[auch] vor meiner tante mann [bin ich] schuldig [denn von ihm</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="545,2000 1439,2000 1439,2042 545,2042"/>
+                <Baseline points="545,2032 630,2032 708,2032 792,2032 889,2033 953,2033 1054,2033 1242,2034 1439,2035"/>
+                <TextEquiv>
+                    <Unicode>habe ich das geld zu dem geschenk geliehen].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>[auch] vor meiner tante mann [bin ich] schuldig [denn von ihm
+habe ich das geld zu dem geschenk geliehen].</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_8" custom="readingOrder {index:15;}">
+            <Coords points="776,2132 827,2132 827,2164 776,2164"/>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="777,2133 826,2133 826,2163 777,2163"/>
+                <Baseline points="777,2161 792,2161 826,2162"/>
+                <TextEquiv>
+                    <Unicode>15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_9" custom="readingOrder {index:16;}">
+            <Coords points="374,2206 1023,2206 1023,2309 374,2309"/>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="376,2207 1022,2207 1022,2248 376,2248"/>
+                <Baseline points="376,2240 486,2240 588,2239 684,2239 765,2240 906,2240 1022,2240"/>
+                <TextEquiv>
+                    <Unicode>Längs dem ufer des flusses lžma</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="375,2268 956,2268 956,2308 375,2308"/>
+                <Baseline points="375,2307 448,2299 544,2300 691,2299 807,2300 956,2300"/>
+                <TextEquiv>
+                    <Unicode>jagt eine schöne maid umher.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Längs dem ufer des flusses lžma
+jagt eine schöne maid umher.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_10" custom="readingOrder {index:17;}">
+            <Coords points="375,2325 999,2325 999,2369 375,2369"/>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="376,2326 998,2326 998,2368 376,2368"/>
+                <Baseline points="376,2359 478,2359 684,2366 796,2359 998,2367"/>
+                <TextEquiv>
+                    <Unicode>»Mein mägdlein, mein mägdlein,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>»Mein mägdlein, mein mägdlein,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_11" custom="readingOrder {index:18;}">
+            <Coords points="375,2386 1189,2386 1189,2430 375,2430"/>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="376,2387 1188,2387 1188,2429 376,2429"/>
+                <Baseline points="376,2427 472,2419 559,2419 628,2420 701,2420 812,2420 929,2420 1034,2420 1188,2418"/>
+                <TextEquiv>
+                    <Unicode>gehst mit du als mein eigen oder nicht?»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gehst mit du als mein eigen oder nicht?»</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_12" custom="readingOrder {index:19;}">
+            <Coords points="324,2446 979,2446 979,2490 324,2490"/>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="325,2447 978,2447 978,2489 325,2489"/>
+                <Baseline points="325,2478 348,2479 489,2487 602,2487 681,2480 766,2480 883,2480 978,2487"/>
+                <TextEquiv>
+                    <Unicode>5. »Nein, nein, ich geh nicht mit,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5. »Nein, nein, ich geh nicht mit,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:20;}">
+            <Coords points="1309,2506 1340,2506 1340,2533 1309,2533"/>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1310,2507 1339,2507 1339,2532 1310,2532"/>
+                <Baseline points="1310,2532 1339,2531"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:21;}">
+            <Coords points="312,1463 1436,1463 1436,1469 312,1469"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

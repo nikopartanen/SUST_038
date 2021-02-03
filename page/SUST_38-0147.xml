@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-19T13:13:40.518+02:00</Created>
+        <LastChange>2020-08-19T13:21:17.262+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: Finnish
+                Language: RussianOldSpelling
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943506" pageNr="147" tsid="37291121" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=XEOHUQADBYWCVYWDTVJMVQOJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSPRBDXQPCRHCNMXAEARLRDJ" imageId="13587530"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0147.jpg" imageWidth="1802" imageHeight="2944">
+        <PrintSpace>
+            <Coords points="138,264 1450,264 1450,2523 138,2523"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953392542" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="693,269 888,269 888,300 693,300"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="694,270 887,270 887,299 694,299"/>
+                <Baseline points="694,290 737,290 775,298 887,290"/>
+                <TextEquiv>
+                    <Unicode>— 137 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 137 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="146,360 1441,360 1441,1125 146,1125"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="151,361 1439,361 1439,401 151,401"/>
+                <Baseline points="151,394 212,395 326,395 442,395 503,394 631,396 684,395 788,395 822,394 978,394 1071,394 1157,395 1219,398 1347,400 1439,393"/>
+                <TextEquiv>
+                    <Unicode>{te̮m loi̭is. rut̕ś mune̮ ke̮i̭in dine̮ i kelmi̮śe̮ sile̮: »ke̮i̭in, so₍t̕śe̮, led̕ź}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="149,422 1440,422 1440,462 149,462"/>
+                <Baseline points="149,455 238,456 331,453 522,455 644,455 773,454 874,455 908,455 1010,455 1116,454 1174,454 1247,454 1312,454 1440,454"/>
+                <TextEquiv>
+                    <Unicode>{mene̮ olni̮ kerkaad!» ke̮i̭in le₍d̕źis ru₍t̕śe̮s olni̮. rut̕ś oz di̮r ol: me̮das}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="148,483 1439,483 1439,524 148,524"/>
+                <Baseline points="148,524 301,513 463,516 617,522 737,515 894,522 1031,515 1145,515 1321,514 1439,514"/>
+                <TextEquiv>
+                    <Unicode>{gui̭a·lni̮ ke̮i̭inli̮ś bi̮t-tor; ke̮i̭in le̮gaśis, ru₍t̕śe̮s ve̮tlis kerkaśi̮s. rut̕ś}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="148,542 1437,542 1437,585 148,585"/>
+                <Baseline points="148,576 265,575 379,576 492,576 616,576 689,575 774,575 808,576 974,575 1146,576 1252,576 1356,575 1437,575"/>
+                <TextEquiv>
+                    <Unicode>{munas ke̮i̭in dini̮ś i̮₍dži̮d tui̭ vi̮le̮ i uśke̮t̕śas kule̮me̮n. sija tuje̮d rot̕ś}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="148,603 1436,603 1436,645 148,645"/>
+                <Baseline points="148,637 229,638 283,637 381,636 713,637 839,636 985,643 1128,637 1268,636 1352,616 1436,637"/>
+                <TextEquiv>
+                    <Unicode>{mort mune̮ t̕śerig-dod̕d̕e̮n; rot̕ś bośtas ru₍t̕śe̮s, puktas mi̮škas dod̕ vi̮le̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="148,664 1433,664 1433,706 148,706"/>
+                <Baseline points="148,697 168,697 290,698 376,697 412,697 500,696 584,698 634,697 669,689 687,697 815,697 965,698 1001,697 1113,697 1221,697 1433,696"/>
+                <TextEquiv>
+                    <Unicode>{a rut̕śle̮ sija i kole̮ ve̮li. rut̕ś le₍d̕źas t̕śerikse̮ dot̕śi̮s i a₍t̕śi̮s t̕śḙt̕t̕śe̮ptas.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="150,724 1437,724 1437,764 150,764"/>
+                <Baseline points="150,757 213,756 372,756 428,756 510,763 565,757 670,756 743,756 846,756 1046,756 1204,757 1323,764 1437,761"/>
+                <TextEquiv>
+                    <Unicode>{rot̕ś ńem-tor oz te̮d, mune̮ da mune̮ vo₍d̕źe̮. rut̕ś gi̮le̮de̮m t̕śerig e̮ktas,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="148,784 1440,784 1440,824 148,824"/>
+                <Baseline points="148,816 227,816 332,816 374,816 430,817 464,816 581,817 672,822 704,817 818,816 985,816 1054,817 1163,816 1259,816 1369,821 1440,816"/>
+                <TextEquiv>
+                    <Unicode>{vuas ke̮i̭in dinz̮ i šuue̮: »no, so₍t̕śe̮, led̕ź mene̮ e̮ni aslad dine̮ olni̮s, me}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="149,844 1437,844 1437,884 149,884"/>
+                <Baseline points="149,876 215,875 374,876 520,875 573,876 675,875 879,875 1008,876 1037,876 1085,876 1262,876 1437,875"/>
+                <TextEquiv>
+                    <Unicode>{tene̮ t̕śerige̮n verda!» ke̮i̭in le₍d̕źas bara ru₍t̕śe̮s i me̮das juua·śni̮, ki̮ti̮ś}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="147,903 1435,903 1435,944 147,944"/>
+                <Baseline points="147,936 213,936 325,942 524,936 622,936 733,936 814,936 965,936 1111,936 1263,936 1435,941"/>
+                <TextEquiv>
+                    <Unicode>{sija t̕śerig bośte̮m(a). rut̕ś šuue̮: »me be̮žnam e̮šme̮si̮ś vugrali. munam,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="147,963 1437,963 1437,1004 147,1004"/>
+                <Baseline points="147,997 197,996 287,996 327,995 469,996 640,996 759,1003 908,995 1035,995 1167,995 1326,996 1437,995"/>
+                <TextEquiv>
+                    <Unicode>{me tene̮ vele̮da, ki̮d̕ź be̮že̮n t̕śerig ki̮je̮ne̮.» ke̮i̭in munas rut̕śmi̮d be̮že̮n}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="149,1022 1436,1022 1436,1064 149,1064"/>
+                <Baseline points="149,1056 322,1055 424,1062 558,1055 667,1055 728,1055 816,1056 836,1055 992,1063 1111,1056 1188,1055 1340,1054 1436,1054"/>
+                <TextEquiv>
+                    <Unicode>{t̕śerga·lni̮. »no, ru₍t̕śe̮» ke̮i̭in šuie̮, »viśta·l že̮, ki̮₍d̕źi me̮i̭ ve̮t̕śni̮!» rut̕ś}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="147,1083 1435,1083 1435,1124 147,1124"/>
+                <Baseline points="147,1113 241,1116 286,1115 382,1116 617,1122 778,1116 886,1122 1022,1122 1090,1116 1206,1123 1352,1123 1435,1116"/>
+                <TextEquiv>
+                    <Unicode>{šuue̮: »śui̭ be̮žte̮ e̮šme̮sas, śinjaste̮ kuń, pukal, en ve̮rźi̮, vit̕t̕śiś, kor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{te̮m loi̭is. rut̕ś mune̮ ke̮i̭in dine̮ i kelmi̮śe̮ sile̮: »ke̮i̭in, so₍t̕śe̮, led̕ź}
+{mene̮ olni̮ kerkaad!» ke̮i̭in le₍d̕źis ru₍t̕śe̮s olni̮. rut̕ś oz di̮r ol: me̮das}
+{gui̭a·lni̮ ke̮i̭inli̮ś bi̮t-tor; ke̮i̭in le̮gaśis, ru₍t̕śe̮s ve̮tlis kerkaśi̮s. rut̕ś}
+{munas ke̮i̭in dini̮ś i̮₍dži̮d tui̭ vi̮le̮ i uśke̮t̕śas kule̮me̮n. sija tuje̮d rot̕ś}
+{mort mune̮ t̕śerig-dod̕d̕e̮n; rot̕ś bośtas ru₍t̕śe̮s, puktas mi̮škas dod̕ vi̮le̮.}
+{a rut̕śle̮ sija i kole̮ ve̮li. rut̕ś le₍d̕źas t̕śerikse̮ dot̕śi̮s i a₍t̕śi̮s t̕śḙt̕t̕śe̮ptas.}
+{rot̕ś ńem-tor oz te̮d, mune̮ da mune̮ vo₍d̕źe̮. rut̕ś gi̮le̮de̮m t̕śerig e̮ktas,}
+{vuas ke̮i̭in dinz̮ i šuue̮: »no, so₍t̕śe̮, led̕ź mene̮ e̮ni aslad dine̮ olni̮s, me}
+{tene̮ t̕śerige̮n verda!» ke̮i̭in le₍d̕źas bara ru₍t̕śe̮s i me̮das juua·śni̮, ki̮ti̮ś}
+{sija t̕śerig bośte̮m(a). rut̕ś šuue̮: »me be̮žnam e̮šme̮si̮ś vugrali. munam,}
+{me tene̮ vele̮da, ki̮d̕ź be̮že̮n t̕śerig ki̮je̮ne̮.» ke̮i̭in munas rut̕śmi̮d be̮že̮n}
+{t̕śerga·lni̮. »no, ru₍t̕śe̮» ke̮i̭in šuie̮, »viśta·l že̮, ki̮₍d̕źi me̮i̭ ve̮t̕śni̮!» rut̕ś}
+{šuue̮: »śui̭ be̮žte̮ e̮šme̮sas, śinjaste̮ kuń, pukal, en ve̮rźi̮, vit̕t̕śiś, kor</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="144,1213 1436,1213 1436,2517 144,2517"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="149,1214 1435,1214 1435,1254 149,1254"/>
+                <Baseline points="149,1246 216,1245 382,1254 499,1246 575,1246 697,1246 742,1246 816,1246 1172,1253 1240,1246 1308,1246 1435,1246"/>
+                <TextEquiv>
+                    <Unicode>Der frühling kam: die hütte des fuchses zerschmolz, da hatte der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="147,1274 1433,1274 1433,1313 147,1313"/>
+                <Baseline points="147,1305 159,1305 289,1306 482,1306 608,1306 712,1305 830,1305 933,1305 1033,1305 1126,1305 1215,1306 1337,1305 1433,1306"/>
+                <TextEquiv>
+                    <Unicode>fuchs keine hütte mehr. Der fuchs geht zum wolf und bittet ihn:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="148,1332 1435,1332 1435,1371 148,1371"/>
+                <Baseline points="148,1363 261,1371 381,1365 667,1371 757,1365 868,1365 969,1364 1132,1365 1190,1366 1311,1366 1435,1366"/>
+                <TextEquiv>
+                    <Unicode>»Wolf, mein schwesterlein, lass mich zum wohnen in deine hütte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="148,1393 1433,1393 1433,1426 148,1426"/>
+                <Baseline points="148,1424 232,1423 332,1425 431,1425 528,1425 615,1425 734,1425 834,1424 997,1424 1076,1425 1184,1425 1299,1425 1433,1425"/>
+                <TextEquiv>
+                    <Unicode>ein!» Der wolf liess den fuchs zum wohnen ein. Der fuchs wohnt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="148,1452 1435,1452 1435,1492 148,1492"/>
+                <Baseline points="148,1484 241,1484 386,1485 457,1484 627,1483 736,1483 847,1484 1002,1484 1072,1484 1247,1491 1333,1484 1435,1484"/>
+                <TextEquiv>
+                    <Unicode>nicht lange: er beginnt dem wolf allerlei zu stehlen; der wolf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="146,1512 1434,1512 1434,1552 146,1552"/>
+                <Baseline points="146,1544 258,1544 376,1551 436,1544 551,1544 639,1543 757,1543 841,1544 970,1544 1092,1545 1199,1544 1314,1544 1434,1545"/>
+                <TextEquiv>
+                    <Unicode>wurde böse, er jagte den fuchs aus seiner hütte weg. Der fuchs</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="145,1572 1434,1572 1434,1613 145,1613"/>
+                <Baseline points="145,1613 225,1604 328,1604 445,1604 539,1613 619,1604 697,1604 834,1605 1062,1604 1155,1604 1269,1604 1355,1605 1434,1605"/>
+                <TextEquiv>
+                    <Unicode>geht vom wolfe weg auf die grosse landstrasse und wirft sich wie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="146,1632 1431,1632 1431,1673 146,1673"/>
+                <Baseline points="146,1664 199,1664 294,1663 415,1664 518,1673 655,1664 775,1664 850,1664 971,1665 1056,1665 1169,1665 1288,1665 1431,1672"/>
+                <TextEquiv>
+                    <Unicode>tot hin. Den weg daher zieht ein russe mit einer fuhre fische;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="147,1693 1432,1693 1432,1734 147,1734"/>
+                <Baseline points="147,1725 206,1724 318,1725 463,1725 550,1726 679,1733 773,1726 884,1733 1021,1726 1113,1725 1162,1726 1244,1726 1432,1732"/>
+                <TextEquiv>
+                    <Unicode>der russe nimmt den fuchs, legt [ihn] hinter sich in den schlitten,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="148,1754 1434,1754 1434,1794 148,1794"/>
+                <Baseline points="148,1785 227,1784 326,1785 444,1786 535,1785 591,1786 674,1786 817,1786 1022,1786 1127,1786 1245,1787 1362,1786 1434,1786"/>
+                <TextEquiv>
+                    <Unicode>aber dem fuchs war ja das gerade vonnöten. Der fuchs wirft die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="148,1813 1434,1813 1434,1854 148,1854"/>
+                <Baseline points="148,1844 251,1845 342,1845 448,1845 636,1845 731,1846 854,1846 982,1847 1083,1846 1197,1845 1313,1846 1434,1846"/>
+                <TextEquiv>
+                    <Unicode>fische aus dem schlitten und hüpft selbst fort. Der russe weiss</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="147,1873 1432,1873 1432,1912 147,1912"/>
+                <Baseline points="147,1904 213,1905 365,1912 436,1906 556,1906 711,1906 808,1906 1012,1907 1128,1906 1256,1906 1353,1906 1432,1906"/>
+                <TextEquiv>
+                    <Unicode>von nichts, er zieht immer nur vorwärts. Der fuchs liest die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="148,1933 1431,1933 1431,1975 148,1975"/>
+                <Baseline points="148,1965 260,1972 349,1966 417,1966 744,1971 843,1973 999,1967 1099,1967 1221,1966 1314,1966 1431,1966"/>
+                <TextEquiv>
+                    <Unicode>fische, die er hinausgeworfen, auf, kommt zum wolfe und sagt:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="147,1992 1430,1992 1430,2034 147,2034"/>
+                <Baseline points="147,2023 250,2031 361,2025 640,2032 729,2027 839,2026 951,2027 1051,2027 1218,2026 1293,2026 1351,2026 1430,2032"/>
+                <TextEquiv>
+                    <Unicode>»Nun, mein schwesterlein, lass mich jetzt zum wohnen ein zu dir,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="147,2052 1434,2052 1434,2087 147,2087"/>
+                <Baseline points="147,2084 198,2084 355,2085 464,2085 563,2085 757,2084 869,2086 968,2086 1073,2085 1167,2086 1287,2087 1434,2085"/>
+                <TextEquiv>
+                    <Unicode>ich füttere dich mit fischen!» Der wolf lässt den fuchs wieder</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="147,2112 1428,2112 1428,2154 147,2154"/>
+                <Baseline points="147,2144 200,2143 299,2145 472,2146 540,2145 689,2152 764,2145 821,2146 896,2147 1026,2146 1307,2146 1428,2146"/>
+                <TextEquiv>
+                    <Unicode>ein und beginnt zu fragen, wo er die fische hergenommen habe.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="148,2173 1428,2173 1428,2214 148,2214"/>
+                <Baseline points="148,2205 214,2204 332,2204 444,2205 542,2205 653,2207 747,2214 829,2206 991,2206 1159,2206 1208,2206 1317,2206 1428,2207"/>
+                <TextEquiv>
+                    <Unicode>Der fuchs sagt: »lch habe [sie] mit meinem schwanz in einer wake</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="146,2234 1428,2234 1428,2274 146,2274"/>
+                <Baseline points="146,2273 309,2265 427,2265 513,2265 712,2272 788,2265 901,2266 958,2266 1069,2273 1155,2267 1256,2266 1335,2266 1428,2266"/>
+                <TextEquiv>
+                    <Unicode>geangelt. Lass uns hingehen, ich lehre es dich, wie man mit dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="146,2293 1429,2293 1429,2334 146,2334"/>
+                <Baseline points="146,2325 317,2325 454,2326 610,2324 724,2326 830,2326 939,2326 1026,2327 1126,2326 1264,2327 1349,2327 1429,2327"/>
+                <TextEquiv>
+                    <Unicode>schwanze fische fängt.» Der wolf geht mit dem fuchse aus um</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="147,2353 1432,2353 1432,2395 147,2395"/>
+                <Baseline points="147,2384 208,2385 316,2385 520,2386 589,2386 750,2387 900,2394 1015,2386 1248,2394 1348,2387 1432,2387"/>
+                <TextEquiv>
+                    <Unicode>mit dem schwanze zu fischen. »Nun, mein füchschen», sagt der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="146,2412 1432,2412 1432,2454 146,2454"/>
+                <Baseline points="146,2446 232,2452 352,2445 438,2446 542,2453 627,2446 684,2447 777,2447 869,2448 933,2446 1099,2447 1198,2446 1310,2447 1432,2448"/>
+                <TextEquiv>
+                    <Unicode>wolf, »sage mir also, wie es und was zu machen ist!» Der fuchs</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="146,2473 1428,2473 1428,2516 146,2516"/>
+                <Baseline points="146,2505 237,2505 397,2505 539,2506 717,2507 773,2506 850,2508 978,2514 1100,2507 1220,2508 1351,2507 1428,2514"/>
+                <TextEquiv>
+                    <Unicode>sagt: »Stecke deinen schwanz in die wake, mach deine augen zu,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der frühling kam: die hütte des fuchses zerschmolz, da hatte der
+fuchs keine hütte mehr. Der fuchs geht zum wolf und bittet ihn:
+»Wolf, mein schwesterlein, lass mich zum wohnen in deine hütte
+ein!» Der wolf liess den fuchs zum wohnen ein. Der fuchs wohnt
+nicht lange: er beginnt dem wolf allerlei zu stehlen; der wolf
+wurde böse, er jagte den fuchs aus seiner hütte weg. Der fuchs
+geht vom wolfe weg auf die grosse landstrasse und wirft sich wie
+tot hin. Den weg daher zieht ein russe mit einer fuhre fische;
+der russe nimmt den fuchs, legt [ihn] hinter sich in den schlitten,
+aber dem fuchs war ja das gerade vonnöten. Der fuchs wirft die
+fische aus dem schlitten und hüpft selbst fort. Der russe weiss
+von nichts, er zieht immer nur vorwärts. Der fuchs liest die
+fische, die er hinausgeworfen, auf, kommt zum wolfe und sagt:
+»Nun, mein schwesterlein, lass mich jetzt zum wohnen ein zu dir,
+ich füttere dich mit fischen!» Der wolf lässt den fuchs wieder
+ein und beginnt zu fragen, wo er die fische hergenommen habe.
+Der fuchs sagt: »lch habe [sie] mit meinem schwanz in einer wake
+geangelt. Lass uns hingehen, ich lehre es dich, wie man mit dem
+schwanze fische fängt.» Der wolf geht mit dem fuchse aus um
+mit dem schwanze zu fischen. »Nun, mein füchschen», sagt der
+wolf, »sage mir also, wie es und was zu machen ist!» Der fuchs
+sagt: »Stecke deinen schwanz in die wake, mach deine augen zu,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="154,1155 1433,1155 1433,1159 154,1159"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

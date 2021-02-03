@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:40:22.281+02:00</Created>
+        <LastChange>2020-08-21T12:12:48.078+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943872" pageNr="299" tsid="37557869" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=ZKCYFAQHUMLVKSZZYDSPIVEK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DEXECMADCLOMMTVNCSSOQYRI" imageId="13587896"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0299.jpg" imageWidth="1831" imageHeight="3000">
+        <PrintSpace>
+            <Coords points="33,0 1798,0 1798,3000 33,3000"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953410578" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3_3"/>
+                <RegionRefIndexed index="5" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="732,311 906,311 906,341 732,341"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="733,312 905,312 905,340 733,340"/>
+                <Baseline points="733,332 774,332 815,340 905,330"/>
+                <TextEquiv>
+                    <Unicode>— 289 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 289 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="396,400 1143,400 1143,629 396,629"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="462,401 1142,401 1142,447 462,447"/>
+                <Baseline points="462,439 649,438 713,437 834,436 960,434 1142,440"/>
+                <TextEquiv>
+                    <Unicode>{koi̭me̮zduk pe̮ kol̕is: me̮dis janse̮dni̮,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="397,463 1067,463 1067,508 397,508"/>
+                <Baseline points="397,502 409,502 434,502 564,500 743,506 814,504 938,496 1067,493"/>
+                <TextEquiv>
+                    <Unicode>{30. me̮dis janse̮dni̮ pe̮, me̮dis i̮le̮dni̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="460,524 1037,524 1037,568 460,568"/>
+                <Baseline points="460,562 612,559 708,560 752,567 779,565 935,556 1037,562"/>
+                <TextEquiv>
+                    <Unicode>{nemane̮i̭ keže̮ pe̮, vekane̮i̭ keže̮,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="460,583 1122,583 1122,628 460,628"/>
+                <Baseline points="461,621 501,621 651,620 748,618 819,624 931,616 1010,616 1122,614"/>
+                <TextEquiv>
+                    <Unicode>{ńe na-t̕śas keže̮ pe̮, dolgo vek keže̮!}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{koi̭me̮zduk pe̮ kol̕is: me̮dis janse̮dni̮,}
+{30. me̮dis janse̮dni̮ pe̮, me̮dis i̮le̮dni̮}
+{nemane̮i̭ keže̮ pe̮, vekane̮i̭ keže̮,}
+{ńe na-t̕śas keže̮ pe̮, dolgo vek keže̮!}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="257,717 1476,717 1476,767 257,767"/>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="258,718 1475,718 1475,766 258,766"/>
+                <Baseline points="258,762 318,761 454,760 555,758 638,758 712,756 864,762 942,762 1086,753 1166,758 1248,750 1380,757 1475,748"/>
+                <TextEquiv>
+                    <Unicode>das dritte mal [da sie schied, da] schied sie, um [ganz] sich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>das dritte mal [da sie schied, da] schied sie, um [ganz] sich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+            <Coords points="1016,783 1233,783 1233,820 1016,820"/>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1017,784 1232,784 1232,819 1017,819"/>
+                <Baseline points="1017,813 1056,813 1232,818"/>
+                <TextEquiv>
+                    <Unicode>zu trennen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zu trennen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:4;}">
+            <Coords points="192,838 1316,838 1316,1007 192,1007"/>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="193,839 1315,839 1315,890 193,890"/>
+                <Baseline points="193,883 231,883 340,888 419,879 513,879 578,878 756,883 857,883 938,874 1062,881 1315,870"/>
+                <TextEquiv>
+                    <Unicode>30. ging um sich zu trennen, ging um [weit] fortzuziehen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="260,903 995,903 995,948 260,948"/>
+                <Baseline points="260,941 315,941 398,941 523,939 655,944 733,936 808,936 995,941"/>
+                <TextEquiv>
+                    <Unicode>für das ganze leben, für die ewigkeit,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="262,959 1304,959 1304,1006 262,1006"/>
+                <Baseline points="262,1003 354,1003 432,1002 528,1001 685,1004 879,1002 960,995 1033,994 1168,991 1304,990"/>
+                <TextEquiv>
+                    <Unicode>nicht für eine stunde, [sondern] für ihr langes leben!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>30. ging um sich zu trennen, ging um [weit] fortzuziehen
+für das ganze leben, für die ewigkeit,
+nicht für eine stunde, [sondern] für ihr langes leben!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:5;}">
+            <Coords points="1367,2543 1398,2543 1398,2570 1367,2570"/>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1368,2544 1397,2544 1397,2569 1368,2569"/>
+                <Baseline points="1368,2569 1397,2569"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>19</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:6;}">
+            <Coords points="906,0 1798,0 1798,28 906,28"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:7;}">
+            <Coords points="240,11 906,11 906,21 240,21"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:8;}">
+            <Coords points="1254,659 1477,659 1477,663 1254,663"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:9;}">
+            <Coords points="33,2971 835,2971 835,3000 33,3000"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:10;}">
+            <Coords points="835,2979 1416,2979 1416,2990 835,2990"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

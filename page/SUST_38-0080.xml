@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:45.905+02:00</Created>
+        <LastChange>2020-08-21T11:54:44.120+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943344" pageNr="80" tsid="37555187" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=MCJAJLZQARWFHLIIDDFSNZIM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JGPUQDQRAPRPIANHIHKMHZKH" imageId="13587368"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0080.jpg" imageWidth="1812" imageHeight="2947">
+        <PrintSpace>
+            <Coords points="351,272 1657,272 1657,2367 351,2367"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953384457" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="938,277 1074,277 1074,309 938,309"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="939,278 1073,278 1073,308 939,308"/>
+                <Baseline points="939,298 962,298 1002,308 1073,297"/>
+                <TextEquiv>
+                    <Unicode>— 7o —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 7o —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="358,369 1651,369 1651,1016 358,1016"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="362,370 1650,370 1650,411 362,411"/>
+                <Baseline points="362,410 529,401 600,399 716,402 802,407 896,402 986,402 1099,402 1244,403 1375,405 1473,401 1571,404 1650,404"/>
+                <TextEquiv>
+                    <Unicode>{pukte̮da.» oš šuas: »og, og!» ni̮v a₍t̕śi̮s pukśas kudje̮. ošli̮ vod̕ź vi̮v}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="362,430 1649,430 1649,473 362,473"/>
+                <Baseline points="362,459 449,462 548,461 656,462 784,462 931,462 1125,464 1211,463 1378,462 1464,463 1649,463"/>
+                <TextEquiv>
+                    <Unicode>{šuis: »me kuta kerka vi̮vśa̭ń vi₍d̕źe̮dni̮. en vi₍d̕źe̮dli̮ kud pi̮tškas!»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="363,490 1648,490 1648,533 363,533"/>
+                <Baseline points="363,522 398,519 526,522 644,521 750,530 822,523 943,524 1021,525 1189,522 1328,530 1372,524 1461,524 1648,525"/>
+                <TextEquiv>
+                    <Unicode>{oš kutas nuni̮ kud, da śe̮ki̮d loe̮. vidli̮ni̮ ke̮sjas, a kud pi̮tšśa̭ńi̮s}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="362,551 1648,551 1648,593 362,593"/>
+                <Baseline points="362,583 420,583 596,583 686,583 809,587 881,584 1004,591 1131,584 1221,591 1360,591 1546,591 1648,575"/>
+                <TextEquiv>
+                    <Unicode>{ni̮v gore̮das: »en vidli̮, en vidli̮, ad̕d̕źa ve̮d, ad̕d̕źa, kḙrt-pl̕eš, don-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="362,610 1647,610 1647,653 362,653"/>
+                <Baseline points="362,642 449,640 515,641 630,643 770,644 830,643 916,644 1050,644 1199,645 1251,645 1353,644 1422,644 1515,646 1647,645"/>
+                <TextEquiv>
+                    <Unicode>{śin!» oš šuas: »ki̮śa̭ń ne̮ taje̮ ad̕d̕źe̮! kerkai̮s oz ti̮dav a!» sije̮ munas}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="365,672 1648,672 1648,714 365,714"/>
+                <Baseline points="365,703 474,703 689,704 848,704 964,704 1161,704 1220,703 1337,705 1486,705 1550,705 1648,695"/>
+                <TextEquiv>
+                    <Unicode>{vo₍d̕źe̮. mami̮sle̮n kerkai̮s voas. poske̮di̮s oš kajas kudnas da pos-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="361,732 1647,732 1647,774 361,774"/>
+                <Baseline points="361,764 485,765 629,765 752,765 815,765 930,765 1052,772 1178,766 1300,773 1437,773 1647,759"/>
+                <TextEquiv>
+                    <Unicode>{vo₍d̕źas ši̮bi̮tas kudse̮ da šuas: »nale̮, starik gozja, tijanli̮ nomsaśan-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="362,793 1648,793 1648,835 362,835"/>
+                <Baseline points="362,824 410,824 519,825 648,824 756,826 919,832 1008,825 1175,802 1405,833 1564,833 1648,816"/>
+                <TextEquiv>
+                    <Unicode>{tor ni̮li̮d i̮stis!» naje̮ petasni̮, kud bośtasni̮ pos-vod̕źśi̮s, pi̮rtasni̮ ker-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="360,853 1648,853 1648,895 360,895"/>
+                <Baseline points="360,884 440,884 514,884 718,885 891,883 957,886 1051,886 1192,886 1293,886 1405,886 1496,886 1648,886"/>
+                <TextEquiv>
+                    <Unicode>{kaas da pi̮tške̮sśi̮s vidlasni̮ da seni ni̮lni̮s! ni̮v petas kud pi̮₍tšśi̮s}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="359,913 1647,913 1647,955 359,955"/>
+                <Baseline points="359,944 400,944 443,945 524,946 642,953 715,954 848,938 906,944 1051,947 1184,947 1248,947 1366,947 1502,954 1647,947"/>
+                <TextEquiv>
+                    <Unicode>{da i e̮ni ole̮ni̮ vi̮le̮ni̮. — oš munas gortas da kutas korśni̮ bi̮dlai̮ś}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="360,974 1148,974 1148,1015 360,1015"/>
+                <Baseline points="360,1005 463,1013 528,1006 659,1006 717,1007 752,1007 841,1008 894,1008 970,1007 1027,1005 1148,1007"/>
+                <TextEquiv>
+                    <Unicode>{ni̮vse̮, da ńe-ki̮ś oz i śur. i e̮ni oš šogśe̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{pukte̮da.» oš šuas: »og, og!» ni̮v a₍t̕śi̮s pukśas kudje̮. ošli̮ vod̕ź vi̮v}
+{šuis: »me kuta kerka vi̮vśa̭ń vi₍d̕źe̮dni̮. en vi₍d̕źe̮dli̮ kud pi̮tškas!»}
+{oš kutas nuni̮ kud, da śe̮ki̮d loe̮. vidli̮ni̮ ke̮sjas, a kud pi̮tšśa̭ńi̮s}
+{ni̮v gore̮das: »en vidli̮, en vidli̮, ad̕d̕źa ve̮d, ad̕d̕źa, kḙrt-pl̕eš, don-}
+{śin!» oš šuas: »ki̮śa̭ń ne̮ taje̮ ad̕d̕źe̮! kerkai̮s oz ti̮dav a!» sije̮ munas}
+{vo₍d̕źe̮. mami̮sle̮n kerkai̮s voas. poske̮di̮s oš kajas kudnas da pos-}
+{vo₍d̕źas ši̮bi̮tas kudse̮ da šuas: »nale̮, starik gozja, tijanli̮ nomsaśan-}
+{tor ni̮li̮d i̮stis!» naje̮ petasni̮, kud bośtasni̮ pos-vod̕źśi̮s, pi̮rtasni̮ ker-}
+{kaas da pi̮tške̮sśi̮s vidlasni̮ da seni ni̮lni̮s! ni̮v petas kud pi̮₍tšśi̮s}
+{da i e̮ni ole̮ni̮ vi̮le̮ni̮. — oš munas gortas da kutas korśni̮ bi̮dlai̮ś}
+{ni̮vse̮, da ńe-ki̮ś oz i śur. i e̮ni oš šogśe̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="356,1210 1647,1210 1647,2276 356,2276"/>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="365,1211 1646,1211 1646,1252 365,1252"/>
+                <Baseline points="365,1243 435,1243 566,1243 640,1243 718,1243 954,1243 1065,1243 1149,1243 1261,1243 1399,1250 1532,1243 1646,1243"/>
+                <TextEquiv>
+                    <Unicode>lege etwas [in die schachtel].» Der bär sagt: »Nein, nein!» Das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="363,1272 1646,1272 1646,1305 363,1305"/>
+                <Baseline points="363,1303 527,1303 648,1304 751,1304 891,1303 951,1304 1027,1304 1230,1304 1406,1304 1524,1304 1581,1304 1646,1303"/>
+                <TextEquiv>
+                    <Unicode>mädchen setzt sich selber in die schachtel. Vorher hatte es zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="366,1332 1646,1332 1646,1373 366,1373"/>
+                <Baseline points="366,1363 441,1364 566,1364 720,1365 819,1364 921,1364 1023,1364 1152,1364 1234,1364 1366,1365 1528,1365 1646,1365"/>
+                <TextEquiv>
+                    <Unicode>dem bären gesagt: »lch sehe vom dache der hütte. Gucke nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="363,1392 1646,1392 1646,1433 363,1433"/>
+                <Baseline points="363,1423 396,1424 473,1424 697,1423 809,1424 893,1424 1054,1425 1130,1425 1323,1424 1389,1424 1542,1431 1646,1424"/>
+                <TextEquiv>
+                    <Unicode>in die schachtel!» Der bär beginnt die schachtel zu tragen, aber</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="362,1452 1645,1452 1645,1492 362,1492"/>
+                <Baseline points="362,1484 407,1484 543,1484 664,1492 825,1484 909,1484 996,1483 1086,1484 1291,1492 1547,1491 1645,1484"/>
+                <TextEquiv>
+                    <Unicode>sie wurde [ihm] schwer. Er will [die schachtel] untersuchen, aber</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="363,1512 1645,1512 1645,1551 363,1551"/>
+                <Baseline points="363,1544 423,1544 514,1544 718,1544 820,1544 906,1544 1112,1544 1271,1544 1398,1551 1528,1544 1645,1545"/>
+                <TextEquiv>
+                    <Unicode>aus der schachtel ruft das mädchen: »Schau nicht, schau nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="366,1572 1645,1572 1645,1613 366,1613"/>
+                <Baseline points="366,1612 515,1611 591,1604 693,1604 773,1611 837,1611 907,1604 1001,1604 1091,1609 1154,1604 1356,1610 1419,1604 1645,1603"/>
+                <TextEquiv>
+                    <Unicode>[hinein], ich sehe [es] ja, ich sehe [es], du eisenstirn, du feuerauge!»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="361,1632 1641,1632 1641,1673 361,1673"/>
+                <Baseline points="361,1664 428,1664 522,1664 644,1664 765,1664 874,1665 943,1665 1052,1665 1178,1665 1276,1664 1397,1664 1465,1664 1522,1665 1641,1673"/>
+                <TextEquiv>
+                    <Unicode>Der bär sagt: »Wie weit sie auch sieht! Die hütte ist ja [hier]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="362,1693 1646,1693 1646,1733 362,1733"/>
+                <Baseline points="362,1725 454,1725 521,1725 679,1723 770,1725 943,1726 1088,1726 1181,1724 1338,1724 1436,1724 1562,1725 1646,1725"/>
+                <TextEquiv>
+                    <Unicode>nicht zu sehen!» Er wandert weiter. Er gelangt zum hause der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="360,1753 1644,1753 1644,1793 360,1793"/>
+                <Baseline points="360,1785 487,1784 582,1785 812,1785 916,1785 999,1785 1160,1784 1245,1784 1376,1784 1570,1784 1644,1785"/>
+                <TextEquiv>
+                    <Unicode>mutter [des mädchens]. Der bär klettert mit seiner schachtel die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="360,1813 1643,1813 1643,1853 360,1853"/>
+                <Baseline points="360,1844 478,1845 634,1852 747,1845 823,1845 1017,1845 1072,1845 1149,1846 1325,1844 1416,1844 1528,1844 1643,1851"/>
+                <TextEquiv>
+                    <Unicode>treppe hinauf, wirft die schachtel in die hausflur und sagt: »Da,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="363,1873 1644,1873 1644,1912 363,1912"/>
+                <Baseline points="363,1904 490,1912 628,1906 733,1906 796,1906 851,1911 961,1906 1125,1905 1212,1905 1323,1905 1567,1904 1644,1898"/>
+                <TextEquiv>
+                    <Unicode>nehmt, mann und frau, eure tochter hat euch süssigkeiten ge-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="361,1933 1645,1933 1645,1973 361,1973"/>
+                <Baseline points="361,1965 522,1964 619,1965 756,1965 918,1972 1087,1965 1164,1965 1359,1964 1441,1965 1523,1964 1645,1954"/>
+                <TextEquiv>
+                    <Unicode>schickt!» Sie gehen hinaus, nehmen die schachtel aus der haus-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="360,1992 1643,1992 1643,2033 360,2033"/>
+                <Baseline points="360,2023 434,2030 578,2025 648,2025 704,2025 782,2025 910,2032 1152,2024 1263,2024 1399,2031 1486,2024 1643,2024"/>
+                <TextEquiv>
+                    <Unicode>flur, tragen sie in die stube, untersuchen ihren inhalt, und drinnen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="360,2052 1641,2052 1641,2094 360,2094"/>
+                <Baseline points="360,2083 403,2084 459,2085 552,2086 723,2086 828,2086 1016,2086 1141,2086 1225,2085 1307,2085 1494,2084 1641,2090"/>
+                <TextEquiv>
+                    <Unicode>ist ja ihre tochter! Das mädchen steigt aus der schachtel heraus,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="357,2113 1643,2113 1643,2154 357,2154"/>
+                <Baseline points="357,2144 427,2144 507,2145 637,2146 772,2146 903,2147 971,2138 1061,2146 1148,2145 1255,2146 1471,2145 1564,2144 1643,2137"/>
+                <TextEquiv>
+                    <Unicode>und sie leben heute noch. — Der bär geht nachhause und be-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="359,2174 1643,2174 1643,2214 359,2214"/>
+                <Baseline points="359,2214 456,2205 617,2205 712,2206 908,2206 983,2206 1152,2212 1264,2205 1329,2205 1400,2206 1578,2205 1643,2204"/>
+                <TextEquiv>
+                    <Unicode>ginnt überall das mädchen zu suchen, aber es ist nirgends zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="360,2234 1312,2234 1312,2275 360,2275"/>
+                <Baseline points="360,2265 485,2267 611,2266 693,2266 776,2267 970,2267 1064,2274 1192,2266 1312,2265"/>
+                <TextEquiv>
+                    <Unicode>finden. Und der bär betrauert [sie] heute noch.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lege etwas [in die schachtel].» Der bär sagt: »Nein, nein!» Das
+mädchen setzt sich selber in die schachtel. Vorher hatte es zu
+dem bären gesagt: »lch sehe vom dache der hütte. Gucke nicht
+in die schachtel!» Der bär beginnt die schachtel zu tragen, aber
+sie wurde [ihm] schwer. Er will [die schachtel] untersuchen, aber
+aus der schachtel ruft das mädchen: »Schau nicht, schau nicht
+[hinein], ich sehe [es] ja, ich sehe [es], du eisenstirn, du feuerauge!»
+Der bär sagt: »Wie weit sie auch sieht! Die hütte ist ja [hier]
+nicht zu sehen!» Er wandert weiter. Er gelangt zum hause der
+mutter [des mädchens]. Der bär klettert mit seiner schachtel die
+treppe hinauf, wirft die schachtel in die hausflur und sagt: »Da,
+nehmt, mann und frau, eure tochter hat euch süssigkeiten ge-
+schickt!» Sie gehen hinaus, nehmen die schachtel aus der haus-
+flur, tragen sie in die stube, untersuchen ihren inhalt, und drinnen
+ist ja ihre tochter! Das mädchen steigt aus der schachtel heraus,
+und sie leben heute noch. — Der bär geht nachhause und be-
+ginnt überall das mädchen zu suchen, aber es ist nirgends zu
+finden. Und der bär betrauert [sie] heute noch.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:3;}">
+            <Coords points="1300,2320 1540,2320 1540,2361 1300,2361"/>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1301,2321 1539,2321 1539,2360 1301,2360"/>
+                <Baseline points="1301,2360 1539,2360"/>
+                <TextEquiv>
+                    <Unicode>(Ust̕sysol̕sk.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Ust̕sysol̕sk.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:4;}">
+            <Coords points="360,1144 1595,1144 1595,1148 360,1148"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:39.012+02:00</Created>
+        <LastChange>2020-08-21T11:50:05.478+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943312" pageNr="64" tsid="37554234" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=GRMLHGGCLHKBZSCISNIUUSOH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHLCWFLUQCARFZBYZITGOQPB" imageId="13587336"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0064.jpg" imageWidth="1833" imageHeight="2951">
+        <PrintSpace>
+            <Coords points="355,239 1663,239 1663,2506 355,2506"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953382625" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_2_4"/>
+                <RegionRefIndexed index="5" regionRef="r_3_1"/>
+                <RegionRefIndexed index="6" regionRef="r_3_2"/>
+                <RegionRefIndexed index="7" regionRef="r_3_3"/>
+                <RegionRefIndexed index="8" regionRef="r_3_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="921,245 1095,245 1095,275 921,275"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="922,246 1094,246 1094,274 922,274"/>
+                <Baseline points="922,265 964,265 1004,274 1094,266"/>
+                <TextEquiv>
+                    <Unicode>— 54 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 54 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="362,336 1653,336 1653,501 362,501"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="466,337 1651,337 1651,379 466,379"/>
+                <Baseline points="466,377 562,369 710,369 779,369 938,370 1021,370 1149,370 1237,370 1348,371 1384,371 1443,371 1544,370 1610,371 1651,379"/>
+                <TextEquiv>
+                    <Unicode>{petuk munas da munas: si̮li̮ pani̮d love̮ ke̮jin i šuas: »ki̮t̕t̕śe̮,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="363,397 1652,397 1652,439 363,439"/>
+                <Baseline points="363,439 477,431 585,436 772,429 903,431 997,431 1116,432 1251,431 1402,430 1550,433 1652,431"/>
+                <TextEquiv>
+                    <Unicode>{petuke̮ voke̮, munan?» petuk šue̮: »iz-ki korśni̮ muna.» »mene̮ tše̮tš}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="365,458 1006,458 1006,500 365,500"/>
+                <Baseline points="365,489 462,490 601,491 637,491 719,491 848,490 1006,491"/>
+                <TextEquiv>
+                    <Unicode>{bośt!» petuk i šuas: »pi̮r sitane̮!»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{petuk munas da munas: si̮li̮ pani̮d love̮ ke̮jin i šuas: »ki̮t̕t̕śe̮,}
+{petuke̮ voke̮, munan?» petuk šue̮: »iz-ki korśni̮ muna.» »mene̮ tše̮tš}
+{bośt!» petuk i šuas: »pi̮r sitane̮!»}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="362,519 1651,519 1651,624 362,624"/>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="467,520 1650,520 1650,561 467,561"/>
+                <Baseline points="467,560 564,551 675,551 828,552 901,552 1061,553 1167,550 1297,552 1386,553 1453,553 1534,551 1650,553"/>
+                <TextEquiv>
+                    <Unicode>{petuk bara munas da munas. si̮li̮ pani̮d love̮ oš. oš kutas}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="363,578 1600,578 1600,623 363,623"/>
+                <Baseline points="363,609 503,617 605,618 748,619 926,612 962,612 1081,612 1223,612 1323,613 1472,614 1600,615"/>
+                <TextEquiv>
+                    <Unicode>{ve̮zji̮śni̮ tše̮tš munni̮ petukke̮d i petuk tše̮ktas sije̮s sitanas pi̮rni̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{petuk bara munas da munas. si̮li̮ pani̮d love̮ oš. oš kutas}
+{ve̮zji̮śni̮ tše̮tš munni̮ petukke̮d i petuk tše̮ktas sije̮s sitanas pi̮rni̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+            <Coords points="363,639 1653,639 1653,804 363,804"/>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="467,640 1652,640 1652,682 467,682"/>
+                <Baseline points="467,681 565,672 704,673 768,672 919,673 1003,673 1110,673 1243,674 1280,674 1382,673 1513,674 1652,675"/>
+                <TextEquiv>
+                    <Unicode>{petuk munas da munas. ju voas. petuk i šuni̮ kutas: »ki̮₍d̕źi}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="365,700 1652,700 1652,744 365,744"/>
+                <Baseline points="365,732 422,732 494,732 592,732 635,732 761,733 906,733 1025,734 1168,734 1335,734 1366,734 1461,734 1556,735 1652,734"/>
+                <TextEquiv>
+                    <Unicode>{tati me kuta vudžni̮!» petuk valań sitanse̮ berge̮das i šuas juli̮: »pi̮r}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="364,761 1246,761 1246,803 364,803"/>
+                <Baseline points="364,794 499,793 571,793 697,794 808,793 965,794 1085,794 1246,794"/>
+                <TextEquiv>
+                    <Unicode>{sitane̮!» va pi̮ras. śḙśa kos-inti petuk vu₍džas.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{petuk munas da munas. ju voas. petuk i šuni̮ kutas: »ki̮₍d̕źi}
+{tati me kuta vudžni̮!» petuk valań sitanse̮ berge̮das i šuas juli̮: »pi̮r}
+{sitane̮!» va pi̮ras. śḙśa kos-inti petuk vu₍džas.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:4;}">
+            <Coords points="361,821 1654,821 1654,1168 361,1168"/>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="468,822 1649,822 1649,864 468,864"/>
+                <Baseline points="468,854 544,854 663,854 814,854 949,855 1056,854 1200,855 1304,863 1435,856 1552,856 1649,855"/>
+                <TextEquiv>
+                    <Unicode>{bara kutas munni̮. more voas. petuk šuni̮ kutas: »ki̮d̕ź bara}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="364,882 1652,882 1652,924 364,924"/>
+                <Baseline points="364,914 422,915 605,913 793,915 946,915 1125,915 1161,915 1199,915 1293,915 1504,917 1652,916"/>
+                <TextEquiv>
+                    <Unicode>{tati vu₍dža?» morelań sitanse̮ berge̮das i stav vai̮s morḙśi̮s sitanas}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="362,944 1652,944 1652,985 362,985"/>
+                <Baseline points="362,984 466,975 607,975 652,976 819,976 980,976 1016,976 1111,976 1281,976 1400,976 1508,977 1652,976"/>
+                <TextEquiv>
+                    <Unicode>{pi̮ras. petuk i kos-inti vu₍džas i śḙśa barinle̮n kerka voas. petuk}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="363,1003 1650,1003 1650,1046 363,1046"/>
+                <Baseline points="363,1036 460,1035 625,1044 716,1034 910,1036 987,1035 1128,1042 1279,1034 1408,1037 1513,1036 1542,1036 1650,1035"/>
+                <TextEquiv>
+                    <Unicode>{e̮grad vi̮le̮ kajas: »kikirukku! vai̭ iz-kite̮, barin!» barin petas i šuas:}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="364,1064 1651,1064 1651,1106 364,1106"/>
+                <Baseline points="364,1095 515,1096 624,1096 726,1096 856,1095 982,1097 1134,1097 1252,1096 1313,1096 1423,1097 1522,1097 1651,1100"/>
+                <TextEquiv>
+                    <Unicode>{»ku₍tše̮m teni̮d iz-ki kole̮?» barin petuke̮s kutas da e̮šjas dine̮ je̮rtas.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="369,1124 1653,1124 1653,1167 369,1167"/>
+                <Baseline points="369,1155 483,1163 595,1156 715,1156 814,1156 955,1163 1044,1157 1158,1157 1287,1156 1382,1157 1487,1157 1568,1157 1653,1156"/>
+                <TextEquiv>
+                    <Unicode>{e̮šjasli̮ šuas: »taje̮s jona l̕ukale̮, med kule̮.» petuk šuas ke̮jinli̮: »pet!»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{bara kutas munni̮. more voas. petuk šuni̮ kutas: »ki̮d̕ź bara}
+{tati vu₍dža?» morelań sitanse̮ berge̮das i stav vai̮s morḙśi̮s sitanas}
+{pi̮ras. petuk i kos-inti vu₍džas i śḙśa barinle̮n kerka voas. petuk}
+{e̮grad vi̮le̮ kajas: »kikirukku! vai̭ iz-kite̮, barin!» barin petas i šuas:}
+{»ku₍tše̮m teni̮d iz-ki kole̮?» barin petuke̮s kutas da e̮šjas dine̮ je̮rtas.}
+{e̮šjasli̮ šuas: »taje̮s jona l̕ukale̮, med kule̮.» petuk šuas ke̮jinli̮: »pet!»}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:5;}">
+            <Coords points="363,1255 1655,1255 1655,1478 363,1478"/>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="468,1256 1652,1256 1652,1297 468,1297"/>
+                <Baseline points="468,1288 534,1288 656,1288 768,1288 864,1288 967,1289 1138,1289 1230,1288 1420,1289 1575,1289 1652,1290"/>
+                <TextEquiv>
+                    <Unicode>Der hahn geht und geht fürbass: ihm entgegen kommt ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="364,1317 1651,1317 1651,1357 364,1357"/>
+                <Baseline points="364,1349 442,1349 544,1348 666,1348 848,1356 1062,1348 1193,1356 1313,1348 1426,1347 1539,1350 1651,1350"/>
+                <TextEquiv>
+                    <Unicode>wolf und sagt: »Wohin, brüderlein hahn, gehst du?» Der hahn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="365,1377 1654,1377 1654,1418 365,1418"/>
+                <Baseline points="365,1409 453,1410 608,1408 818,1408 886,1409 1040,1409 1144,1409 1247,1409 1422,1409 1533,1409 1654,1410"/>
+                <TextEquiv>
+                    <Unicode>sagt: »Einen mühlstein zu suchen gehe ich.» »Nimm mich mit!»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="366,1437 1296,1437 1296,1477 366,1477"/>
+                <Baseline points="366,1468 417,1469 515,1468 596,1467 725,1468 905,1469 960,1468 1141,1477 1296,1467"/>
+                <TextEquiv>
+                    <Unicode>Da sagt der hahn: »Schlüpf in [meinen] steiss!»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der hahn geht und geht fürbass: ihm entgegen kommt ein
+wolf und sagt: »Wohin, brüderlein hahn, gehst du?» Der hahn
+sagt: »Einen mühlstein zu suchen gehe ich.» »Nimm mich mit!»
+Da sagt der hahn: »Schlüpf in [meinen] steiss!»</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:6;}">
+            <Coords points="364,1496 1653,1496 1653,1659 364,1659"/>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="469,1497 1651,1497 1651,1537 469,1537"/>
+                <Baseline points="469,1528 535,1528 647,1528 822,1528 964,1528 1107,1529 1232,1528 1420,1529 1575,1530 1651,1530"/>
+                <TextEquiv>
+                    <Unicode>Der hahn wandert immer weiter. Ihm entgegen kommt ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="365,1557 1652,1557 1652,1597 365,1597"/>
+                <Baseline points="365,1589 435,1590 550,1588 642,1589 808,1589 873,1589 1016,1595 1078,1589 1234,1590 1320,1589 1421,1589 1535,1590 1652,1581"/>
+                <TextEquiv>
+                    <Unicode>bär. Der bär beginnt zu bitten, er möchte mit dem hahn kom-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="366,1617 1584,1617 1584,1658 366,1658"/>
+                <Baseline points="366,1649 453,1656 547,1649 629,1649 741,1649 903,1649 996,1649 1053,1649 1190,1650 1311,1650 1375,1650 1584,1650"/>
+                <TextEquiv>
+                    <Unicode>men, und der hahn befiehlt ihm in seinen steiss zu schlüpfen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der hahn wandert immer weiter. Ihm entgegen kommt ein
+bär. Der bär beginnt zu bitten, er möchte mit dem hahn kom-
+men, und der hahn befiehlt ihm in seinen steiss zu schlüpfen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:7;}">
+            <Coords points="364,1677 1655,1677 1655,1959 364,1959"/>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="470,1678 1650,1678 1650,1718 470,1718"/>
+                <Baseline points="470,1710 536,1709 649,1709 823,1709 965,1710 1110,1710 1191,1710 1348,1710 1415,1709 1534,1710 1650,1710"/>
+                <TextEquiv>
+                    <Unicode>Der hahn wandert immer weiter. Er gelangt an einen fluss.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="368,1738 1654,1738 1654,1778 368,1778"/>
+                <Baseline points="368,1770 419,1770 517,1769 599,1769 727,1769 838,1769 997,1770 1073,1770 1325,1768 1430,1770 1543,1770 1654,1763"/>
+                <TextEquiv>
+                    <Unicode>Da sagt der hahn: »Wie komme ich dahinüber?» Der hahn wen-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="365,1798 1652,1798 1652,1839 365,1839"/>
+                <Baseline points="365,1830 424,1830 558,1830 679,1830 778,1829 923,1830 987,1829 1080,1830 1176,1830 1242,1830 1340,1830 1474,1830 1652,1829"/>
+                <TextEquiv>
+                    <Unicode>det seinen steiss dem wasser zu und sagt zu dem flusse: »Schlüpf</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="366,1858 1652,1858 1652,1898 366,1898"/>
+                <Baseline points="366,1889 398,1890 580,1898 736,1890 838,1890 980,1890 1058,1890 1125,1891 1296,1890 1471,1891 1547,1891 1652,1891"/>
+                <TextEquiv>
+                    <Unicode>in [meinen] steiss!» Der wasser tut es. Darauf schreitet der hahn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="365,1918 1062,1918 1062,1958 365,1958"/>
+                <Baseline points="365,1949 424,1949 621,1948 725,1948 831,1949 931,1949 1062,1949"/>
+                <TextEquiv>
+                    <Unicode>auf trocknem land über [den fluss].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der hahn wandert immer weiter. Er gelangt an einen fluss.
+Da sagt der hahn: »Wie komme ich dahinüber?» Der hahn wen-
+det seinen steiss dem wasser zu und sagt zu dem flusse: »Schlüpf
+in [meinen] steiss!» Der wasser tut es. Darauf schreitet der hahn
+auf trocknem land über [den fluss].</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_4" custom="readingOrder {index:8;}">
+            <Coords points="365,1976 1657,1976 1657,2500 365,2500"/>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="470,1977 1653,1977 1653,2018 470,2018"/>
+                <Baseline points="470,2010 604,2010 764,2009 860,2009 986,2018 1046,2009 1230,2009 1312,2009 1460,2009 1536,2009 1653,2010"/>
+                <TextEquiv>
+                    <Unicode>Wieder beginnt [der hahn] zu wandern. Er kommt ans meer.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="368,2038 1653,2038 1653,2078 368,2078"/>
+                <Baseline points="368,2069 434,2069 553,2070 668,2070 779,2070 938,2070 1013,2069 1158,2069 1408,2068 1498,2069 1653,2070"/>
+                <TextEquiv>
+                    <Unicode>Der hahn sagt: »Wie komme ich wieder dahinüber?» Er wendet</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="368,2098 1655,2098 1655,2138 368,2138"/>
+                <Baseline points="368,2130 480,2130 600,2130 699,2130 831,2131 906,2136 1000,2131 1085,2130 1184,2129 1315,2129 1418,2130 1517,2130 1655,2129"/>
+                <TextEquiv>
+                    <Unicode>seinen steiss dem meere zu, und aus dem meere geht alles wasser</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="366,2158 1655,2158 1655,2192 366,2192"/>
+                <Baseline points="366,2189 399,2190 544,2190 682,2191 784,2191 969,2191 1052,2190 1164,2191 1247,2190 1444,2190 1548,2190 1655,2190"/>
+                <TextEquiv>
+                    <Unicode>in seinen steiss. Da schreitet der hahn auf trocknem land über</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="370,2218 1655,2218 1655,2259 370,2259"/>
+                <Baseline points="370,2258 442,2250 572,2258 677,2250 841,2250 1001,2250 1067,2250 1166,2250 1293,2250 1408,2251 1540,2251 1655,2250"/>
+                <TextEquiv>
+                    <Unicode>[das meer] und gelangt danach zu dem hause jenes herrn. Der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="366,2278 1653,2278 1653,2319 366,2319"/>
+                <Baseline points="366,2309 458,2309 619,2311 701,2310 788,2310 916,2311 1132,2312 1230,2311 1344,2318 1434,2310 1653,2317"/>
+                <TextEquiv>
+                    <Unicode>hahn klettert auf den zaun: »Kikeriki! Gib [mir] den mühlstein,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="368,2339 1656,2339 1656,2379 368,2379"/>
+                <Baseline points="368,2369 476,2368 588,2371 694,2370 855,2371 999,2371 1092,2371 1206,2371 1326,2371 1403,2371 1522,2371 1656,2364"/>
+                <TextEquiv>
+                    <Unicode>herr!» Der herr kommt heraus und sagt: »Was für einen mühl-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="367,2398 1654,2398 1654,2439 367,2439"/>
+                <Baseline points="367,2431 453,2430 665,2431 774,2429 875,2431 974,2431 1092,2431 1179,2431 1296,2430 1390,2431 1521,2431 1596,2430 1654,2430"/>
+                <TextEquiv>
+                    <Unicode>stein wünschest du?» Der herr fängt den hahn und sperrt ihn zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="368,2459 1655,2459 1655,2499 368,2499"/>
+                <Baseline points="368,2490 431,2490 587,2491 671,2490 757,2490 904,2492 1002,2491 1075,2491 1226,2491 1361,2491 1520,2498 1655,2491"/>
+                <TextEquiv>
+                    <Unicode>den ochsen. Zu den ochsen sagt er: »Stosst diesen tüchtig, sodass</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wieder beginnt [der hahn] zu wandern. Er kommt ans meer.
+Der hahn sagt: »Wie komme ich wieder dahinüber?» Er wendet
+seinen steiss dem meere zu, und aus dem meere geht alles wasser
+in seinen steiss. Da schreitet der hahn auf trocknem land über
+[das meer] und gelangt danach zu dem hause jenes herrn. Der
+hahn klettert auf den zaun: »Kikeriki! Gib [mir] den mühlstein,
+herr!» Der herr kommt heraus und sagt: »Was für einen mühl-
+stein wünschest du?» Der herr fängt den hahn und sperrt ihn zu
+den ochsen. Zu den ochsen sagt er: »Stosst diesen tüchtig, sodass</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:9;}">
+            <Coords points="367,1197 1642,1197 1642,1201 367,1201"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

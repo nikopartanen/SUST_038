@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-02(htr_id=25413)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-28T11:49:19.307+02:00</Created>
+        <LastChange>2020-07-29T15:06:29.487+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: Finnish
+                Language: RussianOldSpelling
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943212" pageNr="15" tsid="35668044" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=QLUBBXHXDNDRQWYBRNPHJHEH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PISBJHKITYUWGGPTIQSGHUKV" imageId="13587236"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0015.jpg" imageWidth="1818" imageHeight="2947">
+        <PrintSpace>
+            <Coords points="183,258 1486,258 1486,2391 183,2391"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953376635" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="758,264 910,264 910,295 758,295"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="759,265 909,265 909,294 759,294"/>
+                <Baseline points="759,284 802,284 843,294 909,283"/>
+                <TextEquiv>
+                    <Unicode>— 5 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 5 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="190,354 1478,354 1478,1062 190,1062"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="191,355 1473,355 1473,399 191,399"/>
+                <Baseline points="191,398 210,398 382,390 446,390 483,390 529,399 718,388 810,396 848,389 950,389 1002,389 1118,386 1237,388 1344,387 1473,386"/>
+                <TextEquiv>
+                    <Unicode>{gasɛ bośtis da i pi̮šjis; i̮llaɛ peti, a seśśa òz vḙrmi̮ petni̮: ge̮ger jigana}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="191,415 1474,415 1474,459 191,459"/>
+                <Baseline points="191,451 204,451 375,449 444,451 601,451 642,450 836,450 888,448 991,449 1027,449 1192,455 1346,448 1474,448"/>
+                <TextEquiv>
+                    <Unicode>{i ńi-ki̮t̕t̕śɛ karśi̮ni̮. a l̕o̭k jḙretńik si̮ ko̭sti i ò̭rot̕t̕śis, kḙrkai̮ś kò̭rśis}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="191,476 1476,476 1476,520 191,520"/>
+                <Baseline points="191,511 212,511 273,512 336,511 558,512 650,512 688,509 818,509 996,510 1085,510 1235,508 1297,516 1340,508 1476,508"/>
+                <TextEquiv>
+                    <Unicode>{da ìz ad̕d̕źi̮. seśśa peti i̮lla vi̮lɛ kò̭rśi̮śni̮. ku₍t̕śis kò̭rśni̮, a iva·n}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="192,537 1475,537 1475,581 192,581"/>
+                <Baseline points="192,572 227,572 316,579 438,570 610,574 741,571 891,571 979,576 1095,571 1148,567 1209,576 1292,567 1412,568 1475,568"/>
+                <TextEquiv>
+                    <Unicode>{òz tè̮d, ki̮₍t̕śɛ karśi̮ni̮. seśśa śinmas uśi, e̮š-ku e̮šalɛ, sii̭ɛ bośtis da}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="193,597 1474,597 1474,642 193,642"/>
+                <Baseline points="193,632 344,633 496,632 533,633 646,632 689,632 783,632 990,631 1127,630 1250,637 1294,630 1378,629 1474,628"/>
+                <TextEquiv>
+                    <Unicode>{tupi̮rt̕śis e̮š-kuas i vo̭dis e̮bes dorɛ. starik ku₍t̕śis petni̮, a ko̭k ulas}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="193,658 1476,658 1476,701 193,701"/>
+                <Baseline points="193,693 299,694 408,701 446,694 575,694 750,693 881,692 1005,692 1074,691 1240,698 1360,690 1476,689"/>
+                <TextEquiv>
+                    <Unicode>tšukis sid̕ź, starik ko̭ńe·r uśi. seśśa starik zèi̭ skḙ̀rmis, bośtis e̮š-ku}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="192,719 1475,719 1475,761 192,761"/>
+                <Baseline points="192,752 233,753 372,753 516,752 638,753 704,752 746,752 774,752 844,752 864,752 889,752 970,751 1006,751 1112,751 1229,749 1405,749 1475,740"/>
+                <TextEquiv>
+                    <Unicode>{da ši̮bi̮tis e̮grada vī̮tii̮s. a iva·nli̮ si̮a i ko̭lɛ tše̮tš e̮š-kunas ši̮-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="193,778 1476,778 1476,818 193,818"/>
+                <Baseline points="193,813 269,813 365,813 523,813 661,813 810,812 871,812 907,812 1034,813 1151,809 1243,810 1288,810 1403,816 1476,816"/>
+                <TextEquiv>
+                    <Unicode>{bi̮tis sii̭ɛ. t̕śḙt̕t̕śis iva·n e̮š-kui̮ś da i muni. gortɛ iva·n vo̭i̭is, zèi̭}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="192,839 1475,839 1475,882 192,882"/>
+                <Baseline points="192,873 259,874 313,873 516,874 595,880 682,871 773,873 813,872 978,873 1149,871 1327,869 1475,868"/>
+                <TextEquiv>
+                    <Unicode>{una d̕ḙńga vajis. si̮ vi̮lɛ stav ve̮lesti̮s d̕ivut̕t̕śis: »iva·n d̕ḙńga una}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="192,897 1473,897 1473,942 192,942"/>
+                <Baseline points="192,933 309,933 438,933 578,934 721,933 868,933 1005,938 1039,933 1238,931 1309,931 1473,929"/>
+                <TextEquiv>
+                    <Unicode>{vajis!» seśśa iva·n ku₍t̕śis ńevesta ko̭rśni̮ i med-be̮ri̮n si̮a ge̮traśis.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="192,957 1477,957 1477,1002 192,1002"/>
+                <Baseline points="192,995 243,994 330,994 440,992 534,993 634,994 737,994 856,993 992,993 1034,992 1181,992 1305,991 1358,990 1477,988"/>
+                <TextEquiv>
+                    <Unicode>{mḙ sen tšetš una vina jui̭i: uskes ke̮tedli a vo̭mam kapl̕a ìz śurli̮!}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="193,1021 874,1021 874,1061 193,1061"/>
+                <Baseline points="193,1054 247,1054 314,1054 416,1053 539,1053 674,1054 874,1053"/>
+                <TextEquiv>
+                    <Unicode>{e̮ni na burā oleni̮s iva·n babai̮sked.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{gasɛ bośtis da i pi̮šjis; i̮llaɛ peti, a seśśa òz vḙrmi̮ petni̮: ge̮ger jigana}
+{i ńi-ki̮t̕t̕śɛ karśi̮ni̮. a l̕o̭k jḙretńik si̮ ko̭sti i ò̭rot̕t̕śis, kḙrkai̮ś kò̭rśis}
+{da ìz ad̕d̕źi̮. seśśa peti i̮lla vi̮lɛ kò̭rśi̮śni̮. ku₍t̕śis kò̭rśni̮, a iva·n}
+{òz tè̮d, ki̮₍t̕śɛ karśi̮ni̮. seśśa śinmas uśi, e̮š-ku e̮šalɛ, sii̭ɛ bośtis da}
+{tupi̮rt̕śis e̮š-kuas i vo̭dis e̮bes dorɛ. starik ku₍t̕śis petni̮, a ko̭k ulas}
+tšukis sid̕ź, starik ko̭ńe·r uśi. seśśa starik zèi̭ skḙ̀rmis, bośtis e̮š-ku}
+{da ši̮bi̮tis e̮grada vī̮tii̮s. a iva·nli̮ si̮a i ko̭lɛ tše̮tš e̮š-kunas ši̮-}
+{bi̮tis sii̭ɛ. t̕śḙt̕t̕śis iva·n e̮š-kui̮ś da i muni. gortɛ iva·n vo̭i̭is, zèi̭}
+{una d̕ḙńga vajis. si̮ vi̮lɛ stav ve̮lesti̮s d̕ivut̕t̕śis: »iva·n d̕ḙńga una}
+{vajis!» seśśa iva·n ku₍t̕śis ńevesta ko̭rśni̮ i med-be̮ri̮n si̮a ge̮traśis.}
+{mḙ sen tšetš una vina jui̭i: uskes ke̮tedli a vo̭mam kapl̕a ìz śurli̮!}
+{e̮ni na burā oleni̮s iva·n babai̮sked.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="194,1209 1479,1209 1479,2385 194,2385"/>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="195,1210 1476,1210 1476,1254 195,1254"/>
+                <Baseline points="195,1245 324,1251 392,1244 444,1243 554,1243 768,1243 865,1243 963,1243 1043,1249 1204,1243 1262,1242 1378,1242 1476,1242"/>
+                <TextEquiv>
+                    <Unicode>davon; er kam hinaus, aber dort [eig. da] gelangt er nicht [aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="196,1271 1475,1271 1475,1311 196,1311"/>
+                <Baseline points="196,1304 254,1304 511,1310 683,1304 807,1303 895,1303 984,1303 1084,1302 1149,1303 1380,1309 1475,1303"/>
+                <TextEquiv>
+                    <Unicode>der umzäunung] hinaus: rings um ihn war es abgesperrt, und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="197,1332 1474,1332 1474,1373 197,1373"/>
+                <Baseline points="197,1364 409,1364 571,1364 638,1364 786,1365 899,1364 1004,1363 1193,1363 1300,1363 1382,1363 1474,1363"/>
+                <TextEquiv>
+                    <Unicode>nirgendshin konnte er gehen. Der arge zauberer aber riss sich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="196,1392 1476,1392 1476,1433 196,1433"/>
+                <Baseline points="196,1424 416,1423 508,1431 660,1424 900,1432 982,1423 1123,1430 1235,1424 1323,1423 1476,1423"/>
+                <TextEquiv>
+                    <Unicode>mittlerweile los, suchte [Hänschen] im hause, fand ihn jedoch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="196,1452 1476,1452 1476,1493 196,1493"/>
+                <Baseline points="196,1485 299,1484 463,1483 564,1492 620,1483 772,1491 854,1483 961,1491 1029,1483 1186,1484 1266,1483 1419,1483 1476,1484"/>
+                <TextEquiv>
+                    <Unicode>nicht. Darauf ging er hinaus, um [ihn] zu suchen. Er begann zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="196,1512 1476,1512 1476,1551 196,1551"/>
+                <Baseline points="196,1544 330,1550 429,1544 640,1543 765,1544 902,1551 1035,1543 1093,1543 1186,1544 1285,1544 1476,1544"/>
+                <TextEquiv>
+                    <Unicode>suchen, und Hänschen weiss nicht, wohin er soll. Da gewahrte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="196,1571 1476,1571 1476,1611 196,1611"/>
+                <Baseline points="196,1604 230,1604 325,1604 568,1603 810,1611 887,1603 1012,1602 1081,1610 1256,1603 1348,1602 1405,1603 1476,1603"/>
+                <TextEquiv>
+                    <Unicode>er eine dahängende ochsenhaut, die nahm er, wickelte sich in die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="197,1631 1477,1631 1477,1671 197,1671"/>
+                <Baseline points="197,1663 404,1663 502,1663 618,1664 720,1663 858,1663 947,1662 1033,1662 1180,1663 1296,1662 1391,1663 1477,1653"/>
+                <TextEquiv>
+                    <Unicode>ochsenhaut und legte sich neben der tür nieder. Der alte be-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="196,1691 1478,1691 1478,1731 196,1731"/>
+                <Baseline points="196,1731 284,1723 599,1728 710,1723 800,1722 900,1723 1141,1728 1281,1723 1362,1722 1478,1723"/>
+                <TextEquiv>
+                    <Unicode>gann hinauszugehen, aber der fuss strauchelte, sodass der arme</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="197,1750 1476,1750 1476,1791 197,1791"/>
+                <Baseline points="197,1782 264,1783 413,1784 509,1783 643,1782 725,1783 815,1783 897,1783 1043,1789 1167,1782 1246,1783 1476,1783"/>
+                <TextEquiv>
+                    <Unicode>alte hinfiel. Da wurde der alte gar zornig, nahm die ochsenhaut</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="199,1811 1477,1811 1477,1851 199,1851"/>
+                <Baseline points="199,1842 266,1843 380,1842 454,1843 567,1843 651,1842 772,1843 908,1843 990,1843 1072,1843 1275,1843 1334,1843 1477,1843"/>
+                <TextEquiv>
+                    <Unicode>und warf sie über den zaun. Aber das hat Hänschen ja gerade</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="198,1871 1478,1871 1478,1912 198,1912"/>
+                <Baseline points="198,1903 305,1903 528,1904 614,1904 696,1903 926,1903 1009,1903 1067,1902 1175,1902 1256,1903 1478,1897"/>
+                <TextEquiv>
+                    <Unicode>nötig: zusammen mit der ochsenhaut hat er auch ihn hinüberge-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="197,1930 1475,1930 1475,1972 197,1972"/>
+                <Baseline points="197,1963 331,1963 558,1963 708,1964 795,1963 877,1963 1107,1963 1250,1963 1343,1964 1475,1963"/>
+                <TextEquiv>
+                    <Unicode>worfen. Hänschen hüpfte aus der ochsenhaut heraus und begab</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="197,1991 1476,1991 1476,2032 197,2032"/>
+                <Baseline points="197,2024 265,2023 349,2022 436,2024 539,2024 756,2024 892,2024 1048,2023 1126,2030 1290,2024 1389,2023 1476,2023"/>
+                <TextEquiv>
+                    <Unicode>sich auf den weg. Hänschen langte daheim an, brachte sehr viel</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="197,2052 1476,2052 1476,2092 197,2092"/>
+                <Baseline points="197,2091 272,2083 367,2083 556,2084 809,2084 902,2083 983,2084 1106,2084 1254,2084 1476,2084"/>
+                <TextEquiv>
+                    <Unicode>geld mit. Darüber verwunderte sich der ganze wolost: »Hänschen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="198,2112 1477,2112 1477,2153 198,2153"/>
+                <Baseline points="198,2143 258,2144 346,2143 442,2144 659,2144 744,2144 898,2145 1102,2143 1195,2143 1291,2144 1415,2144 1477,2144"/>
+                <TextEquiv>
+                    <Unicode>hat viel geld gebracht!» Da begann Hänschen sich eine braut zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="199,2172 1478,2172 1478,2211 199,2211"/>
+                <Baseline points="199,2203 312,2210 414,2203 559,2204 812,2204 870,2204 971,2204 1077,2203 1200,2203 1301,2203 1396,2202 1478,2203"/>
+                <TextEquiv>
+                    <Unicode>freien, und später verheiratete er sich. Ich trank dort [auf der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="198,2232 1477,2232 1477,2272 198,2272"/>
+                <Baseline points="198,2262 362,2271 581,2263 681,2264 896,2272 981,2263 1221,2264 1308,2263 1477,2256"/>
+                <TextEquiv>
+                    <Unicode>hochzeit] zusammen [mit Hänschen] viel branntwein: den schnurr-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="198,2290 1476,2290 1476,2331 198,2331"/>
+                <Baseline points="198,2321 276,2322 512,2324 587,2323 684,2330 789,2323 837,2323 919,2324 1040,2324 1135,2323 1215,2324 1308,2323 1476,2324"/>
+                <TextEquiv>
+                    <Unicode>bart befeuchtete ich mir, aber in den mund kam mir kein tropfen!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="198,2351 1475,2351 1475,2384 198,2384"/>
+                <Baseline points="198,2383 277,2382 409,2383 527,2383 629,2383 836,2384 921,2384 1070,2384 1196,2383 1254,2384 1475,2383"/>
+                <TextEquiv>
+                    <Unicode>Und heute noch lebt Hänschen mit seinem weibe in wohlstand. </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>davon; er kam hinaus, aber dort [eig. da] gelangt er nicht [aus
+der umzäunung] hinaus: rings um ihn war es abgesperrt, und 
+nirgendshin konnte er gehen. Der arge zauberer aber riss sich
+mittlerweile los, suchte [Hänschen] im hause, fand ihn jedoch
+nicht. Darauf ging er hinaus, um [ihn] zu suchen. Er begann zu
+suchen, und Hänschen weiss nicht, wohin er soll. Da gewahrte
+er eine dahängende ochsenhaut, die nahm er, wickelte sich in die
+ochsenhaut und legte sich neben der tür nieder. Der alte be-
+gann hinauszugehen, aber der fuss strauchelte, sodass der arme
+alte hinfiel. Da wurde der alte gar zornig, nahm die ochsenhaut
+und warf sie über den zaun. Aber das hat Hänschen ja gerade
+nötig: zusammen mit der ochsenhaut hat er auch ihn hinüberge-
+worfen. Hänschen hüpfte aus der ochsenhaut heraus und begab
+sich auf den weg. Hänschen langte daheim an, brachte sehr viel
+geld mit. Darüber verwunderte sich der ganze wolost: »Hänschen
+hat viel geld gebracht!» Da begann Hänschen sich eine braut zu
+freien, und später verheiratete er sich. Ich trank dort [auf der
+hochzeit] zusammen [mit Hänschen] viel branntwein: den schnurr-
+bart befeuchtete ich mir, aber in den mund kam mir kein tropfen!
+Und heute noch lebt Hänschen mit seinem weibe in wohlstand. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="254,1154 1114,1154 1114,1158 254,1158"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:41.001+02:00</Created>
+        <LastChange>2020-08-21T11:51:20.100+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943320" pageNr="68" tsid="37554461" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=YTXNNXPKPOPETPQMNQUCFSKU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLLIKLSLPQHCBBWQBZRIFVPT" imageId="13587344"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0068.jpg" imageWidth="1819" imageHeight="2952">
+        <PrintSpace>
+            <Coords points="358,242 1665,242 1665,2472 358,2472"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953383068" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="923,248 1098,248 1098,279 923,279"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="924,249 1097,249 1097,278 924,278"/>
+                <Baseline points="924,269 968,269 1009,278 1097,269"/>
+                <TextEquiv>
+                    <Unicode>— 58 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 58 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="363,340 1657,340 1657,1053 363,1053"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="364,341 1650,341 1650,381 364,381"/>
+                <Baseline points="364,371 467,371 627,374 752,372 860,374 964,374 1110,375 1225,374 1342,375 1450,375 1559,375 1650,375"/>
+                <TextEquiv>
+                    <Unicode>{vo₍d̕źe̮ munas. bara voas me̮d kerkae̮ uźni̮. seni bara t̕e̮tka ole̮:}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="366,401 1652,401 1652,444 366,444"/>
+                <Baseline points="366,433 379,433 475,440 604,440 705,435 842,434 962,441 1066,434 1252,436 1381,444 1465,443 1531,436 1652,435"/>
+                <TextEquiv>
+                    <Unicode>{»t̕e̮tka, t̕e̮tka, led̕ź uźni̮!» »lok, uź!» »menam kure̮g em, da ki̮t̕t̕śe̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="366,461 1652,461 1652,505 366,505"/>
+                <Baseline points="366,493 499,493 663,495 771,496 888,496 1045,497 1151,497 1305,497 1471,498 1652,497"/>
+                <TextEquiv>
+                    <Unicode>{le₍d̕źa?» »juśjas dine̮ led̕ź.» voi̭nas d̕a̭d̕e̮ kure̮ge̮s nat̕śkas. askinas}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="366,523 1654,523 1654,566 366,566"/>
+                <Baseline points="366,554 444,555 562,555 678,556 872,557 1042,557 1192,557 1371,558 1452,557 1654,555"/>
+                <TextEquiv>
+                    <Unicode>{bara kutas šuni̮: »meńt̕śi̮m juśjasi̮d kure̮ge̮s vie̮mae̮ś! me sud̕it̕t̕śi̮ni̮}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="366,583 1650,583 1650,627 366,627"/>
+                <Baseline points="366,615 500,613 587,616 701,623 796,616 878,617 1008,618 1128,617 1246,619 1325,596 1451,618 1506,618 1650,618"/>
+                <TextEquiv>
+                    <Unicode>{muna!» »en mun, med bur juśke̮s śeta!» d̕a̭d̕e̮ juś bośtas da munas.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="366,644 1654,644 1654,686 366,686"/>
+                <Baseline points="366,676 476,676 549,676 651,677 742,677 939,678 1080,678 1179,679 1277,679 1385,679 1493,679 1654,678"/>
+                <TextEquiv>
+                    <Unicode>{loktan voi̭ kežle̮ bara uźme̮d̕t̕śas koi̭me̮d t̕e̮tka orde̮. bara šuas: »menam}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="366,704 1654,704 1654,747 366,747"/>
+                <Baseline points="366,736 415,737 511,744 576,737 692,739 847,736 990,739 1088,739 1256,740 1413,740 1519,740 1654,739"/>
+                <TextEquiv>
+                    <Unicode>{em juś, da ki̮t̕t̕śe̮ le₍d̕źa?» »i̮žjas dine̮ let̕t̕śe̮d!» voi̭nas d̕a̭d̕e̮ let̕t̕śas}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="366,766 1653,766 1653,809 366,809"/>
+                <Baseline points="366,798 507,805 641,798 745,801 914,800 1028,800 1220,800 1346,800 1486,801 1653,799"/>
+                <TextEquiv>
+                    <Unicode>{kartaas, juśke̮s vias. askinas šuas: »meńt̕śi̮m juśke̮s i̮žjasi̮d vie̮mae̮ś!}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="366,828 1655,828 1655,867 366,867"/>
+                <Baseline points="366,858 416,859 546,859 779,860 895,860 988,861 1093,860 1271,862 1367,861 1448,861 1549,867 1592,860 1655,861"/>
+                <TextEquiv>
+                    <Unicode>{me muna sud̕it̕t̕śi̮ni̮!» t̕e̮tka šue̮: »bośt meńt̕śi̮m med bur i̮že̮s, a en}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="365,888 1655,888 1655,932 365,932"/>
+                <Baseline points="365,919 446,920 690,919 816,922 915,921 1050,921 1123,922 1224,922 1349,922 1498,921 1655,921"/>
+                <TextEquiv>
+                    <Unicode>{mun sud̕it̕t̕śi̮ni̮!» d̕a̭d̕e̮ i̮že̮s bośtas da bara vo₍d̕źe̮ munas. loktan}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="366,948 1656,948 1656,989 366,989"/>
+                <Baseline points="366,980 435,980 650,981 758,982 859,982 1036,983 1152,983 1344,982 1429,982 1525,983 1656,982"/>
+                <TextEquiv>
+                    <Unicode>{voje̮ uźme̮d̕t̕śas bara e̮t̕ik kerkai̮n. seni tše̮ktasni̮ si̮li̮ i̮že̮s led̕źni̮}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="366,1008 1651,1008 1651,1052 366,1052"/>
+                <Baseline points="366,1039 451,1041 567,1042 728,1043 802,1042 843,1044 942,1043 1099,1044 1162,1043 1322,1044 1358,1043 1451,1044 1651,1044"/>
+                <TextEquiv>
+                    <Unicode>{ešjas dine̮. voi̭nas d̕a̭d̕e̮ i̮že̮s nat̕śkas da asi̮vnas i šuḙ: »meńt̕śi̮m}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{vo₍d̕źe̮ munas. bara voas me̮d kerkae̮ uźni̮. seni bara t̕e̮tka ole̮:}
+{»t̕e̮tka, t̕e̮tka, led̕ź uźni̮!» »lok, uź!» »menam kure̮g em, da ki̮t̕t̕śe̮}
+{le₍d̕źa?» »juśjas dine̮ led̕ź.» voi̭nas d̕a̭d̕e̮ kure̮ge̮s nat̕śkas. askinas}
+{bara kutas šuni̮: »meńt̕śi̮m juśjasi̮d kure̮ge̮s vie̮mae̮ś! me sud̕it̕t̕śi̮ni̮}
+{muna!» »en mun, med bur juśke̮s śeta!» d̕a̭d̕e̮ juś bośtas da munas.}
+{loktan voi̭ kežle̮ bara uźme̮d̕t̕śas koi̭me̮d t̕e̮tka orde̮. bara šuas: »menam}
+{em juś, da ki̮t̕t̕śe̮ le₍d̕źa?» »i̮žjas dine̮ let̕t̕śe̮d!» voi̭nas d̕a̭d̕e̮ let̕t̕śas}
+{kartaas, juśke̮s vias. askinas šuas: »meńt̕śi̮m juśke̮s i̮žjasi̮d vie̮mae̮ś!}
+{me muna sud̕it̕t̕śi̮ni̮!» t̕e̮tka šue̮: »bośt meńt̕śi̮m med bur i̮že̮s, a en}
+{mun sud̕it̕t̕śi̮ni̮!» d̕a̭d̕e̮ i̮že̮s bośtas da bara vo₍d̕źe̮ munas. loktan}
+{voje̮ uźme̮d̕t̕śas bara e̮t̕ik kerkai̮n. seni tše̮ktasni̮ si̮li̮ i̮že̮s led̕źni̮}
+{ešjas dine̮. voi̭nas d̕a̭d̕e̮ i̮že̮s nat̕śkas da asi̮vnas i šuḙ: »meńt̕śi̮m}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="365,1157 1659,1157 1659,2466 365,2466"/>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="367,1158 1655,1158 1655,1199 367,1199"/>
+                <Baseline points="367,1190 420,1191 534,1190 643,1199 736,1191 859,1191 1015,1190 1127,1191 1216,1192 1362,1191 1446,1192 1560,1191 1655,1192"/>
+                <TextEquiv>
+                    <Unicode>ich gebe [dir] das beste huhn!» Der alte nimmt das huhn und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="367,1219 1655,1219 1655,1253 367,1253"/>
+                <Baseline points="367,1250 518,1251 673,1252 853,1252 1015,1252 1079,1252 1156,1252 1232,1253 1358,1252 1415,1252 1492,1252 1655,1253"/>
+                <TextEquiv>
+                    <Unicode>wandert weiter. Wieder kommt er für die nacht in ein anderes</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="367,1280 1656,1280 1656,1320 367,1320"/>
+                <Baseline points="367,1311 461,1312 604,1312 730,1312 878,1312 983,1313 1101,1312 1228,1313 1426,1320 1540,1313 1656,1306"/>
+                <TextEquiv>
+                    <Unicode>haus. Auch darin wohnt eine frau: »Mein tantchen, mein tant-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="366,1341 1656,1341 1656,1381 366,1381"/>
+                <Baseline points="366,1373 463,1376 552,1373 691,1380 794,1372 968,1373 1078,1372 1263,1380 1439,1371 1546,1374 1656,1374"/>
+                <TextEquiv>
+                    <Unicode>chen, lass [mich] zum schlafen ein!» »Komm, schlafe!» »lch habe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="367,1401 1656,1401 1656,1443 367,1443"/>
+                <Baseline points="367,1433 420,1433 548,1440 652,1434 724,1434 810,1433 885,1434 967,1442 1156,1433 1269,1435 1351,1443 1418,1435 1507,1435 1656,1425"/>
+                <TextEquiv>
+                    <Unicode>ein huhn, aber wo soll ich [es] hintun?» »ue [es] zu den schwä-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="368,1462 1655,1462 1655,1502 368,1502"/>
+                <Baseline points="368,1492 459,1491 544,1493 635,1494 769,1494 915,1494 1002,1494 1093,1494 1176,1494 1293,1494 1384,1494 1495,1494 1655,1494"/>
+                <TextEquiv>
+                    <Unicode>nen.» In der nacht bringt der alte das huhn um. Am morgen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="367,1521 1656,1521 1656,1563 367,1563"/>
+                <Baseline points="367,1552 508,1553 566,1553 710,1553 773,1554 913,1554 1058,1555 1235,1554 1368,1554 1456,1554 1539,1554 1656,1554"/>
+                <TextEquiv>
+                    <Unicode>beginnt er wieder zu sagen: »Deine schwäne haben mir das huhn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="368,1581 1654,1581 1654,1623 368,1623"/>
+                <Baseline points="368,1613 606,1614 711,1613 818,1614 1039,1622 1128,1614 1309,1613 1442,1614 1574,1620 1654,1614"/>
+                <TextEquiv>
+                    <Unicode>umgebracht! Ich gehe [deswegen] vor gericht!» »Geh nicht, ich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="367,1642 1654,1642 1654,1682 367,1682"/>
+                <Baseline points="367,1682 450,1673 550,1673 725,1682 868,1674 1061,1672 1173,1674 1263,1674 1410,1674 1496,1674 1654,1674"/>
+                <TextEquiv>
+                    <Unicode>gebe [dir meinen] besten schwan!» Der alte nimmt den schwan</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="368,1702 1654,1702 1654,1742 368,1742"/>
+                <Baseline points="368,1733 437,1734 550,1734 651,1734 830,1735 940,1735 1126,1736 1261,1735 1395,1735 1454,1734 1530,1734 1654,1734"/>
+                <TextEquiv>
+                    <Unicode>und geht von dannen. Die folgende nacht bleibt er die nacht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="368,1762 1656,1762 1656,1803 368,1803"/>
+                <Baseline points="368,1795 451,1794 601,1793 682,1794 796,1794 944,1795 1054,1795 1276,1794 1374,1794 1445,1794 1546,1794 1656,1794"/>
+                <TextEquiv>
+                    <Unicode>über wieder bei einer dritten frau. Abermals sagt er: »lch habe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="367,1823 1656,1823 1656,1864 367,1864"/>
+                <Baseline points="367,1856 464,1855 631,1862 737,1855 809,1855 893,1854 968,1854 1074,1862 1262,1853 1391,1855 1497,1862 1569,1854 1656,1854"/>
+                <TextEquiv>
+                    <Unicode>einen schwan, aber wo soll ich [ihn] hintun?» »'ue [ihn] zu den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="367,1882 1658,1882 1658,1923 367,1923"/>
+                <Baseline points="367,1915 538,1913 611,1915 694,1914 813,1915 908,1915 983,1915 1066,1915 1121,1915 1202,1915 1413,1914 1523,1922 1658,1914"/>
+                <TextEquiv>
+                    <Unicode>schafen!» In der nacht geht der alte in den viehpferch [und] bringt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="369,1942 1658,1942 1658,1983 369,1983"/>
+                <Baseline points="369,1976 434,1976 601,1974 706,1975 818,1974 983,1974 1081,1975 1154,1975 1299,1974 1436,1975 1570,1974 1658,1973"/>
+                <TextEquiv>
+                    <Unicode>den schwan um. Am morgen sagt er: »Deine schafe haben mir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="368,2003 1656,2003 1656,2044 368,2044"/>
+                <Baseline points="368,2036 432,2035 588,2034 850,2035 955,2034 1061,2034 1285,2043 1374,2034 1556,2033 1656,2035"/>
+                <TextEquiv>
+                    <Unicode>den schwan umgebracht! Ich gehe [deswegen] vor gericht!» Die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="368,2062 1658,2062 1658,2103 368,2103"/>
+                <Baseline points="368,2095 441,2095 564,2096 729,2095 818,2095 940,2095 1058,2095 1147,2095 1245,2101 1352,2095 1456,2095 1573,2094 1658,2094"/>
+                <TextEquiv>
+                    <Unicode>frau sagt: »Nimm das beste schaf von mir, aber gehe nicht vor</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="367,2123 1655,2123 1655,2164 367,2164"/>
+                <Baseline points="367,2164 528,2154 641,2155 741,2156 894,2154 979,2155 1095,2154 1187,2154 1364,2154 1510,2155 1655,2154"/>
+                <TextEquiv>
+                    <Unicode>gericht!» Der alte nimmt das schaf und wandert wieder weiter.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="371,2182 1654,2182 1654,2224 371,2224"/>
+                <Baseline points="371,2216 432,2215 610,2216 739,2216 867,2215 926,2215 1069,2214 1144,2214 1271,2214 1371,2214 1419,2213 1544,2214 1654,2214"/>
+                <TextEquiv>
+                    <Unicode>Die folgende nacht bleibt er wieder die nacht über in einem haus.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="370,2243 1656,2243 1656,2276 370,2276"/>
+                <Baseline points="370,2276 454,2275 606,2276 677,2276 756,2275 843,2275 959,2274 1022,2275 1109,2274 1256,2274 1357,2275 1446,2274 1533,2274 1656,2274"/>
+                <TextEquiv>
+                    <Unicode>Dort heissen sie ihn das schaf zu den ochsen tun. In der nacht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="367,2302 1658,2302 1658,2344 367,2344"/>
+                <Baseline points="367,2336 457,2336 544,2335 638,2336 728,2335 844,2335 936,2335 1036,2335 1114,2335 1292,2335 1429,2334 1575,2334 1658,2328"/>
+                <TextEquiv>
+                    <Unicode>tötet der alte das schaf und sagt am morgen: »Eure ochsen ha-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="368,2363 1657,2363 1657,2405 368,2405"/>
+                <Baseline points="368,2395 433,2396 530,2396 622,2396 738,2395 908,2396 1014,2396 1120,2396 1290,2404 1378,2395 1560,2394 1657,2395"/>
+                <TextEquiv>
+                    <Unicode>ben mir das schaf getötet! Ich gehe [darum] vor gericht!» Sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="368,2423 1657,2423 1657,2465 368,2465"/>
+                <Baseline points="368,2465 475,2456 579,2456 708,2456 860,2456 1027,2457 1120,2456 1267,2456 1355,2455 1512,2462 1657,2454"/>
+                <TextEquiv>
+                    <Unicode>geben ihm ihren besten ochsen. Er nimmt den ochsen, schirrt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ich gebe [dir] das beste huhn!» Der alte nimmt das huhn und 
+wandert weiter. Wieder kommt er für die nacht in ein anderes
+haus. Auch darin wohnt eine frau: »Mein tantchen, mein tant-
+chen, lass [mich] zum schlafen ein!» »Komm, schlafe!» »lch habe
+ein huhn, aber wo soll ich [es] hintun?» »ue [es] zu den schwä-
+nen.» In der nacht bringt der alte das huhn um. Am morgen
+beginnt er wieder zu sagen: »Deine schwäne haben mir das huhn
+umgebracht! Ich gehe [deswegen] vor gericht!» »Geh nicht, ich
+gebe [dir meinen] besten schwan!» Der alte nimmt den schwan
+und geht von dannen. Die folgende nacht bleibt er die nacht
+über wieder bei einer dritten frau. Abermals sagt er: »lch habe
+einen schwan, aber wo soll ich [ihn] hintun?» »'ue [ihn] zu den
+schafen!» In der nacht geht der alte in den viehpferch [und] bringt
+den schwan um. Am morgen sagt er: »Deine schafe haben mir
+den schwan umgebracht! Ich gehe [deswegen] vor gericht!» Die
+frau sagt: »Nimm das beste schaf von mir, aber gehe nicht vor
+gericht!» Der alte nimmt das schaf und wandert wieder weiter.
+Die folgende nacht bleibt er wieder die nacht über in einem haus.
+Dort heissen sie ihn das schaf zu den ochsen tun. In der nacht
+tötet der alte das schaf und sagt am morgen: »Eure ochsen ha-
+ben mir das schaf getötet! Ich gehe [darum] vor gericht!» Sie
+geben ihm ihren besten ochsen. Er nimmt den ochsen, schirrt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:3;}">
+            <Coords points="368,1090 1654,1090 1654,1095 368,1095"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

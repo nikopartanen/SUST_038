@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-19T13:25:54.972+02:00</Created>
+        <LastChange>2020-08-19T13:33:48.431+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: RussianOldSpelling
+                Language: Finnish
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943572" pageNr="172" tsid="37292335" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=PERLFLPABAWIWPLWQMEIBBDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNPRPWRSRDADOLOYOBUBXMBB" imageId="13587596"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0172.jpg" imageWidth="1787" imageHeight="2953">
+        <PrintSpace>
+            <Coords points="353,261 1661,261 1661,2522 353,2522"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953396093" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_2_4"/>
+                <RegionRefIndexed index="5" regionRef="r_2_5"/>
+                <RegionRefIndexed index="6" regionRef="r_2_6"/>
+                <RegionRefIndexed index="7" regionRef="r_2_7"/>
+                <RegionRefIndexed index="8" regionRef="r_2_8"/>
+                <RegionRefIndexed index="9" regionRef="r_2_9"/>
+                <RegionRefIndexed index="10" regionRef="r_2_10"/>
+                <RegionRefIndexed index="11" regionRef="r_3_1"/>
+                <RegionRefIndexed index="12" regionRef="r_3_2"/>
+                <RegionRefIndexed index="13" regionRef="r_3_3"/>
+                <RegionRefIndexed index="14" regionRef="r_3_4"/>
+                <RegionRefIndexed index="15" regionRef="r_3_5"/>
+                <RegionRefIndexed index="16" regionRef="r_3_6"/>
+                <RegionRefIndexed index="17" regionRef="r_3_7"/>
+                <RegionRefIndexed index="18" regionRef="r_3_8"/>
+                <RegionRefIndexed index="19" regionRef="r_3_9"/>
+                <RegionRefIndexed index="20" regionRef="r_3_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="975,267 1103,267 1103,298 975,298"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="976,268 1102,268 1102,297 976,297"/>
+                <Baseline points="976,296 991,296 1102,288"/>
+                <TextEquiv>
+                    <Unicode>162 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>162 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="464,358 1599,358 1599,403 464,403"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="465,359 1598,359 1598,402 465,402"/>
+                <Baseline points="465,391 480,391 701,391 754,391 869,391 938,400 1002,393 1143,392 1260,394 1336,394 1464,385 1598,394"/>
+                <TextEquiv>
+                    <Unicode>{164. pit̕eri̮n keraśe̮ni̮, da t̕śagji̮s tat̕t̕śe̮ t̕śukte̮. — piśme̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{164. pit̕eri̮n keraśe̮ni̮, da t̕śagji̮s tat̕t̕śe̮ t̕śukte̮. — piśme̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="359,419 1649,419 1649,523 359,523"/>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="466,420 1648,420 1648,462 466,462"/>
+                <Baseline points="466,451 482,451 656,451 728,452 845,453 996,453 1078,453 1215,454 1252,454 1376,454 1494,454 1538,455 1648,446"/>
+                <TextEquiv>
+                    <Unicode>{165. pit̕eri̮n ve̮v ge̮re̮ktas, a śije̮si̮s i domi̮s tat̕t̕śe̮ uśe̮. —}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="360,480 777,480 777,522 360,522"/>
+                <Baseline points="360,520 450,512 670,513 777,514"/>
+                <TextEquiv>
+                    <Unicode>{juve̮r saldat̕t̕śina ji̮li̮ś.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{165. pit̕eri̮n ve̮v ge̮re̮ktas, a śije̮si̮s i domi̮s tat̕t̕śe̮ uśe̮. —}
+{juve̮r saldat̕t̕śina ji̮li̮ś.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+            <Coords points="466,540 1391,540 1391,583 466,583"/>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="467,541 1390,541 1390,582 467,582"/>
+                <Baseline points="467,572 482,572 740,573 871,574 946,574 1046,574 1194,566 1390,577"/>
+                <TextEquiv>
+                    <Unicode>{166. pi̮de̮ste̮m pel̕sae̮ ja̭i̭ solale̮ma. — t̕śuń-ki̮tš.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{166. pi̮de̮ste̮m pel̕sae̮ ja̭i̭ solale̮ma. — t̕śuń-ki̮tš.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:4;}">
+            <Coords points="466,601 1648,601 1648,646 466,646"/>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="467,602 1647,602 1647,645 467,645"/>
+                <Baseline points="467,634 482,634 650,642 696,642 920,635 959,635 1032,635 1077,633 1151,634 1276,633 1429,636 1554,627 1592,645 1647,638"/>
+                <TextEquiv>
+                    <Unicode>{167. pop petas, kl̕u₍t̕śi̮s uśe̮, te̮li̮ś ad̕d̕źas, šondi̮ d̕źebas. — puž.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{167. pop petas, kl̕u₍t̕śi̮s uśe̮, te̮li̮ś ad̕d̕źas, šondi̮ d̕źebas. — puž.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_5" custom="readingOrder {index:5;}">
+            <Coords points="467,662 1647,662 1647,707 467,707"/>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="468,663 1646,663 1646,706 468,706"/>
+                <Baseline points="468,694 506,694 608,703 636,703 700,695 840,702 905,695 964,695 1129,704 1242,696 1272,696 1359,687 1478,697 1646,697"/>
+                <TextEquiv>
+                    <Unicode>{168. po₍tše̮s kiśśas, da oz vermi̮ni̮ tet̕śni̮ se̮. — sartas jukale̮m.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{168. po₍tše̮s kiśśas, da oz vermi̮ni̮ tet̕śni̮ se̮. — sartas jukale̮m.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_6" custom="readingOrder {index:6;}">
+            <Coords points="362,723 1649,723 1649,826 362,826"/>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="468,724 1648,724 1648,766 468,766"/>
+                <Baseline points="468,755 483,755 701,756 743,756 867,765 981,757 1247,757 1285,757 1351,757 1463,766 1591,757 1648,758"/>
+                <TextEquiv>
+                    <Unicode>{169. po₍tše̮s kiśtan (od: kośalan), tet̕śni̮ on vermi̮ (od: da on}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="363,784 978,784 978,825 363,825"/>
+                <Baseline points="363,816 464,815 545,815 678,807 804,816 978,817"/>
+                <TextEquiv>
+                    <Unicode>{vermi̮ tet̕śni̮). — sartas jukale̮m.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{169. po₍tše̮s kiśtan (od: kośalan), tet̕śni̮ on vermi̮ (od: da on}
+{vermi̮ tet̕śni̮). — sartas jukale̮m.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_7" custom="readingOrder {index:7;}">
+            <Coords points="467,844 1252,844 1252,886 467,886"/>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="468,845 1251,845 1251,885 468,885"/>
+                <Baseline points="468,877 505,877 607,885 633,885 699,877 807,877 903,878 990,878 1044,878 1186,868 1251,878"/>
+                <TextEquiv>
+                    <Unicode>{170. po₍tše̮s kuža ge̮rd kań mune̮. — bi.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{170. po₍tše̮s kuža ge̮rd kań mune̮. — bi.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_8" custom="readingOrder {index:8;}">
+            <Coords points="468,905 1348,905 1348,947 468,947"/>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="469,906 1347,906 1347,946 469,946"/>
+                <Baseline points="469,937 484,937 702,937 808,938 899,936 989,946 1116,930 1347,939"/>
+                <TextEquiv>
+                    <Unicode>{171. po₍tše̮s kuźa gre̮š t̕urjale̮. — ko₍d̕źuv-kot.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{171. po₍tše̮s kuźa gre̮š t̕urjale̮. — ko₍d̕źuv-kot.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_9" custom="readingOrder {index:9;}">
+            <Coords points="470,965 1357,965 1357,1007 470,1007"/>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="471,966 1356,966 1356,1006 471,1006"/>
+                <Baseline points="471,998 485,998 703,997 805,998 896,997 989,999 1109,990 1170,999 1356,998"/>
+                <TextEquiv>
+                    <Unicode>{172. po₍tše̮s vi̮vti ke̮t̕ś kote̮rte̮. — va vizuvte̮m.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{172. po₍tše̮s vi̮vti ke̮t̕ś kote̮rte̮. — va vizuvte̮m.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_10" custom="readingOrder {index:10;}">
+            <Coords points="363,1026 1650,1026 1650,1131 363,1131"/>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="469,1027 1649,1027 1649,1067 469,1067"/>
+                <Baseline points="469,1057 484,1057 631,1058 718,1058 824,1058 948,1059 1039,1066 1076,1060 1084,1063 1165,1060 1247,1059 1353,1060 1482,1060 1573,1067 1649,1052"/>
+                <TextEquiv>
+                    <Unicode>{173. pu kar vi̮las i₍d̕źas kar, i₍d̕źas kar vi̮las ruzi̮m kar, ru-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="364,1086 1392,1086 1392,1130 364,1130"/>
+                <Baseline points="364,1119 429,1119 511,1119 618,1119 759,1120 832,1128 1023,1120 1117,1112 1279,1121 1392,1121"/>
+                <TextEquiv>
+                    <Unicode>{zi̮m kar vi̮las ki̮vte̮m vojevoda kui̭le̮. — zi̮pkai̮n kaga.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{173. pu kar vi̮las i₍d̕źas kar, i₍d̕źas kar vi̮las ruzi̮m kar, ru-}
+{zi̮m kar vi̮las ki̮vte̮m vojevoda kui̭le̮. — zi̮pkai̮n kaga.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:11;}">
+            <Coords points="363,1216 1651,1216 1651,1311 363,1311"/>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="471,1217 1650,1217 1650,1259 471,1259"/>
+                <Baseline points="471,1249 541,1249 667,1249 783,1249 890,1250 956,1251 1184,1258 1270,1251 1406,1252 1518,1251 1650,1251"/>
+                <TextEquiv>
+                    <Unicode>164. Man haut holz in Petrograd, die späne aber fallen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="364,1277 781,1277 781,1310 364,1310"/>
+                <Baseline points="364,1309 505,1309 572,1300 664,1309 781,1310"/>
+                <TextEquiv>
+                    <Unicode>hierher. — Der brief.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>164. Man haut holz in Petrograd, die späne aber fallen
+hierher. — Der brief.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:12;}">
+            <Coords points="365,1337 1651,1337 1651,1498 365,1498"/>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="471,1338 1649,1338 1649,1380 471,1380"/>
+                <Baseline points="471,1368 541,1370 657,1369 776,1371 937,1371 994,1371 1213,1378 1318,1372 1395,1372 1565,1372 1649,1372"/>
+                <TextEquiv>
+                    <Unicode>165. Das pferd wiehert in Petrograd, aber das kummet und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="366,1398 1650,1398 1650,1432 366,1432"/>
+                <Baseline points="366,1431 423,1430 544,1429 700,1430 775,1431 938,1432 999,1422 1082,1432 1282,1432 1373,1432 1455,1431 1650,1422"/>
+                <TextEquiv>
+                    <Unicode>der zaum reichen bis hierher. — Die nachricht von der rekruten-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="366,1456 573,1456 573,1497 366,1497"/>
+                <Baseline points="366,1489 573,1489"/>
+                <TextEquiv>
+                    <Unicode>aushebung.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>165. Das pferd wiehert in Petrograd, aber das kummet und 
+der zaum reichen bis hierher. — Die nachricht von der rekruten-
+aushebung.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:13;}">
+            <Coords points="364,1515 1649,1515 1649,1618 364,1618"/>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="471,1516 1648,1516 1648,1557 471,1557"/>
+                <Baseline points="471,1549 540,1548 627,1548 759,1548 882,1547 983,1548 1108,1547 1187,1548 1282,1547 1415,1548 1648,1550"/>
+                <TextEquiv>
+                    <Unicode>166. In einem zuber ohne boden hat man fleisch eingesalzen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="365,1576 813,1576 813,1617 365,1617"/>
+                <Baseline points="365,1600 409,1600 500,1608 596,1617 673,1608 813,1608"/>
+                <TextEquiv>
+                    <Unicode>— Der ring am finger.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>166. In einem zuber ohne boden hat man fleisch eingesalzen.
+— Der ring am finger.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_4" custom="readingOrder {index:14;}">
+            <Coords points="365,1635 1652,1635 1652,1737 365,1737"/>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="472,1636 1651,1636 1651,1676 472,1676"/>
+                <Baseline points="472,1668 541,1668 657,1668 820,1667 922,1668 1077,1674 1170,1668 1354,1668 1456,1675 1533,1669 1651,1671"/>
+                <TextEquiv>
+                    <Unicode>167. Der priester geht hinaus, sein schlüssel fällt, der mond </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="366,1696 1414,1696 1414,1736 366,1736"/>
+                <Baseline points="366,1730 520,1728 643,1735 720,1728 848,1728 1042,1728 1162,1727 1231,1719 1321,1728 1414,1729"/>
+                <TextEquiv>
+                    <Unicode>bemerkt [ihn], die sonne versteckt [ihn]. — Der reif.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>167. Der priester geht hinaus, sein schlüssel fällt, der mond 
+bemerkt [ihn], die sonne versteckt [ihn]. — Der reif.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_5" custom="readingOrder {index:15;}">
+            <Coords points="367,1755 1649,1755 1649,1857 367,1857"/>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="472,1756 1648,1756 1648,1798 472,1798"/>
+                <Baseline points="472,1788 542,1788 657,1788 770,1788 943,1794 1046,1787 1115,1788 1272,1788 1385,1797 1506,1789 1648,1798"/>
+                <TextEquiv>
+                    <Unicode>168. Der zaun zerfällt, und sie können [ihn] nicht [mehr]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="368,1816 1322,1816 1322,1856 368,1856"/>
+                <Baseline points="368,1848 712,1848 781,1839 871,1848 1025,1848 1108,1849 1322,1849"/>
+                <TextEquiv>
+                    <Unicode>zusammenbringen. — Das spalten des kienspans.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>168. Der zaun zerfällt, und sie können [ihn] nicht [mehr]
+zusammenbringen. — Das spalten des kienspans.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_6" custom="readingOrder {index:16;}">
+            <Coords points="366,1875 1655,1875 1655,2036 366,2036"/>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="472,1876 1652,1876 1652,1917 472,1917"/>
+                <Baseline points="472,1907 542,1908 661,1908 771,1908 929,1908 997,1908 1146,1911 1506,1909 1652,1910"/>
+                <TextEquiv>
+                    <Unicode>169. Den zaun reissest du nieder, zusammenbringen kannst</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="367,1935 1654,1935 1654,1978 367,1978"/>
+                <Baseline points="367,1967 412,1967 528,1974 655,1967 798,1975 905,1967 1012,1967 1080,1967 1229,1967 1310,1967 1427,1968 1571,1977 1654,1963"/>
+                <TextEquiv>
+                    <Unicode>du [ihn] nicht [mehr] (od.: aber du kannst ihn nicht [mehr] zu-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="367,1995 1293,1995 1293,2035 367,2035"/>
+                <Baseline points="367,2028 683,2028 749,2018 843,2027 998,2027 1080,2027 1293,2027"/>
+                <TextEquiv>
+                    <Unicode>sammenbringen). — Das spalten des kienspans.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>169. Den zaun reissest du nieder, zusammenbringen kannst
+du [ihn] nicht [mehr] (od.: aber du kannst ihn nicht [mehr] zu-
+sammenbringen). — Das spalten des kienspans.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_7" custom="readingOrder {index:17;}">
+            <Coords points="370,2054 1655,2054 1655,2156 370,2156"/>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="472,2055 1654,2055 1654,2095 472,2095"/>
+                <Baseline points="472,2087 543,2087 663,2087 783,2087 945,2095 1054,2087 1151,2087 1246,2088 1378,2089 1445,2079 1537,2089 1654,2089"/>
+                <TextEquiv>
+                    <Unicode>170. Den zaun entlang läuft eine rote katze. — Das feuer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="371,2116 648,2116 648,2155 371,2155"/>
+                <Baseline points="371,2155 436,2147 648,2147"/>
+                <TextEquiv>
+                    <Unicode>[am kienspan].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>170. Den zaun entlang läuft eine rote katze. — Das feuer
+[am kienspan].</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_8" custom="readingOrder {index:18;}">
+            <Coords points="472,2173 1652,2173 1652,2216 472,2216"/>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="473,2174 1651,2174 1651,2215 473,2215"/>
+                <Baseline points="473,2206 542,2207 663,2206 782,2206 952,2215 1069,2206 1145,2206 1342,2207 1411,2198 1495,2208 1651,2208"/>
+                <TextEquiv>
+                    <Unicode>171. Den zaun entlang läuft ein groschen. — Die ameise.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>171. Den zaun entlang läuft ein groschen. — Die ameise.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_9" custom="readingOrder {index:19;}">
+            <Coords points="367,2227 1653,2227 1653,2328 367,2328"/>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="472,2228 1652,2228 1652,2275 472,2275"/>
+                <Baseline points="472,2266 542,2266 685,2266 780,2266 890,2266 1045,2267 1127,2266 1239,2267 1308,2258 1399,2267 1570,2268 1652,2268"/>
+                <TextEquiv>
+                    <Unicode>172. Uber den zaun springt der hase. — Das strömen des</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="368,2303 515,2303 515,2327 368,2327"/>
+                <Baseline points="368,2326 515,2326"/>
+                <TextEquiv>
+                    <Unicode>wassers.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>172. Uber den zaun springt der hase. — Das strömen des
+wassers.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_10" custom="readingOrder {index:20;}">
+            <Coords points="366,2353 1655,2353 1655,2516 366,2516"/>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="472,2354 1653,2354 1653,2394 472,2394"/>
+                <Baseline points="472,2385 542,2386 656,2385 779,2386 979,2386 1097,2386 1168,2385 1264,2386 1489,2394 1571,2387 1653,2387"/>
+                <TextEquiv>
+                    <Unicode>173. Auf einer hölzernen stadt ist eine strohstadt, auf der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="367,2414 1654,2414 1654,2455 367,2455"/>
+                <Baseline points="367,2446 556,2446 652,2446 917,2453 1000,2445 1083,2445 1343,2446 1449,2447 1527,2447 1654,2438"/>
+                <TextEquiv>
+                    <Unicode>strohstadt eine lumpenstadt, auf der lumpenstadt liegt ein stum-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="368,2474 1167,2474 1167,2515 368,2515"/>
+                <Baseline points="368,2505 439,2505 630,2506 698,2497 789,2506 894,2507 952,2506 1034,2506 1167,2507"/>
+                <TextEquiv>
+                    <Unicode>mer woiwode. — Das kind in der wiege.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>173. Auf einer hölzernen stadt ist eine strohstadt, auf der
+strohstadt eine lumpenstadt, auf der lumpenstadt liegt ein stum-
+mer woiwode. — Das kind in der wiege.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:21;}">
+            <Coords points="364,1158 1651,1158 1651,1164 364,1164"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

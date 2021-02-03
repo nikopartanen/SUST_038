@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-05(htr_id=25505)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-28T12:07:33.243+03:00</Created>
+        <LastChange>2020-08-06T13:54:11.507+02:00</LastChange>
+        <TranskribusMetadata docId="441749" pageId="17943516" pageNr="151" tsid="36176561" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=ELJGRTIWZMLMTNBGKOFDJLED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWINRTRRKSGQYBFVIDOIKWHI" imageId="13587540"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0151.jpg" imageWidth="1805" imageHeight="2946">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953393271" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="139,220 139,2497 1442,2497 1442,220"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="687,268 712,271 738,273 764,275 790,275 815,275 841,273 867,272 893,270 893,222 867,224 841,225 815,227 790,227 764,227 738,225 712,223 687,220"/>
+                <Baseline points="687,252 712,255 738,257 764,259 790,259 815,259 841,257 867,256 893,254"/>
+                <TextEquiv>
+                    <Unicode>— 141 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714464646_1207" custom="readingOrder {index:1;}">
+                <Coords points="141,327 187,326 1110,319 1137,319 1442,324 1442,369 1416,371 1390,372 1338,373 1286,373 141,372"/>
+                <Baseline points="141,357 187,356 233,356 280,356 326,355 372,355 419,355 465,355 511,355 558,355 604,355 650,355 697,356 743,356 789,356 836,356 882,356 928,356 975,355 1021,355 1068,355 1083,353 1110,351 1137,351 1156,355 1182,356 1208,357 1234,357 1260,357 1286,358 1312,358 1338,358 1364,357 1390,357 1416,356 1442,354"/>
+                <TextEquiv>
+                    <Unicode>{ńa̭ńi̮s vose̮?» — »oz ti̮rmi̮. bi̮d vo kold̕źas ńe̮bni̮.» —  »a ku₍tše̮m ve̮li}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="147,431 211,431 275,431 339,431 403,431 467,430 531,430 595,430 659,430 723,430 787,430 851,430 915,430 979,430 1043,430 1107,430 1171,430 1235,431 1299,431 1363,431 1428,431 1428,392 1363,392 1299,392 1235,392 1171,391 1107,391 1043,391 979,391 915,391 851,391 787,391 723,391 659,391 595,391 531,391 467,391 403,392 339,392 275,392 211,392 147,392"/>
+                <Baseline points="147,418 211,418 275,418 339,418 403,418 467,417 531,417 595,417 659,417 723,417 787,417 851,417 915,417 979,417 1043,417 1107,417 1171,417 1235,418 1299,418 1363,418 1428,418"/>
+                <TextEquiv>
+                    <Unicode>{me̮i̭mu ńa̭ńjasi̮d? ti̮ra·-e̮?» — »ti̮ra, da ez tai̭ ti̮rmi̮.» — »me̮l̕a ez?»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="139,485 164,487 189,489 214,490 239,491 264,491 290,492 315,492 340,492 365,491 390,491 416,490 416,450 390,451 365,451 340,452 315,452 290,452 264,451 239,451 214,450 189,449 164,447 139,445"/>
+                <Baseline points="139,472 164,474 189,476 214,477 239,478 264,478 290,479 315,479 340,479 365,478 390,478 416,477"/>
+                <TextEquiv>
+                    <Unicode>{— »e₍tša i̮bi̮s.»}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714533698_1215" custom="readingOrder {index:4;}">
+                <Coords points="673,559 733,557 815,558 874,559 904,561 904,609 703,608 673,607"/>
+                <Baseline points="673,591 703,592 733,589 743,590 772,590 802,590 831,591 861,591 896,597"/>
+                <TextEquiv>
+                    <Unicode>7. Juśva.\1\</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="697,674 723,674 750,675 777,675 803,675 830,675 857,676 884,677 884,629 857,628 830,627 803,627 777,627 750,627 723,626 697,626"/>
+                <Baseline points="697,658 723,658 750,659 777,659 803,659 830,659 857,660 884,661"/>
+                <TextEquiv>
+                    <Unicode>(Trunova.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="765,760 813,764 813,716 765,712"/>
+                <Baseline points="765,744 813,748"/>
+                <TextEquiv>
+                    <Unicode>61.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="742,831 772,832 802,831 833,832 833,784 802,783 772,784 742,783"/>
+                <Baseline points="742,815 772,816 802,815 833,816"/>
+                <TextEquiv>
+                    <Unicode>{kań}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="251,902 309,901 368,901 426,901 485,900 543,900 602,900 660,900 719,900 777,900 836,900 895,900 953,900 1012,900 1070,900 1129,900 1187,900 1246,900 1304,900 1363,900 1422,900 1422,870 1363,870 1304,870 1246,870 1187,870 1129,870 1070,870 1012,870 953,870 895,870 836,870 777,870 719,870 660,870 602,870 543,870 485,870 426,871 368,871 309,871 251,872"/>
+                <Baseline points="251,892 309,891 368,891 426,891 485,890 543,890 602,890 660,890 719,890 777,890 836,890 895,890 953,890 1012,890 1070,890 1129,890 1187,890 1246,890 1304,890 1363,890 1422,890"/>
+                <TextEquiv>
+                    <Unicode>{e̮tik ińkaviś guvviś ši̮rrez śoje̮maś gos. ińka igna·ve̮m gue̮ kań,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:9;}">
+                <Coords points="147,965 211,964 275,964 339,964 404,964 468,964 532,964 597,964 661,964 725,964 790,964 854,964 918,964 982,964 1047,964 1111,964 1175,963 1240,963 1304,962 1368,961 1433,960 1433,918 1368,919 1304,920 1240,921 1175,921 1111,922 1047,922 982,922 918,922 854,922 790,922 725,922 661,922 597,922 532,922 468,922 404,922 339,922 275,922 211,922 147,923"/>
+                <Baseline points="147,951 211,950 275,950 339,950 404,950 468,950 532,950 597,950 661,950 725,950 790,950 854,950 918,950 982,950 1047,950 1111,950 1175,949 1240,949 1304,948 1368,947 1433,946"/>
+                <TextEquiv>
+                    <Unicode>{med-bi̮ kań kuta·vis ši̮rreze̮s. a kań śoje̮m gos i je̮v i ja̭i̭, bi̮de̮·s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="142,1025 168,1024 195,1025 222,1025 249,1026 276,1026 302,1026 329,1026 356,1026 383,1025 410,1022 410,979 383,982 356,983 329,983 302,983 276,983 249,983 222,982 195,982 168,981 142,982"/>
+                <Baseline points="142,1011 168,1010 195,1011 222,1011 249,1012 276,1012 302,1012 329,1012 356,1012 383,1011 410,1008"/>
+                <TextEquiv>
+                    <Unicode>{mi̮i̭ ve̮ve̮m.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+                <Coords points="763,1104 810,1107 810,1059 763,1056"/>
+                <Baseline points="763,1088 810,1091"/>
+                <TextEquiv>
+                    <Unicode>62.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="612,1176 638,1175 664,1174 690,1174 716,1175 742,1175 768,1176 795,1176 821,1177 847,1177 873,1177 899,1176 925,1175 951,1173 978,1170 978,1122 951,1125 925,1127 899,1128 873,1129 847,1129 821,1129 795,1128 768,1128 742,1127 716,1127 690,1126 664,1126 638,1127 612,1128"/>
+                <Baseline points="612,1160 638,1159 664,1158 690,1158 716,1159 742,1159 768,1160 795,1160 821,1161 847,1161 873,1161 899,1160 925,1159 951,1157 978,1154"/>
+                <TextEquiv>
+                    <Unicode>{rut̕ś da ke̮i̭in.\2\}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714640531_1234" custom="readingOrder {index:13;}">
+                <Coords points="251,1207 334,1206 1434,1201 1434,1244 1408,1247 1383,1249 1332,1251 1281,1251 251,1250"/>
+                <Baseline points="251,1236 292,1236 334,1235 375,1235 417,1235 458,1235 500,1235 541,1236 583,1236 624,1236 666,1236 708,1236 749,1236 791,1236 832,1236 874,1236 915,1236 957,1235 998,1234 1040,1233 1082,1232 1103,1233 1128,1233 1153,1234 1179,1234 1204,1235 1230,1236 1255,1236 1281,1237 1306,1237 1332,1237 1357,1236 1383,1235 1408,1233 1434,1230"/>
+                <TextEquiv>
+                    <Unicode>{ke̮r-ke̮ te̮ve̮n rut̕ś ke̮i̭inke̮t kerkui̭ez kere̮maś: rut̕śve̮n ke̮rku ve̮-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:14;}">
+                <Coords points="148,1310 211,1311 275,1311 338,1311 402,1311 466,1311 529,1311 593,1311 656,1311 720,1311 784,1310 847,1310 911,1310 974,1309 1038,1309 1102,1309 1165,1309 1229,1309 1292,1309 1356,1309 1420,1310 1420,1267 1356,1266 1292,1266 1229,1266 1165,1266 1102,1266 1038,1266 974,1266 911,1267 847,1267 784,1267 720,1268 656,1268 593,1268 529,1268 466,1268 402,1268 338,1268 275,1268 211,1268 148,1267"/>
+                <Baseline points="148,1296 211,1297 275,1297 338,1297 402,1297 466,1297 529,1297 593,1297 656,1297 720,1297 784,1296 847,1296 911,1296 974,1295 1038,1295 1102,1295 1165,1295 1229,1295 1292,1295 1356,1295 1420,1296"/>
+                <TextEquiv>
+                    <Unicode>{ve̮m(a) ji̮iś a ke̮i̭inve̮n puiś. tuvi̮·s vois: rut̕śve̮n kerku si̮vis, rut̕ś}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714689124_1241" custom="readingOrder {index:15;}">
+                <Coords points="145,1401 212,1398 279,1397 819,1393 1428,1397 1428,1440 1051,1441 145,1443"/>
+                <Baseline points="145,1429 178,1428 212,1426 246,1426 279,1425 313,1425 347,1425 380,1425 414,1425 448,1426 482,1426 515,1426 549,1427 583,1427 616,1427 650,1426 684,1426 717,1425 751,1424 785,1423 819,1421 848,1426 877,1426 906,1426 935,1426 964,1427 993,1427 1022,1427 1051,1427 1080,1426 1109,1426 1138,1426 1167,1426 1196,1426 1225,1426 1254,1426 1283,1426 1312,1426 1341,1426 1370,1426 1399,1426 1428,1426"/>
+                <TextEquiv>
+                    <Unicode>Jedes jahr müssen wir kaufen.» — »Aber was für ein jahresertrag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714698368_1245" custom="readingOrder {index:16;}">
+                <Coords points="155,1457 437,1456 886,1457 1274,1459 1420,1460 1420,1502 1323,1502 450,1501 155,1499"/>
+                <Baseline points="155,1485 180,1485 206,1485 231,1485 257,1485 283,1485 308,1485 334,1485 360,1485 385,1485 411,1485 437,1484 450,1487 498,1487 547,1486 595,1486 644,1485 692,1485 741,1485 789,1485 838,1485 886,1485 935,1486 983,1486 1032,1486 1080,1486 1129,1487 1177,1487 1226,1487 1274,1487 1323,1488 1371,1488 1420,1488"/>
+                <TextEquiv>
+                    <Unicode>war es letztes  jahr? Ein guter?» — »Ja, aber es hat [das korn]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714712314_1250" custom="readingOrder {index:17;}">
+                <Coords points="148,1522 193,1521 239,1520 331,1519 1291,1517 1369,1517 1422,1519 1422,1561 1160,1562 1134,1562 148,1562"/>
+                <Baseline points="148,1549 193,1548 239,1547 285,1547 331,1546 377,1546 423,1546 469,1546 515,1546 561,1546 607,1546 652,1547 698,1547 744,1547 790,1547 836,1548 882,1548 928,1548 974,1548 1020,1547 1066,1547 1082,1546 1108,1547 1134,1548 1160,1548 1186,1547 1212,1547 1238,1546 1265,1546 1291,1545 1317,1545 1343,1545 1369,1545 1395,1546 1422,1547"/>
+                <TextEquiv>
+                    <Unicode>dennoch nicht gelangt.» — »Warum nicht?» — »Es sind so wenig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:18;}">
+                <Coords points="147,1617 175,1616 203,1616 231,1617 259,1619 287,1621 315,1621 344,1620 344,1580 315,1581 287,1581 259,1579 231,1577 203,1576 175,1576 147,1577"/>
+                <Baseline points="147,1604 175,1603 203,1603 231,1604 259,1606 287,1608 315,1608 344,1607"/>
+                <TextEquiv>
+                    <Unicode>äcker da.»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:19;}">
+                <Coords points="752,1682 779,1693 806,1692 833,1686 860,1680 887,1679 887,1631 860,1632 833,1638 806,1644 779,1645 752,1634"/>
+                <Baseline points="752,1666 779,1677 806,1676 833,1670 860,1664 887,1663"/>
+                <TextEquiv>
+                    <Unicode>61.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:20;}">
+                <Coords points="659,1761 684,1760 710,1760 735,1761 761,1761 786,1762 812,1762 837,1762 863,1762 888,1761 914,1759 914,1711 888,1713 863,1714 837,1714 812,1714 786,1714 761,1713 735,1713 710,1712 684,1712 659,1713"/>
+                <Baseline points="659,1745 684,1744 710,1744 735,1745 761,1745 786,1746 812,1746 837,1746 863,1746 888,1745 914,1743"/>
+                <TextEquiv>
+                    <Unicode>Die katze.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:21;}">
+                <Coords points="243,1832 302,1833 361,1834 420,1834 479,1834 538,1834 597,1834 657,1834 716,1834 775,1834 834,1833 893,1833 952,1833 1011,1832 1071,1832 1130,1832 1189,1832 1248,1832 1307,1833 1366,1833 1426,1834 1426,1791 1366,1790 1307,1790 1248,1789 1189,1789 1130,1789 1071,1789 1011,1789 952,1790 893,1790 834,1790 775,1791 716,1791 657,1791 597,1791 538,1791 479,1791 420,1791 361,1791 302,1790 243,1789"/>
+                <Baseline points="243,1818 302,1819 361,1820 420,1820 479,1820 538,1820 597,1820 657,1820 716,1820 775,1820 834,1819 893,1819 952,1819 1011,1818 1071,1818 1130,1818 1189,1818 1248,1818 1307,1819 1366,1819 1426,1820"/>
+                <TextEquiv>
+                    <Unicode>Einer frau hatten die mäuse im keller talg weggefressen. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:22;}">
+                <Coords points="147,1894 211,1893 275,1893 339,1893 404,1893 468,1894 532,1894 596,1894 661,1894 725,1894 789,1894 853,1894 918,1894 982,1894 1046,1894 1110,1894 1175,1894 1239,1894 1303,1893 1367,1893 1432,1892 1432,1850 1367,1851 1303,1851 1239,1852 1175,1852 1110,1852 1046,1852 982,1852 918,1852 853,1852 789,1852 725,1852 661,1852 596,1852 532,1852 468,1852 404,1851 339,1851 275,1851 211,1851 147,1852"/>
+                <Baseline points="147,1880 211,1879 275,1879 339,1879 404,1879 468,1880 532,1880 596,1880 661,1880 725,1880 789,1880 853,1880 918,1880 982,1880 1046,1880 1110,1880 1175,1880 1239,1880 1303,1879 1367,1879 1432,1878"/>
+                <TextEquiv>
+                    <Unicode>frau sperrte eine katze in den keller, damit die katze die mäuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:23;}">
+                <Coords points="147,1951 211,1952 275,1953 339,1953 403,1954 467,1954 531,1954 595,1954 659,1954 723,1954 788,1954 852,1954 916,1954 980,1954 1044,1954 1108,1954 1172,1954 1236,1955 1300,1955 1364,1956 1429,1957 1429,1915 1364,1914 1300,1913 1236,1913 1172,1912 1108,1912 1044,1912 980,1912 916,1912 852,1912 788,1912 723,1912 659,1912 595,1912 531,1912 467,1912 403,1912 339,1911 275,1911 211,1910 147,1909"/>
+                <Baseline points="147,1937 211,1938 275,1939 339,1939 403,1940 467,1940 531,1940 595,1940 659,1940 723,1940 788,1940 852,1940 916,1940 980,1940 1044,1940 1108,1940 1172,1940 1236,1941 1300,1941 1364,1942 1429,1943"/>
+                <TextEquiv>
+                    <Unicode>erwische. Aber die katze frass den talg und die milch und das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:24;}">
+                <Coords points="149,2015 176,2015 204,2015 232,2016 260,2016 288,2016 316,2016 344,2016 372,2016 400,2016 434,2016 461,2016 489,2016 517,2016 545,2016 573,2016 601,2017 629,2017 657,2018 685,2019 713,2019 713,1974 685,1974 657,1973 629,1972 601,1972 573,1971 545,1971 517,1971 489,1971 461,1971 434,1971 400,1971 372,1971 344,1971 316,1971 288,1971 260,1971 232,1971 204,1970 176,1970 149,1970"/>
+                <Baseline points="149,2000 176,2000 204,2000 232,2001 260,2001 288,2001 316,2001 344,2001 372,2001 400,2001 428,2001 455,2001 483,2001 511,2001 539,2001 567,2001 595,2002 623,2002 651,2003 679,2004 710,2004"/>
+                <TextEquiv>
+                    <Unicode>fleisch auf, alles was da war.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:25;}">
+                <Coords points="764,2099 790,2103 816,2105 816,2057 790,2055 764,2051"/>
+                <Baseline points="764,2083 790,2087 816,2089"/>
+                <TextEquiv>
+                    <Unicode>62.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714743643_1265" custom="readingOrder {index:26;}">
+                <Coords points="464,2121 976,2123 1098,2124 1098,2172 1071,2175 771,2176 643,2176 592,2175 540,2173 464,2169"/>
+                <Baseline points="464,2153 489,2154 515,2155 540,2157 566,2158 592,2159 617,2159 643,2160 668,2160 694,2160 720,2160 745,2160 771,2160 796,2159 822,2159 848,2158 873,2157 899,2157 924,2156 950,2155 976,2155 992,2158 1018,2157 1045,2158 1071,2159 1098,2156"/>
+                <TextEquiv>
+                    <Unicode>Der fuchs und der wolf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:27;}">
+                <Coords points="239,2243 298,2245 357,2247 416,2248 476,2249 535,2249 594,2250 654,2250 713,2250 772,2249 832,2249 891,2249 950,2248 1009,2248 1069,2248 1128,2248 1187,2248 1247,2248 1306,2248 1365,2249 1425,2251 1425,2209 1365,2207 1306,2206 1247,2206 1187,2206 1128,2206 1069,2206 1009,2206 950,2206 891,2207 832,2207 772,2207 713,2208 654,2208 594,2208 535,2207 476,2207 416,2206 357,2205 298,2203 239,2201"/>
+                <Baseline points="239,2229 298,2231 357,2233 416,2234 476,2235 535,2235 594,2236 654,2236 713,2236 772,2235 832,2235 891,2235 950,2234 1009,2234 1069,2234 1128,2234 1187,2234 1247,2234 1306,2234 1365,2235 1425,2237"/>
+                <TextEquiv>
+                    <Unicode>Einmal im winter bauten [sich] ein fuchs und ein wolf hüt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1596714800034_1279" custom="readingOrder {index:28;}">
+                <Coords points="146,2263 181,2261 216,2261 1216,2264 1308,2265 1430,2267 1430,2310 821,2311 146,2311"/>
+                <Baseline points="146,2295 181,2293 216,2293 241,2295 269,2294 297,2293 325,2293 354,2293 382,2292 410,2292 439,2292 467,2292 495,2292 524,2292 552,2292 580,2293 608,2293 637,2293 665,2293 693,2293 722,2293 750,2293 778,2293 807,2293 821,2297 851,2296 881,2296 912,2295 942,2295 973,2294 1003,2294 1034,2293 1064,2293 1095,2293 1125,2293 1155,2293 1186,2293 1216,2293 1247,2294 1277,2294 1308,2294 1338,2295 1369,2295 1399,2296 1430,2296"/>
+                <TextEquiv>
+                    <Unicode>ten: die hütte des fuchses war g aus eis, die des wolfes aber aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:29;}">
+                <Coords points="245,2388 304,2389 363,2391 422,2392 481,2393 541,2394 600,2394 659,2395 718,2395 777,2395 837,2395 896,2395 955,2395 1014,2395 1073,2395 1133,2395 1192,2395 1251,2394 1310,2394 1369,2394 1429,2394 1429,2355 1369,2355 1310,2355 1251,2355 1192,2356 1133,2356 1073,2356 1014,2356 955,2356 896,2356 837,2356 777,2356 718,2356 659,2356 600,2355 541,2355 481,2354 422,2353 363,2352 304,2350 245,2349"/>
+                <Baseline points="245,2375 304,2376 363,2378 422,2379 481,2380 541,2381 600,2381 659,2382 718,2382 777,2382 837,2382 896,2382 955,2382 1014,2382 1073,2382 1133,2382 1192,2382 1251,2381 1310,2381 1369,2381 1429,2381"/>
+                <TextEquiv>
+                    <Unicode>\1\ In einen nebenfluss der Kama, die Inva, mündender fluss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:30;}">
+                <Coords points="149,2443 174,2443 200,2443 225,2443 251,2442 276,2442 302,2442 327,2442 353,2443 379,2444 379,2408 353,2407 327,2406 302,2406 276,2406 251,2406 225,2407 200,2407 174,2407 149,2407"/>
+                <Baseline points="149,2431 174,2431 200,2431 225,2431 251,2430 276,2430 302,2430 327,2430 353,2431 379,2432"/>
+                <TextEquiv>
+                    <Unicode>(gouv. Perm).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:31;}">
+                <Coords points="243,2490 286,2492 329,2493 372,2494 415,2495 458,2495 501,2496 545,2496 588,2497 631,2497 674,2497 717,2497 760,2497 803,2497 847,2497 890,2497 933,2497 976,2497 1019,2497 1062,2497 1106,2497 1106,2461 1062,2461 1019,2461 976,2461 933,2461 890,2461 847,2461 803,2461 760,2461 717,2461 674,2461 631,2461 588,2461 545,2460 501,2460 458,2459 415,2459 372,2458 329,2457 286,2456 243,2454"/>
+                <Baseline points="243,2478 286,2480 329,2481 372,2482 415,2483 458,2483 501,2484 545,2484 588,2485 631,2485 674,2485 717,2485 760,2485 803,2485 847,2485 890,2485 933,2485 976,2485 1019,2485 1062,2485 1106,2485"/>
+                <TextEquiv>
+                    <Unicode>\2\ Nach Rogov transskribiert; vgl. oben n:r 59.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 141 —
+{ńa̭ńi̮s vose̮?» — »oz ti̮rmi̮. bi̮d vo kold̕źas ńe̮bni̮.» —  »a ku₍tše̮m ve̮li}
+{me̮i̭mu ńa̭ńjasi̮d? ti̮ra·-e̮?» — »ti̮ra, da ez tai̭ ti̮rmi̮.» — »me̮l̕a ez?»}
+{— »e₍tša i̮bi̮s.»}
+7. Juśva.\1\
+(Trunova.)
+61.
+{kań}
+{e̮tik ińkaviś guvviś ši̮rrez śoje̮maś gos. ińka igna·ve̮m gue̮ kań,}
+{med-bi̮ kań kuta·vis ši̮rreze̮s. a kań śoje̮m gos i je̮v i ja̭i̭, bi̮de̮·s}
+{mi̮i̭ ve̮ve̮m.}
+62.
+{rut̕ś da ke̮i̭in.\2\}
+{ke̮r-ke̮ te̮ve̮n rut̕ś ke̮i̭inke̮t kerkui̭ez kere̮maś: rut̕śve̮n ke̮rku ve̮-}
+{ve̮m(a) ji̮iś a ke̮i̭inve̮n puiś. tuvi̮·s vois: rut̕śve̮n kerku si̮vis, rut̕ś}
+Jedes jahr müssen wir kaufen.» — »Aber was für ein jahresertrag
+war es letztes  jahr? Ein guter?» — »Ja, aber es hat [das korn]
+dennoch nicht gelangt.» — »Warum nicht?» — »Es sind so wenig
+äcker da.»
+61.
+Die katze.
+Einer frau hatten die mäuse im keller talg weggefressen. Die
+frau sperrte eine katze in den keller, damit die katze die mäuse
+erwische. Aber die katze frass den talg und die milch und das
+fleisch auf, alles was da war.
+62.
+Der fuchs und der wolf.
+Einmal im winter bauten [sich] ein fuchs und ein wolf hüt-
+ten: die hütte des fuchses war g aus eis, die des wolfes aber aus
+\1\ In einen nebenfluss der Kama, die Inva, mündender fluss
+(gouv. Perm).
+\2\ Nach Rogov transskribiert; vgl. oben n:r 59.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

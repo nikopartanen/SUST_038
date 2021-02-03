@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-19T13:25:59.977+02:00</Created>
+        <LastChange>2020-08-19T13:36:43.511+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: Finnish
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943605" pageNr="185" tsid="37292618" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=LVTOJFDAAZATCHNZRWOQLSQG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZRPNGKYSEPFOYEBZJALEXHUE" imageId="13587629"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0185.jpg" imageWidth="1793" imageHeight="2939">
+        <PrintSpace>
+            <Coords points="143,251 1438,251 1438,906 143,906"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953397721" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_3_1"/>
+                <RegionRefIndexed index="5" regionRef="r_3_2"/>
+                <RegionRefIndexed index="6" regionRef="r_3_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="690,257 819,257 819,288 690,288"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="691,258 818,258 818,287 691,287"/>
+                <Baseline points="691,277 734,277 818,287"/>
+                <TextEquiv>
+                    <Unicode>– 175</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>– 175</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="248,348 1182,348 1182,392 248,392"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="249,349 1181,349 1181,391 249,391"/>
+                <Baseline points="249,382 267,382 452,382 599,388 795,382 968,382 1099,372 1181,382"/>
+                <TextEquiv>
+                    <Unicode>{292. ve̮vi̮s ge̮ńi·te̮, ogo·bl̕ai̭ez suva·ve̮n(i̮). — šor.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{292. ve̮vi̮s ge̮ńi·te̮, ogo·bl̕ai̭ez suva·ve̮n(i̮). — šor.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="249,408 1096,408 1096,452 249,452"/>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="250,409 1095,409 1095,451 250,451"/>
+                <Baseline points="250,442 268,442 436,443 482,451 581,442 679,442 725,451 831,433 868,440 984,442 1095,441"/>
+                <TextEquiv>
+                    <Unicode>{293. vii̭a pi̮ž da gosa pi̮ž. — šondi i te̮viś.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{293. vii̭a pi̮ž da gosa pi̮ž. — šondi i te̮viś.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+            <Coords points="250,469 1253,469 1253,510 250,510"/>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="251,470 1252,470 1252,509 251,509"/>
+                <Baseline points="251,502 269,502 505,501 663,509 777,503 862,502 986,493 1123,502 1252,502"/>
+                <TextEquiv>
+                    <Unicode>{294. vorobe·i̭ kote̮·rte̮, vire̮n sita·ve̮. — sarta·s sot̕t̕śe̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{294. vorobe·i̭ kote̮·rte̮, vire̮n sita·ve̮. — sarta·s sot̕t̕śe̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:4;}">
+            <Coords points="147,616 1432,616 1432,721 147,721"/>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="251,617 1431,617 1431,659 251,659"/>
+                <Baseline points="251,650 323,651 439,651 567,651 681,657 766,651 1041,649 1163,648 1272,649 1341,640 1431,648"/>
+                <TextEquiv>
+                    <Unicode>292. Das pferd jagt, die gabeldeichsel steht still. — Der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="148,680 575,680 575,720 148,720"/>
+                <Baseline points="148,711 234,711 342,712 455,711 575,711"/>
+                <TextEquiv>
+                    <Unicode>bach [und seine ufer].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>292. Das pferd jagt, die gabeldeichsel steht still. — Der
+bach [und seine ufer].</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:5;}">
+            <Coords points="149,736 1433,736 1433,833 149,833"/>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="253,737 1432,737 1432,779 253,779"/>
+                <Baseline points="253,771 324,772 434,771 644,771 748,770 841,770 909,770 1065,769 1172,768 1233,759 1311,769 1432,768"/>
+                <TextEquiv>
+                    <Unicode>293. Ein butteriges boot und ein talgiges boot, — Die sonne</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="150,801 437,801 437,832 150,832"/>
+                <Baseline points="150,832 219,832 302,831 437,832"/>
+                <TextEquiv>
+                    <Unicode>und der mond. </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>293. Ein butteriges boot und ein talgiges boot, — Die sonne
+und der mond. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:6;}">
+            <Coords points="252,855 1430,855 1430,900 252,900"/>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="253,856 1429,856 1429,899 253,899"/>
+                <Baseline points="253,891 325,891 429,892 585,899 692,897 781,890 914,889 972,890 1028,880 1109,889 1283,888 1429,888"/>
+                <TextEquiv>
+                    <Unicode>294. Der sperling läuft, blut laziert er. — Der kienspan brennt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>294. Der sperling läuft, blut laziert er. — Der kienspan brennt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:7;}">
+            <Coords points="148,550 1370,550 1370,555 148,555"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

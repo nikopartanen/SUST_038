@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-21T11:39:43.077+02:00</Created>
+        <LastChange>2020-08-21T11:52:42.635+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943327" pageNr="72" tsid="37554708" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=SUEKBHZYQFGOEQUXQNWUBYTW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZHJGMFGZPTDLJADUBHJMBFO" imageId="13587351"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0072.jpg" imageWidth="1823" imageHeight="2955">
+        <PrintSpace>
+            <Coords points="351,352 1658,352 1658,2438 351,2438"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953383495" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_1_2"/>
+                <RegionRefIndexed index="2" regionRef="r_1_3"/>
+                <RegionRefIndexed index="3" regionRef="r_2_1"/>
+                <RegionRefIndexed index="4" regionRef="r_2_2"/>
+                <RegionRefIndexed index="5" regionRef="r_2_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="359,358 1649,358 1649,523 359,523"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="360,359 1647,359 1647,402 360,402"/>
+                <Baseline points="360,399 458,398 503,392 648,392 826,392 1019,394 1142,393 1264,394 1435,395 1647,396"/>
+                <TextEquiv>
+                    <Unicode>{jase̮s, i ad̕d̕źis t̕śipane̮s vije̮mae̮ś. baba kutis viśtavni̮ muži̮ki̮sli̮:}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="362,420 1648,420 1648,463 362,463"/>
+                <Baseline points="362,452 399,452 728,453 896,454 984,453 1161,455 1372,456 1449,463 1554,456 1648,456"/>
+                <TextEquiv>
+                    <Unicode>{»ńorimi̮dli̮ś ve̮d t̕śipanse̮ vije̮mae̮ś!» ńorim šue̮: »og e̮me̮i̭ ki̮v!}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="362,480 1511,480 1511,522 362,522"/>
+                <Baseline points="362,512 410,513 563,513 656,514 736,513 905,514 1027,512 1194,514 1286,516 1368,516 1511,518"/>
+                <TextEquiv>
+                    <Unicode>{me tijanli̮ś med bur utkani̮te̮ nua!» śetasni̮ med bur utkase̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{jase̮s, i ad̕d̕źis t̕śipane̮s vije̮mae̮ś. baba kutis viśtavni̮ muži̮ki̮sli̮:}
+{»ńorimi̮dli̮ś ve̮d t̕śipanse̮ vije̮mae̮ś!» ńorim šue̮: »og e̮me̮i̭ ki̮v!}
+{me tijanli̮ś med bur utkani̮te̮ nua!» śetasni̮ med bur utkase̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_1_2" custom="readingOrder {index:1;}">
+            <Coords points="359,541 1652,541 1652,948 359,948"/>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="464,542 1650,542 1650,586 464,586"/>
+                <Baseline points="464,574 487,574 746,575 916,575 959,576 1105,576 1251,577 1356,577 1507,582 1650,577"/>
+                <TextEquiv>
+                    <Unicode>{ńorim munis ri̮te̮₍d̕źi̮s i pemdi. kerka voi̭is pi̮ris, ve̮zji̮śe̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="362,602 1646,602 1646,646 362,646"/>
+                <Baseline points="362,635 446,635 565,635 718,635 925,636 996,637 1106,644 1334,638 1450,638 1554,638 1646,631"/>
+                <TextEquiv>
+                    <Unicode>{uźni̮. sije̮s le₍d̕źisni̮. »menam em utka, d̕źo₍d̕źe̮gke̮d uźle̮.» »śui̭ d̕źo-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="361,664 1647,664 1647,703 361,703"/>
+                <Baseline points="361,694 436,703 478,696 569,696 640,696 863,696 1002,697 1181,699 1251,699 1386,699 1538,699 1647,699"/>
+                <TextEquiv>
+                    <Unicode>{d̕źe̮g dinas!» ńorim bara voi̭nas t̕śḙt̕t̕śi̮lis da utkase̮ kośalis. aski}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="362,725 1648,725 1648,767 362,767"/>
+                <Baseline points="362,755 440,756 594,757 637,758 696,757 734,765 896,757 1014,758 1167,760 1328,759 1467,759 1648,760"/>
+                <TextEquiv>
+                    <Unicode>{baba t̕śḙt̕t̕śis i d̕źo₍d̕źe̮gjase̮s kutis verdni̮. ad̕d̕źis utkase̮ vije̮mae̮ś}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="362,785 1645,785 1645,829 362,829"/>
+                <Baseline points="362,818 375,818 572,826 610,815 892,819 920,817 1162,820 1282,820 1433,821 1645,821"/>
+                <TextEquiv>
+                    <Unicode>{i muži̮ki̮sli̮ šui̭is: »ńorimi̮dli̮ś utkase̮ vije̮mae̮ś!» ńorim šue̮:}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="362,847 1651,847 1651,888 362,888"/>
+                <Baseline points="362,877 414,886 516,886 607,879 691,879 819,880 912,880 986,880 1171,880 1209,881 1321,880 1486,881 1651,872"/>
+                <TextEquiv>
+                    <Unicode>{»og e̮me̮i̭ ki̮v! me tenśi̮d med bur d̕źo₍d̕źe̮gte̮ nua. ńorimli̮ d̕źo₍d̕źe̮-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="360,908 559,908 559,947 360,947"/>
+                <Baseline points="360,947 411,939 559,940"/>
+                <TextEquiv>
+                    <Unicode>{ge̮s śetisni̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{ńorim munis ri̮te̮₍d̕źi̮s i pemdi. kerka voi̭is pi̮ris, ve̮zji̮śe̮}
+{uźni̮. sije̮s le₍d̕źisni̮. »menam em utka, d̕źo₍d̕źe̮gke̮d uźle̮.» »śui̭ d̕źo-}
+{d̕źe̮g dinas!» ńorim bara voi̭nas t̕śḙt̕t̕śi̮lis da utkase̮ kośalis. aski}
+{baba t̕śḙt̕t̕śis i d̕źo₍d̕źe̮gjase̮s kutis verdni̮. ad̕d̕źis utkase̮ vije̮mae̮ś}
+{i muži̮ki̮sli̮ šui̭is: »ńorimi̮dli̮ś utkase̮ vije̮mae̮ś!» ńorim šue̮:}
+{»og e̮me̮i̭ ki̮v! me tenśi̮d med bur d̕źo₍d̕źe̮gte̮ nua. ńorimli̮ d̕źo₍d̕źe̮-}
+{ge̮s śetisni̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_1_3" custom="readingOrder {index:2;}">
+            <Coords points="359,968 1649,968 1649,1132 359,1132"/>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="462,969 1527,969 1527,1011 462,1011"/>
+                <Baseline points="462,1000 559,1001 599,1000 660,1000 977,1001 1085,1002 1143,1002 1240,1010 1282,1002 1375,1001 1430,1000 1527,1004"/>
+                <TextEquiv>
+                    <Unicode>{si₍d̕źi̮ že̮ ńorim d̕źo₍d̕źe̮gse̮ vežis i̮ž vi̮le̮, a i̮žse̮ e̮š vi̮le̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="463,1029 1648,1029 1648,1072 463,1072"/>
+                <Baseline points="463,1060 550,1061 643,1062 768,1062 816,1060 871,1062 920,1063 1110,1063 1353,1063 1535,1070 1648,1064"/>
+                <TextEquiv>
+                    <Unicode>{seśśa sije̮ ńe̮bas šerdi̮n. šerdi̮nse̮ tojin-vožje̮n vožjalas, e̮ške̮s}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="360,1089 1188,1089 1188,1131 360,1131"/>
+                <Baseline points="360,1121 519,1128 762,1123 907,1123 943,1123 1060,1123 1188,1123"/>
+                <TextEquiv>
+                    <Unicode>{dod̕jalas, šerdi̮n-dod̕je̮ pukśas i kutas śi̮vni̮:}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{si₍d̕źi̮ že̮ ńorim d̕źo₍d̕źe̮gse̮ vežis i̮ž vi̮le̮, a i̮žse̮ e̮š vi̮le̮.}
+{seśśa sije̮ ńe̮bas šerdi̮n. šerdi̮nse̮ tojin-vožje̮n vožjalas, e̮ške̮s}
+{dod̕jalas, šerdi̮n-dod̕je̮ pukśas i kutas śi̮vni̮:}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:3;}">
+            <Coords points="359,1247 1648,1247 1648,1469 359,1469"/>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="361,1248 1644,1248 1644,1288 361,1288"/>
+                <Baseline points="361,1279 581,1280 734,1280 844,1280 940,1280 1058,1280 1123,1280 1252,1280 1414,1280 1512,1281 1644,1281"/>
+                <TextEquiv>
+                    <Unicode>umgebracht hatten. Die frau sagte zu ihrem manne: »Sie haben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="360,1308 1643,1308 1643,1350 360,1350"/>
+                <Baseline points="360,1348 396,1340 446,1339 538,1339 774,1341 1048,1341 1123,1340 1204,1341 1402,1341 1560,1342 1643,1347"/>
+                <TextEquiv>
+                    <Unicode>ja des ńorim's huhn umgebracht!» Der ńorim sagt: »Meint ihr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="360,1367 1647,1367 1647,1411 360,1411"/>
+                <Baseline points="360,1400 413,1400 527,1400 592,1400 735,1400 842,1400 992,1400 1104,1400 1206,1401 1323,1400 1423,1401 1549,1399 1647,1401"/>
+                <TextEquiv>
+                    <Unicode>ich höre es nicht! Ich nehme euch eure beste ente weg!» Sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="360,1428 881,1428 881,1468 360,1468"/>
+                <Baseline points="360,1468 467,1460 560,1460 653,1460 770,1459 881,1460"/>
+                <TextEquiv>
+                    <Unicode>gaben ihm ihre beste ente.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>umgebracht hatten. Die frau sagte zu ihrem manne: »Sie haben
+ja des ńorim's huhn umgebracht!» Der ńorim sagt: »Meint ihr,
+ich höre es nicht! Ich nehme euch eure beste ente weg!» Sie
+gaben ihm ihre beste ente.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:4;}">
+            <Coords points="357,1487 1649,1487 1649,2131 357,2131"/>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="464,1488 1646,1488 1646,1527 464,1527"/>
+                <Baseline points="464,1520 493,1520 573,1520 852,1520 926,1520 1017,1520 1155,1527 1243,1522 1312,1521 1524,1521 1646,1522"/>
+                <TextEquiv>
+                    <Unicode>Der ńorim wanderte bis zum abend, und die dunkelheit brach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="360,1548 1643,1548 1643,1587 360,1587"/>
+                <Baseline points="360,1580 482,1582 576,1580 688,1580 759,1580 873,1580 1004,1580 1098,1580 1190,1580 1325,1580 1420,1582 1537,1587 1643,1582"/>
+                <TextEquiv>
+                    <Unicode>herein. Er kam zu einer hütte. Er trat hinein und fleht, man</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="360,1608 1643,1608 1643,1649 360,1649"/>
+                <Baseline points="360,1641 493,1642 578,1641 671,1640 746,1641 884,1649 1073,1641 1154,1641 1220,1641 1403,1642 1502,1641 1643,1642"/>
+                <TextEquiv>
+                    <Unicode>möchte ihn [für die nacht] einlassen um zu schlafen. Sie liessen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="359,1669 1644,1669 1644,1710 359,1710"/>
+                <Baseline points="359,1701 417,1701 504,1701 624,1701 734,1701 830,1702 942,1708 1020,1701 1086,1701 1265,1701 1342,1701 1431,1702 1576,1702 1644,1701"/>
+                <TextEquiv>
+                    <Unicode>ihn ein. »lch habe eine ente, die ist gewöhnt bei den gänsen zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="359,1730 1648,1730 1648,1770 359,1770"/>
+                <Baseline points="359,1761 535,1761 713,1761 809,1768 876,1761 963,1762 1146,1760 1213,1762 1294,1762 1501,1762 1648,1761"/>
+                <TextEquiv>
+                    <Unicode>schlafen.» »Stecke [sie] zu den gänsen!» Der ńorim stand wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="359,1790 1645,1790 1645,1831 359,1831"/>
+                <Baseline points="359,1822 392,1822 484,1822 613,1822 695,1821 787,1822 873,1822 984,1821 1086,1822 1172,1823 1283,1822 1444,1823 1567,1822 1645,1822"/>
+                <TextEquiv>
+                    <Unicode>in der nacht auf und riss seine ente tot. Am morgen stand die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="360,1850 1646,1850 1646,1890 360,1890"/>
+                <Baseline points="360,1882 433,1882 526,1882 628,1882 795,1881 897,1882 1030,1882 1092,1882 1257,1882 1357,1882 1451,1889 1554,1883 1646,1882"/>
+                <TextEquiv>
+                    <Unicode>frau auf und begann ihre gänse zu füttern. Sie sah, dass [die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="358,1910 1643,1910 1643,1950 358,1950"/>
+                <Baseline points="358,1950 470,1949 559,1942 667,1941 919,1941 1077,1947 1171,1942 1289,1942 1353,1942 1482,1942 1643,1941"/>
+                <TextEquiv>
+                    <Unicode>gänse] die ente umgebracht hatten, und sagte zu ihrem manne:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="360,1969 1645,1969 1645,2011 360,2011"/>
+                <Baseline points="360,2000 426,2001 558,2001 606,2001 686,2002 799,2002 901,2000 1170,1999 1233,2001 1309,2002 1499,2002 1645,2002"/>
+                <TextEquiv>
+                    <Unicode>»Sie haben des ńorim's ente umgebracht!» Der ńorim sagt: »Meint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="359,2029 1646,2029 1646,2069 359,2069"/>
+                <Baseline points="359,2061 420,2068 498,2061 600,2062 659,2062 789,2062 885,2061 1028,2061 1104,2061 1222,2061 1339,2061 1445,2061 1557,2059 1646,2061"/>
+                <TextEquiv>
+                    <Unicode>ihr, ich höre es nicht! Ich nehme dir deine beste gans weg.» Sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="358,2090 888,2090 888,2130 358,2130"/>
+                <Baseline points="358,2130 466,2122 512,2122 611,2121 772,2121 888,2121"/>
+                <TextEquiv>
+                    <Unicode>gaben dem ńorim die gans.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der ńorim wanderte bis zum abend, und die dunkelheit brach
+herein. Er kam zu einer hütte. Er trat hinein und fleht, man
+möchte ihn [für die nacht] einlassen um zu schlafen. Sie liessen
+ihn ein. »lch habe eine ente, die ist gewöhnt bei den gänsen zu
+schlafen.» »Stecke [sie] zu den gänsen!» Der ńorim stand wieder
+in der nacht auf und riss seine ente tot. Am morgen stand die
+frau auf und begann ihre gänse zu füttern. Sie sah, dass [die
+gänse] die ente umgebracht hatten, und sagte zu ihrem manne:
+»Sie haben des ńorim's ente umgebracht!» Der ńorim sagt: »Meint
+ihr, ich höre es nicht! Ich nehme dir deine beste gans weg.» Sie
+gaben dem ńorim die gans.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:5;}">
+            <Coords points="357,2149 1646,2149 1646,2432 357,2432"/>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="463,2150 1643,2150 1643,2190 463,2190"/>
+                <Baseline points="463,2182 528,2181 706,2181 837,2182 1086,2182 1141,2182 1231,2182 1439,2181 1552,2182 1643,2182"/>
+                <TextEquiv>
+                    <Unicode>Auf dieselbe weise vertauschte der ńorim seine gans mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="359,2209 1645,2209 1645,2244 359,2244"/>
+                <Baseline points="359,2243 466,2242 595,2241 698,2243 800,2242 928,2241 1021,2242 1163,2241 1318,2244 1464,2241 1585,2241 1645,2241"/>
+                <TextEquiv>
+                    <Unicode>einem schaf und sein schaf mit einem ochsen. Dann kauft er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="359,2269 1643,2269 1643,2310 359,2310"/>
+                <Baseline points="359,2302 430,2302 672,2302 771,2301 863,2302 1005,2301 1139,2301 1199,2300 1270,2301 1439,2301 1534,2301 1643,2291"/>
+                <TextEquiv>
+                    <Unicode>eine kornworfel. An der worfel bringt er als deichsel eine mör-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="358,2330 1644,2330 1644,2369 358,2369"/>
+                <Baseline points="358,2363 506,2363 583,2369 727,2362 815,2363 960,2362 1032,2369 1136,2361 1222,2362 1272,2362 1352,2362 1644,2362"/>
+                <TextEquiv>
+                    <Unicode>serkeule an, schirrt den ochsen an, setzt sich in den worfelschlitten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="358,2390 829,2390 829,2431 358,2431"/>
+                <Baseline points="358,2422 427,2422 548,2422 612,2422 677,2422 829,2422"/>
+                <TextEquiv>
+                    <Unicode>und fängt an zu singen:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Auf dieselbe weise vertauschte der ńorim seine gans mit
+einem schaf und sein schaf mit einem ochsen. Dann kauft er
+eine kornworfel. An der worfel bringt er als deichsel eine mör-
+serkeule an, schirrt den ochsen an, setzt sich in den worfelschlitten
+und fängt an zu singen:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:6;}">
+            <Coords points="360,1178 1595,1178 1595,1183 360,1183"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

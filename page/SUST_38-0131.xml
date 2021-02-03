@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-19T13:13:31.563+02:00</Created>
+        <LastChange>2020-08-19T13:16:25.300+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: GermanStandard
+                Language: Finnish
+                Language: RussianOldSpelling
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943463" pageNr="131" tsid="37290764" status="IN_PROGRESS" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=LMDAHWLZKBYLOIIVQXROWMUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IYBFJKDLTHGWPNOKWUXVTRKR" imageId="13587487"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0131.jpg" imageWidth="1796" imageHeight="2923">
+        <PrintSpace>
+            <Coords points="145,228 1447,228 1447,2284 145,2284"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953390712" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3_1"/>
+                <RegionRefIndexed index="4" regionRef="r_3_2"/>
+                <RegionRefIndexed index="5" regionRef="r_3_3"/>
+                <RegionRefIndexed index="6" regionRef="r_3_4"/>
+                <RegionRefIndexed index="7" regionRef="r_3_5"/>
+                <RegionRefIndexed index="8" regionRef="r_3_6"/>
+                <RegionRefIndexed index="9" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="696,234 822,234 822,265 696,265"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="697,235 821,235 821,264 697,264"/>
+                <Baseline points="697,254 739,254 821,263"/>
+                <TextEquiv>
+                    <Unicode> – 121</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> – 121</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="151,326 1439,326 1439,432 151,432"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="154,327 1438,327 1438,371 154,371"/>
+                <Baseline points="154,359 169,359 378,363 454,361 573,362 758,359 792,360 928,361 1012,361 1136,361 1257,367 1294,360 1438,368"/>
+                <TextEquiv>
+                    <Unicode>{vi̮śtalis pili̮. pi bośtis t̕śuń-ki̮tš i totškis sije̮ pi̮zan berde̮, i petisni̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="152,389 1347,389 1347,431 152,431"/>
+                <Baseline points="152,422 171,422 262,422 512,421 680,419 827,421 924,421 983,421 1029,421 1133,421 1240,421 1347,421"/>
+                <TextEquiv>
+                    <Unicode>{ki̮k molod̕e̮t̕ś. naja ve̮₍t̕śisni̮ dvože̮t̕ś aski keže̮. tsar ni̮le̮s śetis.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{vi̮śtalis pili̮. pi bośtis t̕śuń-ki̮tš i totškis sije̮ pi̮zan berde̮, i petisni̮}
+{ki̮k molod̕e̮t̕ś. naja ve̮₍t̕śisni̮ dvože̮t̕ś aski keže̮. tsar ni̮le̮s śetis.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="151,447 1439,447 1439,974 151,974"/>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="255,448 1436,448 1436,490 255,490"/>
+                <Baseline points="255,482 352,483 392,482 522,483 714,489 842,480 1005,481 1055,481 1224,480 1293,481 1365,481 1436,480"/>
+                <TextEquiv>
+                    <Unicode>{e̮t̕t̕śi̮d babai̮s ivanli̮ś juale̮: »ki̮d̕ź taje̮ te ve̮₍t̕śin?» »a vot me}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="153,509 1437,509 1437,551 153,551"/>
+                <Baseline points="153,542 215,543 323,543 449,543 523,543 608,543 824,541 875,541 891,539 955,548 992,541 1091,541 1238,549 1279,541 1437,530"/>
+                <TextEquiv>
+                    <Unicode>{taje̮ ki̮d̕ź ve̮₍t̕śi! me taje̮ t̕śuń-ki̮tšse̮ totški, i tati̮ś petisni̮ ki̮k molo-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="152,569 1437,569 1437,612 152,612"/>
+                <Baseline points="152,603 173,603 232,610 268,604 333,603 410,603 454,611 538,611 618,603 905,608 949,601 1084,602 1162,602 1316,602 1437,601"/>
+                <TextEquiv>
+                    <Unicode>{d̕ḙt̕ś, i naja ve̮₍t̕śisni̮.» ivan unmovśis, a babai̮s ole̮. babai̮s bośtis}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="152,629 1437,629 1437,672 152,672"/>
+                <Baseline points="152,662 347,665 381,664 528,664 686,670 761,663 936,663 972,663 1149,662 1250,670 1368,662 1437,662"/>
+                <TextEquiv>
+                    <Unicode>{t̕śuń-ki̮tšse̮ i totškis. petisni̮ ki̮k molodl̕ḙt̕ś i jualisni̮: »mi̮i̭ kole̮?» »a}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="153,690 1437,690 1437,731 153,731"/>
+                <Baseline points="153,723 171,723 303,723 365,723 422,723 507,724 693,723 736,722 775,722 1017,722 1074,723 1115,722 1186,721 1301,722 1437,721"/>
+                <TextEquiv>
+                    <Unicode>{vot med me tat̕t̕śe̮ unmovśa a t̕śḙt̕t̕śa se₍tše̮m di vi̮le̮.» aski muži̮k}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="152,748 1438,748 1438,790 152,790"/>
+                <Baseline points="152,783 285,790 336,783 445,783 488,782 598,783 796,782 919,781 983,782 1120,781 1156,782 1253,781 1438,767"/>
+                <TextEquiv>
+                    <Unicode>{t̕śḙt̕t̕śis, a baba abu, ivan koris kańe̮s da ponje̮s i i̮stis t̕śuń-ki̮tš}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="154,808 1434,808 1434,852 154,852"/>
+                <Baseline points="154,844 275,844 384,843 456,843 553,842 643,843 763,843 979,841 1167,839 1202,841 1340,841 1434,840"/>
+                <TextEquiv>
+                    <Unicode>{korśni̮. kań da pon vajisni̮. ivan bośtis t̕śuń-ki̮tš i totškis sije̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="152,869 1437,869 1437,912 152,912"/>
+                <Baseline points="152,912 276,912 322,904 492,884 545,910 679,904 781,902 906,901 981,902 1064,909 1158,901 1303,902 1437,901"/>
+                <TextEquiv>
+                    <Unicode>{petisni̮ ki̮k molod̕e̮t̕ś, šue̮ni̮: »mi̮i̭ kole̮?» »a vot, vaje̮ meni̮m babae̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="154,929 986,929 986,973 154,973"/>
+                <Baseline points="154,965 236,963 347,964 505,970 542,964 653,963 691,964 935,962 986,962"/>
+                <TextEquiv>
+                    <Unicode>{be̮r!» naja vajisni̮, i gozja e̮pe̮t̕ olme̮d̕t̕śisni̮.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{e̮t̕t̕śi̮d babai̮s ivanli̮ś juale̮: »ki̮d̕ź taje̮ te ve̮₍t̕śin?» »a vot me}
+{taje̮ ki̮d̕ź ve̮₍t̕śi! me taje̮ t̕śuń-ki̮tšse̮ totški, i tati̮ś petisni̮ ki̮k molo-}
+{d̕ḙt̕ś, i naja ve̮₍t̕śisni̮.» ivan unmovśis, a babai̮s ole̮. babai̮s bośtis}
+{t̕śuń-ki̮tšse̮ i totškis. petisni̮ ki̮k molodl̕ḙt̕ś i jualisni̮: »mi̮i̭ kole̮?» »a}
+{vot med me tat̕t̕śe̮ unmovśa a t̕śḙt̕t̕śa se₍tše̮m di vi̮le̮.» aski muži̮k}
+{t̕śḙt̕t̕śis, a baba abu, ivan koris kańe̮s da ponje̮s i i̮stis t̕śuń-ki̮tš}
+{korśni̮. kań da pon vajisni̮. ivan bośtis t̕śuń-ki̮tš i totškis sije̮.}
+{petisni̮ ki̮k molod̕e̮t̕ś, šue̮ni̮: »mi̮i̭ kole̮?» »a vot, vaje̮ meni̮m babae̮s}
+{be̮r!» naja vajisni̮, i gozja e̮pe̮t̕ olme̮d̕t̕śisni̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:3;}">
+            <Coords points="152,1155 1437,1155 1437,1318 152,1318"/>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="153,1156 1436,1156 1436,1199 153,1199"/>
+                <Baseline points="153,1191 283,1191 411,1190 478,1189 566,1189 772,1195 866,1188 970,1188 1167,1187 1355,1186 1436,1177"/>
+                <TextEquiv>
+                    <Unicode>klopfte damit an den tischrand, und zwei stattliche burschen ka-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="154,1215 1436,1215 1436,1260 154,1260"/>
+                <Baseline points="154,1250 231,1250 328,1249 420,1249 518,1257 667,1250 756,1248 906,1248 981,1248 1078,1247 1279,1247 1362,1255 1436,1246"/>
+                <TextEquiv>
+                    <Unicode>men [aus dem ring] hervor. Sie bauten bis zum folgenden tag ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="154,1277 926,1277 926,1317 154,1317"/>
+                <Baseline points="154,1310 288,1310 402,1310 480,1309 566,1309 678,1310 836,1309 926,1309"/>
+                <TextEquiv>
+                    <Unicode>schloss. Der zar gab seine tochter hin.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>klopfte damit an den tischrand, und zwei stattliche burschen ka-
+men [aus dem ring] hervor. Sie bauten bis zum folgenden tag ein
+schloss. Der zar gab seine tochter hin.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:4;}">
+            <Coords points="154,1334 1441,1334 1441,1797 154,1797"/>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="259,1335 1434,1335 1434,1377 259,1377"/>
+                <Baseline points="259,1369 389,1369 513,1369 597,1369 704,1368 840,1368 957,1368 1059,1367 1128,1366 1258,1367 1434,1373"/>
+                <TextEquiv>
+                    <Unicode>Einmal fragt die frau lvan: »Wie hast du dieses [schloss]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="156,1394 1438,1394 1438,1439 156,1439"/>
+                <Baseline points="156,1439 348,1429 486,1436 571,1429 646,1428 704,1429 884,1428 1012,1428 1107,1427 1261,1427 1347,1427 1438,1416"/>
+                <TextEquiv>
+                    <Unicode>gemacht?» »Sieh, wie ich es gemacht habe! Ich klopfte mit die-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="155,1456 1437,1456 1437,1499 155,1499"/>
+                <Baseline points="155,1490 224,1490 330,1496 424,1489 571,1489 716,1489 820,1489 1016,1488 1203,1487 1351,1494 1437,1487"/>
+                <TextEquiv>
+                    <Unicode>sem ring, und daraus kamen zwei stattliche burschen hervor, und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="155,1515 1439,1515 1439,1558 155,1558"/>
+                <Baseline points="155,1551 201,1551 360,1550 469,1550 670,1548 799,1549 950,1548 1048,1555 1148,1547 1262,1547 1371,1547 1439,1547"/>
+                <TextEquiv>
+                    <Unicode>sie bauten [das schloss].» Ivan schlief ein, sein weib aber ist</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="155,1576 1437,1576 1437,1618 155,1618"/>
+                <Baseline points="155,1611 273,1610 381,1610 537,1610 643,1610 749,1609 869,1609 950,1609 1043,1617 1127,1608 1272,1607 1437,1608"/>
+                <TextEquiv>
+                    <Unicode>immer noch [wach]. Das weib nahm den ring und klopfte [damit].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="155,1636 1440,1636 1440,1677 155,1677"/>
+                <Baseline points="155,1671 242,1671 436,1671 622,1670 769,1670 911,1669 996,1669 1162,1668 1280,1667 1340,1667 1440,1657"/>
+                <TextEquiv>
+                    <Unicode>Zwei stattliche burschen kamen heraus und fragten : »Was ist von-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="157,1696 1437,1696 1437,1736 157,1736"/>
+                <Baseline points="157,1731 299,1730 446,1736 589,1736 690,1730 766,1729 863,1729 1089,1728 1182,1728 1263,1727 1345,1727 1437,1727"/>
+                <TextEquiv>
+                    <Unicode>nöten?» »Nun, schau, dass ich hier einschlafen und auf der und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="156,1756 1440,1756 1440,1796 156,1796"/>
+                <Baseline points="156,1790 214,1790 328,1789 558,1790 754,1787 861,1789 1054,1788 1224,1787 1357,1787 1440,1786"/>
+                <TextEquiv>
+                    <Unicode>der insel aufwachen möchte.» Am nächsten morgen stand der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Einmal fragt die frau lvan: »Wie hast du dieses [schloss]
+gemacht?» »Sieh, wie ich es gemacht habe! Ich klopfte mit die-
+sem ring, und daraus kamen zwei stattliche burschen hervor, und 
+sie bauten [das schloss].» Ivan schlief ein, sein weib aber ist
+immer noch [wach]. Das weib nahm den ring und klopfte [damit].
+Zwei stattliche burschen kamen heraus und fragten : »Was ist von-
+nöten?» »Nun, schau, dass ich hier einschlafen und auf der und 
+der insel aufwachen möchte.» Am nächsten morgen stand der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:5;}">
+            <Coords points="155,1813 1441,1813 1441,1857 155,1857"/>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="156,1814 1440,1814 1440,1856 156,1856"/>
+                <Baseline points="156,1850 257,1849 359,1856 472,1849 562,1849 673,1849 741,1849 857,1848 933,1848 1064,1847 1149,1847 1225,1847 1346,1846 1440,1847"/>
+                <TextEquiv>
+                    <Unicode>mann auf, aber das weib ist nicht da. Ivan rief die katze und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mann auf, aber das weib ist nicht da. Ivan rief die katze und </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_4" custom="readingOrder {index:6;}">
+            <Coords points="156,1874 1439,1874 1439,1918 156,1918"/>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="157,1875 1438,1875 1438,1917 157,1917"/>
+                <Baseline points="157,1910 220,1909 347,1909 492,1909 590,1909 761,1907 856,1915 944,1908 1031,1906 1119,1906 1216,1915 1279,1905 1438,1906"/>
+                <TextEquiv>
+                    <Unicode>den hund herbei und schickte [sie] aus um den ring zu suchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>den hund herbei und schickte [sie] aus um den ring zu suchen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_5" custom="readingOrder {index:7;}">
+            <Coords points="157,1934 1440,1934 1440,1978 157,1978"/>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="158,1935 1439,1935 1439,1977 158,1977"/>
+                <Baseline points="158,1969 219,1969 349,1969 449,1969 531,1969 648,1968 832,1968 941,1975 1091,1967 1224,1966 1348,1965 1439,1966"/>
+                <TextEquiv>
+                    <Unicode>Die katze und der hund brachten [ihn] herbei. Ivan nahm den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die katze und der hund brachten [ihn] herbei. Ivan nahm den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_6" custom="readingOrder {index:8;}">
+            <Coords points="155,1994 1441,1994 1441,2220 155,2220"/>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="156,1995 1439,1995 1439,2037 156,2037"/>
+                <Baseline points="156,2029 229,2037 325,2029 477,2029 619,2028 752,2028 948,2028 1138,2026 1283,2026 1439,2032"/>
+                <TextEquiv>
+                    <Unicode>ring und klopfte damit. Zwei stattliche burschen kamen heraus,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="157,2054 1437,2054 1437,2097 157,2097"/>
+                <Baseline points="157,2089 203,2090 339,2089 458,2089 524,2088 762,2088 899,2095 1038,2093 1098,2078 1225,2086 1305,2086 1437,2093"/>
+                <TextEquiv>
+                    <Unicode>sie sagen: »Was ist vonnöten?» »Nun, schau, — bringt mir [mein]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="157,2115 1440,2115 1440,2158 157,2158"/>
+                <Baseline points="157,2149 240,2150 419,2149 504,2149 691,2149 775,2156 926,2155 1022,2147 1100,2147 1301,2147 1440,2136"/>
+                <TextEquiv>
+                    <Unicode>weib zurück!» Sie brachten [es] herbei, und die ehegatten began-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="157,2177 833,2177 833,2219 157,2219"/>
+                <Baseline points="157,2210 221,2209 365,2209 636,2217 703,2209 833,2209"/>
+                <TextEquiv>
+                    <Unicode>nen wieder [miteinander] zu leben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ring und klopfte damit. Zwei stattliche burschen kamen heraus,
+sie sagen: »Was ist vonnöten?» »Nun, schau, — bringt mir [mein]
+weib zurück!» Sie brachten [es] herbei, und die ehegatten began-
+nen wieder [miteinander] zu leben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:9;}">
+            <Coords points="954,2235 1340,2235 1340,2278 954,2278"/>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="955,2236 1339,2236 1339,2277 955,2277"/>
+                <Baseline points="955,2277 1339,2275"/>
+                <TextEquiv>
+                    <Unicode>(Trojcko-Pečerskoe.)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Trojcko-Pečerskoe.)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:10;}">
+            <Coords points="154,1089 1437,1089 1437,1095 154,1095"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

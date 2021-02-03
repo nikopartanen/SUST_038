@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-17T10:08:30.517+02:00</Created>
+        <LastChange>2020-08-17T11:47:29.187+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943403" pageNr="109" tsid="37086832" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=ZTGDZLHNCOCAFBGHKZWUSMPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLWCGDYGBRHKOYIDJWGKMPRP" imageId="13587427"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0109.jpg" imageWidth="1797" imageHeight="2953">
+        <PrintSpace>
+            <Coords points="0,245 1434,245 1434,2953 0,2953"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953387889" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="690,251 796,251 796,281 690,281"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="691,252 795,252 795,280 691,280"/>
+                <Baseline points="691,270 733,270 795,280"/>
+                <TextEquiv>
+                    <Unicode>– 99</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>– 99</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="133,341 1422,341 1422,1048 133,1048"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="135,342 1417,342 1417,385 135,385"/>
+                <Baseline points="135,374 155,374 248,376 356,382 493,376 605,375 720,376 830,376 945,375 1054,376 1228,375 1285,377 1417,378"/>
+                <TextEquiv>
+                    <Unicode>{a seni d̕źor, śinte̮m gozja ole̮ni̮. naje̮ pi̮zan saji̮n pukale̮ni̮ da śoje̮ni̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="134,401 1418,401 1418,446 134,446"/>
+                <Baseline points="134,435 167,435 190,436 416,435 535,435 599,435 700,434 735,435 845,435 1026,437 1160,437 1265,437 1294,438 1418,438"/>
+                <TextEquiv>
+                    <Unicode>{mika·i̭le̮ pań bośtis da tše̮tš i kutis pańavni̮. starik gozja i šue̮ni̮:}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="136,462 1420,462 1420,504 136,504"/>
+                <Baseline points="136,492 213,495 338,496 407,495 469,496 546,495 704,496 825,503 942,496 1008,496 1071,496 1117,497 1242,497 1319,497 1372,498 1420,489"/>
+                <TextEquiv>
+                    <Unicode>{»taje̮ taśtii̮s tai̭ ne̮ vek ti̮rmi̮lis śoi̭ni̮, talun tai̭ ne̮ ez ti̮rmi̮! kod kreš-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="134,524 1420,524 1420,567 134,567"/>
+                <Baseline points="134,553 269,554 322,565 392,554 480,556 547,555 609,557 749,558 897,558 1024,565 1259,556 1321,558 1420,549"/>
+                <TextEquiv>
+                    <Unicode>{še̮·ne̮i̭?» pe̮: »pe̮ri̮ś-ke̮» pe̮ »i̮₍dži̮d mame̮n šuam, tomdži̮k-ke̮» pe̮ »ma-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="136,584 1419,584 1419,628 136,628"/>
+                <Baseline points="136,617 207,616 343,624 389,617 533,618 600,616 670,619 813,625 946,618 1078,625 1123,618 1288,619 1357,617 1419,619"/>
+                <TextEquiv>
+                    <Unicode>{me̮n šuam, a muži̮k-ke̮» pe̮ »pe̮ri̮ś, d̕ede̮n šuam, a tomdži̮k-ke̮» pe̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="136,645 1417,645 1417,687 136,687"/>
+                <Baseline points="136,674 253,684 298,677 468,677 530,678 720,684 843,678 903,678 1120,678 1191,678 1272,678 1417,679"/>
+                <TextEquiv>
+                    <Unicode>{»bat̕e̮n, a ješše̮-ke̮» pe̮ »tomdži̮k, voke̮n šuam!» mika·i̭le̮ i ši̮aśas:}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="137,706 1417,706 1417,747 137,747"/>
+                <Baseline points="137,736 244,736 325,744 420,736 551,737 691,736 834,738 980,738 1142,738 1262,739 1417,738"/>
+                <TextEquiv>
+                    <Unicode>{»tom!» pe̮, »me muna korśni̮ se₍tše̮m se₍tše̮m d̕a̭d̕e̮e̮s». naje̮ šuasni̮:}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="137,765 1419,765 1419,806 137,806"/>
+                <Baseline points="137,794 149,794 253,797 289,784 301,796 371,797 478,798 587,798 671,798 805,797 907,806 959,798 1054,798 1189,796 1331,798 1419,799"/>
+                <TextEquiv>
+                    <Unicode>{»mianli̮ś» pe̮ »sije̮ śojis ńin komi̮n me̮s; te on-e̮ kol̕t̕t̕śi̮ mianli̮ me̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="138,825 1420,825 1420,867 138,867"/>
+                <Baseline points="138,857 282,856 373,857 409,858 576,858 697,858 835,858 924,858 1069,865 1113,858 1255,859 1350,858 1420,848"/>
+                <TextEquiv>
+                    <Unicode>{vid̕źni̮?» sije̮ i kol̕t̕t̕śas. seśśa munas me̮s vid̕źni̮, a d̕a̭d̕e̮i̮d oške̮ pe̮-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="137,885 1420,885 1420,919 137,919"/>
+                <Baseline points="137,916 190,917 226,917 360,918 480,917 688,918 869,918 905,918 1022,918 1078,918 1230,917 1306,902 1332,918 1420,918"/>
+                <TextEquiv>
+                    <Unicode>{ras i loktas. seśśa me̮s-kokad kut̕t̕śi̮śas i kutas śoi̭ni̮. mika·i̭le̮li̮}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="136,945 1420,945 1420,987 136,987"/>
+                <Baseline points="136,977 238,977 395,977 541,978 791,980 1108,978 1261,976 1339,978 1420,979"/>
+                <TextEquiv>
+                    <Unicode>{starik gozjai̮d śetisni̮ t̕śuškan-poz. t̕śuškan-zijasi̮d oški̮dli̮ bi̮d ge̮n}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="137,1006 1421,1006 1421,1047 137,1047"/>
+                <Baseline points="137,1037 221,1037 416,1046 487,1038 530,1039 587,1039 812,1039 1106,1039 1219,1039 1421,1039"/>
+                <TextEquiv>
+                    <Unicode>{koste̮ pukśasni̮ da i t̕śuškasni̮. mika·i̭le̮ bośtas oške̮s pel̕jase̮di̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{a seni d̕źor, śinte̮m gozja ole̮ni̮. naje̮ pi̮zan saji̮n pukale̮ni̮ da śoje̮ni̮.}
+{mika·i̭le̮ pań bośtis da tše̮tš i kutis pańavni̮. starik gozja i šue̮ni̮:}
+{»taje̮ taśtii̮s tai̭ ne̮ vek ti̮rmi̮lis śoi̭ni̮, talun tai̭ ne̮ ez ti̮rmi̮! kod kreš-}
+{še̮·ne̮i̭?» pe̮: »pe̮ri̮ś-ke̮» pe̮ »i̮₍dži̮d mame̮n šuam, tomdži̮k-ke̮» pe̮ »ma-}
+{me̮n šuam, a muži̮k-ke̮» pe̮ »pe̮ri̮ś, d̕ede̮n šuam, a tomdži̮k-ke̮» pe̮}
+{»bat̕e̮n, a ješše̮-ke̮» pe̮ »tomdži̮k, voke̮n šuam!» mika·i̭le̮ i ši̮aśas:}
+{»tom!» pe̮, »me muna korśni̮ se₍tše̮m se₍tše̮m d̕a̭d̕e̮e̮s». naje̮ šuasni̮:}
+{»mianli̮ś» pe̮ »sije̮ śojis ńin komi̮n me̮s; te on-e̮ kol̕t̕t̕śi̮ mianli̮ me̮s}
+{vid̕źni̮?» sije̮ i kol̕t̕t̕śas. seśśa munas me̮s vid̕źni̮, a d̕a̭d̕e̮i̮d oške̮ pe̮-}
+{ras i loktas. seśśa me̮s-kokad kut̕t̕śi̮śas i kutas śoi̭ni̮. mika·i̭le̮li̮}
+{starik gozjai̮d śetisni̮ t̕śuškan-poz. t̕śuškan-zijasi̮d oški̮dli̮ bi̮d ge̮n}
+{koste̮ pukśasni̮ da i t̕śuškasni̮. mika·i̭le̮ bośtas oške̮s pel̕jase̮di̮s}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="135,1125 1426,1125 1426,2308 135,2308"/>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="136,1126 1420,1126 1420,1167 136,1167"/>
+                <Baseline points="136,1158 217,1158 290,1157 415,1158 552,1165 650,1159 722,1159 823,1159 899,1158 1167,1166 1322,1158 1420,1149"/>
+                <TextEquiv>
+                    <Unicode>kam zu einer hütte, und da lebt ein grauhaariges, blindes ehe-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="139,1185 1419,1185 1419,1225 139,1225"/>
+                <Baseline points="139,1225 230,1218 330,1218 464,1218 543,1218 672,1218 765,1219 893,1218 1061,1218 1186,1218 1304,1218 1419,1218"/>
+                <TextEquiv>
+                    <Unicode>paar. Sie sitzen am tische und essen. Michel nahm einen löffel</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="139,1245 1420,1245 1420,1287 139,1287"/>
+                <Baseline points="139,1277 208,1278 373,1277 567,1278 834,1279 934,1279 1067,1278 1200,1278 1302,1278 1420,1278"/>
+                <TextEquiv>
+                    <Unicode>und begann ebenfalls mitzulöffeln. Da sagen mann und frau:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="139,1306 1421,1306 1421,1346 139,1346"/>
+                <Baseline points="139,1335 269,1337 381,1337 475,1338 594,1338 710,1338 795,1338 884,1338 1052,1344 1177,1337 1280,1338 1361,1338 1421,1337"/>
+                <TextEquiv>
+                    <Unicode>»Dieser napf hat doch stets für uns gelangt, heute aber hat er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="139,1365 1418,1365 1418,1407 139,1407"/>
+                <Baseline points="139,1397 232,1398 413,1398 537,1398 619,1398 693,1397 886,1398 991,1398 1035,1398 1071,1406 1120,1387 1254,1398 1323,1398 1418,1398"/>
+                <TextEquiv>
+                    <Unicode>nicht gelangt! Was für ein getaufter [bist du]?\1\ Falls du eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="139,1425 1419,1425 1419,1467 139,1467"/>
+                <Baseline points="139,1457 207,1457 340,1465 472,1464 624,1457 717,1464 800,1457 959,1457 1042,1457 1139,1457 1419,1464"/>
+                <TextEquiv>
+                    <Unicode>alte [frau] bist», sagten sie, »so nennen wir dich 'grossmutter',</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="138,1485 1420,1485 1420,1527 138,1527"/>
+                <Baseline points="138,1517 234,1517 313,1517 466,1517 560,1517 667,1518 766,1517 885,1525 998,1525 1068,1518 1231,1518 1320,1518 1420,1518"/>
+                <TextEquiv>
+                    <Unicode>wenn du jünger [als eine alte frau] bist, so nennen wir dich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="141,1545 1422,1545 1422,1585 141,1585"/>
+                <Baseline points="141,1558 301,1585 429,1578 507,1577 714,1578 789,1578 898,1577 1023,1578 1124,1584 1184,1578 1340,1578 1422,1578"/>
+                <TextEquiv>
+                    <Unicode>'mutter', wenn du hinwieder ein alter mann bist, so nennen wir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="140,1606 1419,1606 1419,1648 140,1648"/>
+                <Baseline points="140,1638 216,1638 471,1645 590,1638 664,1638 768,1638 908,1638 994,1638 1070,1638 1178,1638 1314,1646 1419,1646"/>
+                <TextEquiv>
+                    <Unicode>dich 'grossvater' wenn du aber jünger [als ein alter mann] bist,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="141,1666 1421,1666 1421,1706 141,1706"/>
+                <Baseline points="141,1678 270,1704 390,1698 465,1699 672,1698 780,1698 923,1698 1024,1705 1084,1699 1240,1699 1321,1699 1421,1698"/>
+                <TextEquiv>
+                    <Unicode>'vater', wenn du hinwieder noch jünger bist, so nennen wir dich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="141,1726 1420,1726 1420,1767 141,1767"/>
+                <Baseline points="141,1739 312,1757 409,1759 501,1759 652,1758 750,1759 904,1759 1011,1759 1186,1759 1328,1758 1420,1759"/>
+                <TextEquiv>
+                    <Unicode>'bruder'!» Da ruft Michel aus: »Jung! Ich wandere umher und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="140,1786 1421,1786 1421,1826 140,1826"/>
+                <Baseline points="140,1818 241,1819 358,1818 418,1817 509,1818 570,1819 828,1818 982,1818 1078,1818 1216,1818 1337,1818 1421,1819"/>
+                <TextEquiv>
+                    <Unicode>suche einen so und so beschaffenen mann.» Sie sagen: »Uns hat</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="141,1847 1420,1847 1420,1888 141,1888"/>
+                <Baseline points="141,1879 175,1878 304,1878 470,1887 581,1879 846,1886 993,1878 1061,1878 1178,1879 1254,1878 1340,1878 1420,1879"/>
+                <TextEquiv>
+                    <Unicode>er schon dreissig kühe weggegessen; bleibst du nicht bei uns um</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="141,1906 1423,1906 1423,1947 141,1947"/>
+                <Baseline points="141,1938 193,1938 313,1938 385,1938 553,1938 643,1938 770,1938 883,1938 1004,1939 1178,1937 1280,1938 1338,1939 1423,1939"/>
+                <TextEquiv>
+                    <Unicode>die kühe zu hüten?» Er bleibt dann auch. Darauf geht er aus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="142,1967 1421,1967 1421,2007 142,2007"/>
+                <Baseline points="142,1998 196,1999 274,1999 386,1999 450,1999 589,2004 694,1999 774,1998 898,1998 1001,1999 1052,1998 1196,2006 1421,1999"/>
+                <TextEquiv>
+                    <Unicode>um die kühe zu hüten, aber der mann [den er suchte] verwandelt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="141,2027 1421,2027 1421,2066 141,2066"/>
+                <Baseline points="141,2059 209,2058 266,2058 387,2059 512,2059 604,2059 759,2059 895,2059 1031,2059 1189,2058 1247,2058 1335,2058 1421,2058"/>
+                <TextEquiv>
+                    <Unicode>sich in einen bären und kommt heran. Dann ergreift er eine kuh</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="140,2086 1421,2086 1421,2126 140,2126"/>
+                <Baseline points="140,2119 229,2118 327,2118 420,2119 583,2118 678,2126 744,2118 904,2118 1072,2117 1213,2118 1296,2117 1421,2118"/>
+                <TextEquiv>
+                    <Unicode>beim bein und beginnt [sie] zu fressen. Michel hatten der mann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="141,2146 1424,2146 1424,2187 141,2187"/>
+                <Baseline points="141,2179 210,2179 296,2179 405,2179 492,2178 734,2178 926,2178 1035,2178 1194,2177 1330,2177 1424,2177"/>
+                <TextEquiv>
+                    <Unicode>und die frau ein wespennest gegeben. Die wespen setzen sich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="143,2206 1424,2206 1424,2247 143,2247"/>
+                <Baseline points="143,2240 219,2239 345,2239 530,2238 646,2239 751,2239 843,2239 1004,2239 1116,2238 1272,2237 1424,2238"/>
+                <TextEquiv>
+                    <Unicode>dem bären zwischen jedes haar und stechen [ihn]. Michel ergreift</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="143,2266 1425,2266 1425,2307 143,2307"/>
+                <Baseline points="143,2300 207,2299 342,2299 424,2299 511,2299 638,2299 731,2299 883,2299 964,2299 1032,2299 1117,2298 1283,2298 1425,2298"/>
+                <TextEquiv>
+                    <Unicode>den bären bei den ohren und schlägt ihn da tot. Michel kehrte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kam zu einer hütte, und da lebt ein grauhaariges, blindes ehe-
+paar. Sie sitzen am tische und essen. Michel nahm einen löffel
+und begann ebenfalls mitzulöffeln. Da sagen mann und frau:
+»Dieser napf hat doch stets für uns gelangt, heute aber hat er
+nicht gelangt! Was für ein getaufter [bist du]?\1\ Falls du eine
+alte [frau] bist», sagten sie, »so nennen wir dich 'grossmutter',
+wenn du jünger [als eine alte frau] bist, so nennen wir dich
+'mutter', wenn du hinwieder ein alter mann bist, so nennen wir
+dich 'grossvater' wenn du aber jünger [als ein alter mann] bist,
+'vater', wenn du hinwieder noch jünger bist, so nennen wir dich
+'bruder'!» Da ruft Michel aus: »Jung! Ich wandere umher und 
+suche einen so und so beschaffenen mann.» Sie sagen: »Uns hat
+er schon dreissig kühe weggegessen; bleibst du nicht bei uns um
+die kühe zu hüten?» Er bleibt dann auch. Darauf geht er aus
+um die kühe zu hüten, aber der mann [den er suchte] verwandelt
+sich in einen bären und kommt heran. Dann ergreift er eine kuh
+beim bein und beginnt [sie] zu fressen. Michel hatten der mann
+und die frau ein wespennest gegeben. Die wespen setzen sich
+dem bären zwischen jedes haar und stechen [ihn]. Michel ergreift
+den bären bei den ohren und schlägt ihn da tot. Michel kehrte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+            <Coords points="142,2352 1428,2352 1428,2496 142,2496"/>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="244,2353 1427,2353 1427,2392 244,2392"/>
+                <Baseline points="244,2373 256,2373 382,2382 535,2383 592,2382 645,2382 713,2382 795,2383 893,2383 1024,2386 1130,2383 1207,2382 1352,2381 1427,2375"/>
+                <TextEquiv>
+                    <Unicode>\1\ Wenn jemand z. b. an die türe klopft, fragt der syrjäne ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="143,2406 1425,2406 1425,2444 143,2444"/>
+                <Baseline points="143,2435 308,2434 440,2435 512,2434 581,2434 757,2434 855,2434 971,2421 1081,2434 1188,2435 1296,2434 1425,2433"/>
+                <TextEquiv>
+                    <Unicode>wöhnlich: „Was für ein getaufter [bist du]?“ Auf diese frage wagen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="144,2456 1125,2456 1125,2495 144,2495"/>
+                <Baseline points="144,2486 193,2486 363,2485 446,2486 563,2486 701,2486 808,2486 1125,2486"/>
+                <TextEquiv>
+                    <Unicode>die zauberer und bösen geister nicht hereinzukommen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>\1\ Wenn jemand z. b. an die türe klopft, fragt der syrjäne ge-
+wöhnlich: „Was für ein getaufter [bist du]?“ Auf diese frage wagen
+die zauberer und bösen geister nicht hereinzukommen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:4;}">
+            <Coords points="138,1067 1401,1067 1401,1072 138,1072"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:5;}">
+            <Coords points="141,2330 345,2330 345,2333 141,2333"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:6;}">
+            <Coords points="0,2948 790,2948 790,2953 0,2953"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:7;}">
+            <Coords points="626,435 691,435 691,442 626,442"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

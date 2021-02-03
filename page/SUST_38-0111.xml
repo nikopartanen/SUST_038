@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-08-17T10:08:31.721+02:00</Created>
+        <LastChange>2020-08-17T14:40:15.700+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943407" pageNr="111" tsid="37102147" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=JQMCNBYNIVOLABUAFCBHZMOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRJKCYPSDLLXXVSRFRWGPUSW" imageId="13587431"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0111.jpg" imageWidth="1822" imageHeight="2957">
+        <PrintSpace>
+            <Coords points="159,237 1459,237 1459,2500 159,2500"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953388120" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3_1"/>
+                <RegionRefIndexed index="4" regionRef="r_3_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="709,243 904,243 904,274 709,274"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="710,244 903,244 903,273 710,273"/>
+                <Baseline points="710,264 754,264 781,272 903,264"/>
+                <TextEquiv>
+                    <Unicode>— 101 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 101 —</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="165,336 1452,336 1452,975 165,975"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="168,337 1448,337 1448,379 168,379"/>
+                <Baseline points="168,368 314,370 447,369 509,370 614,370 649,370 729,370 837,370 872,370 1016,371 1140,369 1234,370 1332,370 1448,376"/>
+                <TextEquiv>
+                    <Unicode>{tsarevna munis va pi̮ri̮s i mu pi̮ri̮s i vit̕śkoe̮ suvtis med vod̕ź vi̮las;}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="168,398 1450,398 1450,440 168,440"/>
+                <Baseline points="168,439 265,430 332,430 460,430 525,431 696,438 840,437 951,432 1011,431 1179,429 1370,437 1450,429"/>
+                <TextEquiv>
+                    <Unicode>{popi̮s ńi d̕aki̮s ez vermi̮ni̮ śi̮vni̮s, je̮zi̮s ez vermi̮ni̮ jurbitni̮s, vek}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="166,458 1450,458 1450,499 166,499"/>
+                <Baseline points="166,488 322,496 408,490 487,491 598,491 702,491 802,490 845,491 997,492 1344,490 1450,489"/>
+                <TextEquiv>
+                    <Unicode>{šenźisni̮, jen al̕i mort taje̮. kor śi̮vśis, marpida tsarevna petis}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="167,518 1448,518 1448,560 167,560"/>
+                <Baseline points="167,551 263,552 388,551 424,551 464,551 591,551 931,551 1064,551 1144,551 1249,550 1285,551 1339,550 1448,556"/>
+                <TextEquiv>
+                    <Unicode>{kil̕t̕śe̮ ponas i voši. marpida tsarevna munis mu pi̮ri̮s i va pi̮ri̮s,}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="167,579 1448,579 1448,622 167,622"/>
+                <Baseline points="167,613 179,613 263,612 454,613 575,613 736,612 855,612 918,612 954,613 1101,613 1169,612 1258,618 1373,618 1448,600"/>
+                <TextEquiv>
+                    <Unicode>{i be̮r pat̕t̕śeras kajis. mami̮s loktis da i viśtale̮: »te ve̮d, ni̮le̮i̭, ńi-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="167,639 1450,639 1450,681 167,681"/>
+                <Baseline points="167,674 240,674 307,673 416,679 460,673 575,672 717,674 757,672 884,664 944,681 1045,678 1120,672 1191,672 1308,672 1450,661"/>
+                <TextEquiv>
+                    <Unicode>{ne̮m on te̮dli̮, a talun vit̕śkoe̮ volis — og te̮de̮i̭ jen al̕i mort: popja-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="167,700 1450,700 1450,741 167,741"/>
+                <Baseline points="167,734 216,733 271,733 434,740 544,741 606,739 705,732 761,733 920,731 1018,732 1195,732 1450,722"/>
+                <TextEquiv>
+                    <Unicode>{si̮s ez vermi̮ni̮ śi̮vni̮ se̮, je̮zi̮s ez vermi̮ni̮ jurbitni̮s!» marpida tsa-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="167,761 1449,761 1449,802 167,802"/>
+                <Baseline points="167,794 264,794 339,794 436,793 568,792 691,792 791,792 901,793 1016,791 1197,793 1364,797 1449,781"/>
+                <TextEquiv>
+                    <Unicode>{revna zev jona śerale̮. seśśa bara kutis korni̮ paś-ke̮m: »mame̮i̭, ma-}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="167,821 1451,821 1451,862 167,862"/>
+                <Baseline points="167,855 240,861 450,854 664,853 765,852 871,851 1022,853 1103,853 1255,852 1297,852 1451,842"/>
+                <TextEquiv>
+                    <Unicode>{me̮i̭, ku₍tše̮m-ke̮ džodž-de̮ra šoi̭te̮ vai̭!» mami̮s šuas: »mun te pat̕t̕śer-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="166,880 1449,880 1449,922 166,922"/>
+                <Baseline points="166,914 305,920 424,914 466,914 632,913 970,913 1255,912 1392,911 1449,912"/>
+                <TextEquiv>
+                    <Unicode>{sere̮gad, śe̮late̮ kušti̮!» marpida tsarevna pat̕t̕śer-sere̮gas śeralas da}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="166,941 298,941 298,974 166,974"/>
+                <Baseline points="166,973 298,973"/>
+                <TextEquiv>
+                    <Unicode>{śeralas.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{tsarevna munis va pi̮ri̮s i mu pi̮ri̮s i vit̕śkoe̮ suvtis med vod̕ź vi̮las;}
+{popi̮s ńi d̕aki̮s ez vermi̮ni̮ śi̮vni̮s, je̮zi̮s ez vermi̮ni̮ jurbitni̮s, vek}
+{šenźisni̮, jen al̕i mort taje̮. kor śi̮vśis, marpida tsarevna petis}
+{kil̕t̕śe̮ ponas i voši. marpida tsarevna munis mu pi̮ri̮s i va pi̮ri̮s,}
+{i be̮r pat̕t̕śeras kajis. mami̮s loktis da i viśtale̮: »te ve̮d, ni̮le̮i̭, ńi-}
+{ne̮m on te̮dli̮, a talun vit̕śkoe̮ volis — og te̮de̮i̭ jen al̕i mort: popja-}
+{si̮s ez vermi̮ni̮ śi̮vni̮ se̮, je̮zi̮s ez vermi̮ni̮ jurbitni̮s!» marpida tsa-}
+{revna zev jona śerale̮. seśśa bara kutis korni̮ paś-ke̮m: »mame̮i̭, ma-}
+{me̮i̭, ku₍tše̮m-ke̮ džodž-de̮ra šoi̭te̮ vai̭!» mami̮s šuas: »mun te pat̕t̕śer-}
+{sere̮gad, śe̮late̮ kušti̮!» marpida tsarevna pat̕t̕śer-sere̮gas śeralas da}
+{śeralas.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="168,1000 1451,1000 1451,1163 168,1163"/>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="270,1001 1449,1001 1449,1041 270,1041"/>
+                <Baseline points="270,1034 340,1033 421,1034 610,1033 710,1033 853,1034 908,1033 1109,1032 1449,1030"/>
+                <TextEquiv>
+                    <Unicode>{me̮d lun mami̮sjas bara vit̕śkoe̮ munisni̮. marpida tsarevna}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="169,1060 1449,1060 1449,1102 169,1102"/>
+                <Baseline points="169,1093 244,1094 415,1093 460,1102 580,1101 831,1092 932,1092 1096,1092 1183,1100 1330,1091 1449,1089"/>
+                <TextEquiv>
+                    <Unicode>{bara ge̮be̮₍t̕śas pi̮ris, pipili̮s se̮ke̮l sije̮s paśte̮dis t̕śig biśere̮n. seśśa}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="169,1120 1450,1120 1450,1162 169,1162"/>
+                <Baseline points="169,1154 244,1153 332,1153 451,1153 494,1153 555,1153 666,1152 809,1160 953,1153 1061,1152 1098,1152 1222,1151 1315,1151 1450,1150"/>
+                <TextEquiv>
+                    <Unicode>{bara mu pi̮ri̮s i va pi̮ri̮s munis, vit̕śkoe̮ pi̮ris i suvtis med vo₍d̕źe̮.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{me̮d lun mami̮sjas bara vit̕śkoe̮ munisni̮. marpida tsarevna}
+{bara ge̮be̮₍t̕śas pi̮ris, pipili̮s se̮ke̮l sije̮s paśte̮dis t̕śig biśere̮n. seśśa}
+{bara mu pi̮ri̮s i va pi̮ri̮s munis, vit̕śkoe̮ pi̮ris i suvtis med vo₍d̕źe̮.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:3;}">
+            <Coords points="167,1249 1453,1249 1453,2186 167,2186"/>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="168,1250 1449,1250 1449,1290 168,1290"/>
+                <Baseline points="168,1283 272,1284 374,1284 518,1290 618,1283 676,1283 751,1283 887,1283 980,1283 1113,1282 1206,1282 1270,1282 1449,1273"/>
+                <TextEquiv>
+                    <Unicode>felder und flüsse, trat in die kirche und stellte sich zu allervor-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="169,1310 1450,1310 1450,1355 169,1355"/>
+                <Baseline points="169,1344 260,1344 379,1355 509,1343 589,1343 752,1343 861,1342 943,1343 1089,1343 1308,1343 1450,1334"/>
+                <TextEquiv>
+                    <Unicode>derst hin;] weder der priester noch der diakon vermochte vorzu-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="169,1371 1449,1371 1449,1413 169,1413"/>
+                <Baseline points="169,1406 294,1411 380,1405 482,1404 632,1403 725,1402 841,1403 1065,1408 1208,1403 1288,1403 1449,1403"/>
+                <TextEquiv>
+                    <Unicode>singen, das volk konnte sich nicht verbeugen, immer nur [fragten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="168,1431 1451,1431 1451,1471 168,1471"/>
+                <Baseline points="168,1464 214,1465 261,1465 384,1464 661,1463 740,1463 847,1463 950,1463 1025,1463 1185,1463 1264,1464 1369,1464 1451,1463"/>
+                <TextEquiv>
+                    <Unicode>sie sich] verwundert, ob sie Gott oder ein mensch sei. Als der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="169,1491 1451,1491 1451,1533 169,1533"/>
+                <Baseline points="169,1533 391,1524 455,1524 563,1524 664,1530 766,1532 935,1523 1087,1523 1136,1523 1216,1523 1361,1523 1451,1523"/>
+                <TextEquiv>
+                    <Unicode>gottesdienst zu ende war, ging prinzess Martha in den vorflur [der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="168,1551 1451,1551 1451,1592 168,1592"/>
+                <Baseline points="168,1585 220,1584 349,1583 452,1583 858,1583 1023,1583 1214,1582 1320,1583 1451,1583"/>
+                <TextEquiv>
+                    <Unicode>kirche] und verschwand. Prinzess Martha wanderte über felder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="168,1611 1446,1611 1446,1651 168,1651"/>
+                <Baseline points="168,1644 237,1645 372,1644 475,1643 664,1643 1010,1649 1095,1642 1188,1642 1288,1642 1446,1642"/>
+                <TextEquiv>
+                    <Unicode>und flüsse und kletterte [heimgekommen] auf den ofen zurück.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="170,1672 1448,1672 1448,1714 170,1714"/>
+                <Baseline points="170,1704 230,1704 380,1704 474,1703 566,1704 640,1703 769,1703 987,1709 1076,1703 1236,1703 1342,1710 1448,1703"/>
+                <TextEquiv>
+                    <Unicode>Die mutter kam [aus der kirche nachhause] und erzählt: »Du, mein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="168,1731 1450,1731 1450,1771 168,1771"/>
+                <Baseline points="168,1764 263,1764 431,1763 569,1764 712,1770 816,1763 939,1763 1042,1762 1098,1763 1174,1763 1311,1763 1376,1754 1450,1763"/>
+                <TextEquiv>
+                    <Unicode>töchterlein, weisst ja nichts, aber heute kam in die kirche — wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="168,1791 1450,1791 1450,1832 168,1832"/>
+                <Baseline points="168,1824 196,1824 330,1825 480,1824 587,1823 689,1823 763,1823 938,1823 1016,1823 1174,1823 1232,1823 1450,1823"/>
+                <TextEquiv>
+                    <Unicode>wissen nicht, ob Gott oder ein mensch: die priester konnten nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="168,1852 1451,1852 1451,1893 168,1893"/>
+                <Baseline points="168,1884 190,1884 440,1885 539,1885 683,1885 768,1884 879,1883 1116,1883 1301,1885 1451,1884"/>
+                <TextEquiv>
+                    <Unicode>vorsingen, das volk konnte sich nicht verbeugen!» Prinzess Martha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="168,1913 1450,1913 1450,1953 168,1953"/>
+                <Baseline points="168,1944 259,1945 367,1945 506,1945 660,1944 730,1944 874,1944 955,1944 1103,1944 1166,1945 1318,1945 1450,1938"/>
+                <TextEquiv>
+                    <Unicode>lacht sehr. Dann begann sie wieder um kleider zu bitten: »Müt-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="168,1973 1452,1973 1452,2013 168,2013"/>
+                <Baseline points="168,2004 315,2011 420,2005 668,2012 740,2005 820,2004 1048,2004 1452,2003"/>
+                <TextEquiv>
+                    <Unicode>terchen, mein mütterchen, gib mir irgendeinen dielenmattenfetzen!»</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="169,2033 1450,2033 1450,2073 169,2073"/>
+                <Baseline points="169,2064 229,2064 381,2064 493,2065 605,2064 673,2064 730,2064 806,2064 958,2065 1053,2065 1128,2064 1337,2072 1450,2066"/>
+                <TextEquiv>
+                    <Unicode>Die mutter sagt: »Geh du in die hintere ecke des ofendachs, rupfe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="171,2093 1449,2093 1449,2134 171,2134"/>
+                <Baseline points="171,2134 253,2124 270,2131 356,2125 600,2123 784,2125 941,2124 1055,2126 1112,2125 1188,2125 1283,2125 1358,2124 1449,2125"/>
+                <TextEquiv>
+                    <Unicode>[dort] das haselhuhn!» Prinzess Martha lacht in der ecke auf dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="169,2152 465,2152 465,2185 169,2185"/>
+                <Baseline points="169,2184 244,2184 338,2184 465,2185"/>
+                <TextEquiv>
+                    <Unicode>ofen und lacht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>felder und flüsse, trat in die kirche und stellte sich zu allervor-
+derst hin;] weder der priester noch der diakon vermochte vorzu-
+singen, das volk konnte sich nicht verbeugen, immer nur [fragten
+sie sich] verwundert, ob sie Gott oder ein mensch sei. Als der
+gottesdienst zu ende war, ging prinzess Martha in den vorflur [der
+kirche] und verschwand. Prinzess Martha wanderte über felder
+und flüsse und kletterte [heimgekommen] auf den ofen zurück.
+Die mutter kam [aus der kirche nachhause] und erzählt: »Du, mein
+töchterlein, weisst ja nichts, aber heute kam in die kirche — wir
+wissen nicht, ob Gott oder ein mensch: die priester konnten nicht
+vorsingen, das volk konnte sich nicht verbeugen!» Prinzess Martha
+lacht sehr. Dann begann sie wieder um kleider zu bitten: »Müt-
+terchen, mein mütterchen, gib mir irgendeinen dielenmattenfetzen!»
+Die mutter sagt: »Geh du in die hintere ecke des ofendachs, rupfe
+[dort] das haselhuhn!» Prinzess Martha lacht in der ecke auf dem
+ofen und lacht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:4;}">
+            <Coords points="166,2211 1451,2211 1451,2494 166,2494"/>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="270,2212 1448,2212 1448,2253 270,2253"/>
+                <Baseline points="270,2244 335,2244 545,2244 657,2244 810,2244 895,2245 1024,2245 1168,2245 1224,2245 1301,2245 1448,2245"/>
+                <TextEquiv>
+                    <Unicode>Am folgenden tage gingen die eltern wieder in die kirche.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="168,2272 1450,2272 1450,2313 168,2313"/>
+                <Baseline points="168,2304 319,2305 475,2304 576,2312 719,2304 775,2304 859,2305 1151,2311 1233,2304 1346,2305 1450,2294"/>
+                <TextEquiv>
+                    <Unicode>Prinzess Martha ging wieder in das kellergeschoss, der falke Pipi-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="167,2332 1450,2332 1450,2372 167,2372"/>
+                <Baseline points="167,2364 218,2364 376,2365 455,2365 513,2365 646,2365 791,2365 937,2365 1132,2365 1200,2365 1345,2365 1450,2364"/>
+                <TextEquiv>
+                    <Unicode>lys kleidet sie in lauter perlen. Dann wanderte sie wieder über</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="167,2393 1449,2393 1449,2432 167,2432"/>
+                <Baseline points="167,2423 271,2424 372,2425 513,2432 613,2425 670,2424 748,2425 884,2425 976,2425 1112,2425 1205,2425 1269,2425 1449,2415"/>
+                <TextEquiv>
+                    <Unicode>felder und flüsse, trat in die kirche und stellte sich zu allervor-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="168,2453 1449,2453 1449,2493 168,2493"/>
+                <Baseline points="168,2484 258,2484 349,2484 524,2485 697,2485 767,2485 884,2485 1022,2486 1132,2485 1226,2485 1449,2492"/>
+                <TextEquiv>
+                    <Unicode>derst hin. Wieder konnten sie nicht singen noch sich verbeugen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Am folgenden tage gingen die eltern wieder in die kirche.
+Prinzess Martha ging wieder in das kellergeschoss, der falke Pipi-
+lys kleidet sie in lauter perlen. Dann wanderte sie wieder über
+felder und flüsse, trat in die kirche und stellte sich zu allervor-
+derst hin. Wieder konnten sie nicht singen noch sich verbeugen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="719,1190 1451,1190 1451,1195 719,1195"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:6;}">
+            <Coords points="226,1192 591,1192 591,1196 226,1196"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

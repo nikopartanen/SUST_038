@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=fokos-03(htr_id=25386)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-28T11:49:16.984+02:00</Created>
+        <LastChange>2020-07-28T14:05:35.854+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: Finnish
+                Language: RussianOldSpelling
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943204" pageNr="11" tsid="35556019" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=JVQXHZAIBZEUTCTJBPCGMWTZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AWCQDXPWLTRMUXFDZWASMOLV" imageId="13587228"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0011.jpg" imageWidth="1807" imageHeight="2939">
+        <PrintSpace>
+            <Coords points="164,903 1472,903 1472,2502 164,2502"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953376165" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_2_3"/>
+                <RegionRefIndexed index="4" regionRef="r_2_4"/>
+                <RegionRefIndexed index="5" regionRef="r_3_1"/>
+                <RegionRefIndexed index="6" regionRef="r_3_2"/>
+                <RegionRefIndexed index="7" regionRef="r_3_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="428,909 1281,909 1281,966 428,966"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="429,910 1280,910 1280,965 429,965"/>
+                <Baseline points="429,956 652,963 821,953 940,953 1280,951"/>
+                <TextEquiv>
+                    <Unicode>Märchen, sagen und erzählungen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Märchen, sagen und erzählungen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="631,1101 994,1101 994,1133 631,1133"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="632,1102 993,1102 993,1132 632,1132"/>
+                <Baseline points="632,1132 677,1131 855,1131 993,1128"/>
+                <TextEquiv>
+                    <Unicode>A. Untere Ižma.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A. Untere Ižma.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="799,1223 828,1223 828,1252 799,1252"/>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="800,1224 827,1224 827,1251 800,1251"/>
+                <Baseline points="800,1251 815,1251 827,1251"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_3" custom="readingOrder {index:3;}">
+            <Coords points="754,1315 869,1315 869,1339 754,1339"/>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="755,1316 868,1316 868,1338 755,1338"/>
+                <Baseline points="755,1337 868,1338"/>
+                <TextEquiv>
+                    <Unicode>{vasa.}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.5" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{vasa.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_4" custom="readingOrder {index:4;}">
+            <Coords points="170,1387 1460,1387 1460,1673 170,1673"/>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="274,1388 1456,1388 1456,1434 274,1434"/>
+                <Baseline points="274,1426 358,1424 506,1431 556,1424 684,1424 795,1423 968,1421 1068,1423 1128,1422 1238,1422 1333,1422 1456,1421"/>
+                <TextEquiv>
+                    <Unicode>{e̮tpi̮r ti̮ja̭śni̮ kvai̭t mort munini̮s ti̮ vi̮lɛ, sen ti̮sai̮s òz l'ubit}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="171,1448 1456,1448 1456,1491 171,1491"/>
+                <Baseline points="171,1485 349,1485 477,1484 681,1483 789,1483 849,1483 1004,1483 1116,1482 1246,1480 1363,1489 1456,1481"/>
+                <TextEquiv>
+                    <Unicode>{mat̕ti̮śem: mat̕ti̮śan-kɛ, t̕śḙrisɛ òz śḙt. med tḙni̮d t̕śḙrisɛ śḙtas, vi̮ja}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="173,1510 1456,1510 1456,1553 173,1553"/>
+                <Baseline points="173,1545 185,1545 209,1534 216,1543 421,1544 527,1544 607,1551 738,1553 880,1535 989,1543 1085,1543 1197,1542 1264,1550 1456,1542"/>
+                <TextEquiv>
+                    <Unicode>{ńa̭ń le₍d̕źeni̮s vaas si̮li̮ vod̕źa̭śem. — seśśa te̮ńa t̕śē̮tisni̮s, ku₍t̕śisni̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="176,1571 1459,1571 1459,1614 176,1614"/>
+                <Baseline points="176,1606 249,1606 285,1606 360,1606 454,1605 495,1605 589,1605 731,1605 792,1604 909,1604 1106,1601 1141,1604 1252,1603 1313,1603 1391,1610 1459,1594"/>
+                <TextEquiv>
+                    <Unicode>{ki̮ski̮ni̮, a e̮tik i mat̕ ve̮i̭pis. seśśa ni̮li̮ś tī̮ni̮ssɛ i kutis vasai̮s, —}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="174,1631 1456,1631 1456,1672 174,1672"/>
+                <Baseline points="174,1666 208,1666 322,1666 413,1666 524,1665 706,1665 834,1664 934,1664 991,1664 1206,1664 1339,1662 1456,1663"/>
+                <TextEquiv>
+                    <Unicode>{òz lèdź! ki̮k mo̭rt ki̮skisni̮s ki̮skisni̮s da i mi̮₍džisni̮s. seśśa e̮t̕iki̮s}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{e̮tpi̮r ti̮ja̭śni̮ kvai̭t mort munini̮s ti̮ vi̮lɛ, sen ti̮sai̮s òz l'ubit}
+{mat̕ti̮śem: mat̕ti̮śan-kɛ, t̕śḙrisɛ òz śḙt. med tḙni̮d t̕śḙrisɛ śḙtas, vi̮ja}
+{ńa̭ń le₍d̕źeni̮s vaas si̮li̮ vod̕źa̭śem. — seśśa te̮ńa t̕śē̮tisni̮s, ku₍t̕śisni̮s}
+{ki̮ski̮ni̮, a e̮tik i mat̕ ve̮i̭pis. seśśa ni̮li̮ś tī̮ni̮ssɛ i kutis vasai̮s, —}
+{òz lèdź! ki̮k mo̭rt ki̮skisni̮s ki̮skisni̮s da i mi̮₍džisni̮s. seśśa e̮t̕iki̮s}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:5;}">
+            <Coords points="802,1802 830,1802 830,1831 802,1831"/>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="803,1803 829,1803 829,1830 803,1830"/>
+                <Baseline points="803,1830 817,1830 829,1830"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:6;}">
+            <Coords points="609,1885 1025,1885 1025,1927 609,1927"/>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="610,1886 1024,1886 1024,1926 610,1926"/>
+                <Baseline points="610,1918 639,1918 1024,1917"/>
+                <TextEquiv>
+                    <Unicode>Der wassergeist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der wassergeist.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:7;}">
+            <Coords points="175,1973 1467,1973 1467,2496 175,2496"/>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="280,1974 1460,1974 1460,2014 280,2014"/>
+                <Baseline points="280,2006 413,2006 565,2005 694,2006 863,2006 970,2005 1057,2013 1138,2005 1222,2005 1460,2007"/>
+                <TextEquiv>
+                    <Unicode>Einmal gingen sechs männer zum see, um das schleppnetz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="176,2033 1460,2033 1460,2075 176,2075"/>
+                <Baseline points="176,2066 216,2066 374,2066 509,2065 602,2065 700,2073 815,2065 906,2065 1077,2066 1271,2066 1460,2056"/>
+                <TextEquiv>
+                    <Unicode>zu ziehen, Dort [im see] liebt der seegeist hässliche schimpf-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="179,2094 1462,2094 1462,2134 179,2134"/>
+                <Baseline points="179,2126 281,2126 423,2127 551,2126 629,2126 712,2126 925,2126 1040,2126 1170,2133 1272,2126 1337,2126 1462,2126"/>
+                <TextEquiv>
+                    <Unicode>worte nicht: wenn du ein hässliches wort sagst, gibt er keine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="176,2154 1462,2154 1462,2195 176,2195"/>
+                <Baseline points="176,2185 292,2186 457,2186 524,2185 607,2186 740,2186 865,2193 987,2186 1096,2186 1194,2186 1274,2187 1462,2186"/>
+                <TextEquiv>
+                    <Unicode>fische. Damit er dir fische gebe, wirft man ihm als geschenk</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="178,2214 1464,2214 1464,2255 178,2255"/>
+                <Baseline points="178,2246 373,2246 457,2246 615,2247 679,2236 758,2247 912,2246 982,2247 1095,2247 1211,2247 1377,2254 1464,2246"/>
+                <TextEquiv>
+                    <Unicode>butterbrot ins wasser. — Da warfen sie [jene sechs männer] das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="178,2274 1464,2274 1464,2316 178,2316"/>
+                <Baseline points="178,2306 396,2305 499,2306 653,2306 765,2313 981,2306 1057,2307 1221,2313 1336,2307 1464,2307"/>
+                <TextEquiv>
+                    <Unicode>schleppnetz [ins wasser und] begannen zu ziehen, aber einer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="179,2334 1466,2334 1466,2375 179,2375"/>
+                <Baseline points="179,2365 300,2365 368,2366 444,2365 648,2366 755,2366 849,2367 943,2366 1078,2366 1160,2366 1389,2367 1466,2366"/>
+                <TextEquiv>
+                    <Unicode>sprach da ein hässliches wort aus. Da ergriff der wassergeist ihr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="179,2395 1465,2395 1465,2435 179,2435"/>
+                <Baseline points="179,2425 266,2432 333,2416 452,2433 560,2425 621,2426 742,2426 831,2428 964,2426 1136,2427 1304,2434 1395,2427 1465,2427"/>
+                <TextEquiv>
+                    <Unicode>netz, — [und] lässt es nicht los! Zwei männer zerrten, was sie</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="179,2454 1464,2454 1464,2495 179,2495"/>
+                <Baseline points="179,2485 341,2492 433,2486 585,2486 679,2485 811,2487 900,2486 1009,2486 1117,2487 1199,2487 1332,2488 1464,2494"/>
+                <TextEquiv>
+                    <Unicode>konnten, und zerrten sich müde. Da sagte einer von ihnen: »Lass,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Einmal gingen sechs männer zum see, um das schleppnetz
+zu ziehen, Dort [im see] liebt der seegeist hässliche schimpf-
+worte nicht: wenn du ein hässliches wort sagst, gibt er keine
+fische. Damit er dir fische gebe, wirft man ihm als geschenk
+butterbrot ins wasser. — Da warfen sie [jene sechs männer] das
+schleppnetz [ins wasser und] begannen zu ziehen, aber einer
+sprach da ein hässliches wort aus. Da ergriff der wassergeist ihr
+netz, — [und] lässt es nicht los! Zwei männer zerrten, was sie
+konnten, und zerrten sich müde. Da sagte einer von ihnen: »Lass,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:8;}">
+            <Coords points="1217,1711 1458,1711 1458,1715 1217,1715"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:9;}">
+            <Coords points="174,1712 1199,1712 1199,1717 174,1717"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

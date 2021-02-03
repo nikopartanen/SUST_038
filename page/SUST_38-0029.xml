@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=SUST_38-06(htr_id=25563)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-07-28T11:49:27.616+02:00</Created>
+        <LastChange>2020-08-17T10:03:18.478+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Language: Finnish
+                Language: RussianOldSpelling
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="441749" pageId="17943240" pageNr="29" tsid="37074525" status="GT" userId="17326" imgUrl="https://files.transkribus.eu/Get?id=JSUXWBYERLAZLFIMSNXNUCTQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RGTLQNVUUYEWKJFPRRPRQLNH" imageId="13587264"/>
+    </Metadata>
+    <Page imageFilename="SUST_38-0029.jpg" imageWidth="1807" imageHeight="2948">
+        <PrintSpace>
+            <Coords points="158,263 1465,263 1465,2525 158,2525"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1607953378238" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_2_2"/>
+                <RegionRefIndexed index="3" regionRef="r_3_1"/>
+                <RegionRefIndexed index="4" regionRef="r_3_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="788,269 827,269 827,300 788,300"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="789,270 826,270 826,299 789,299"/>
+                <Baseline points="789,297 826,299"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>19</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="163,360 1451,360 1451,647 163,647"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="164,361 1448,361 1448,403 164,403"/>
+                <Baseline points="164,394 252,395 299,403 327,394 368,394 397,394 525,394 623,393 851,394 908,401 937,393 979,393 1008,393 1135,393 1247,393 1350,394 1368,392 1448,399"/>
+                <TextEquiv>
+                    <Unicode>{seśśa joma pi̮ras me̮s li̮śtan-ini̮ś. joma kutas śetni̮ pii̮sli̮ je̮v,}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="168,421 1450,421 1450,464 168,464"/>
+                <Baseline points="168,454 345,458 389,455 482,455 576,454 632,462 731,454 780,454 951,453 1024,454 1112,461 1245,454 1341,460 1450,453"/>
+                <TextEquiv>
+                    <Unicode>{vi₍d̕źe̮dlas, a pii̮s abu. jomai̮s dod̕jalas gi̮r ve̮v, šerdi̮n dod̕, tojin}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="168,482 1449,482 1449,524 168,524"/>
+                <Baseline points="168,524 242,521 385,515 449,515 485,515 520,515 612,515 734,514 820,515 888,514 1014,514 1138,514 1212,513 1328,514 1449,513"/>
+                <TextEquiv>
+                    <Unicode>{pl̕ḙt̕, ve̮tt̕śas da i suvas. seśśa pise̮ be̮r bośtas. seśśa ni̮v loktas gortas}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="166,542 1450,542 1450,584 166,584"/>
+                <Baseline points="166,576 207,576 243,576 399,576 554,576 651,576 769,575 872,573 973,581 1038,574 1081,582 1108,574 1150,575 1179,575 1261,574 1450,571"/>
+                <TextEquiv>
+                    <Unicode>{da i viśtalas bat̕i̮sli̮: »me vokte̮ vaja ve̮li, da joma be̮r pi̮šje̮dis.»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="166,604 684,604 684,646 166,646"/>
+                <Baseline points="166,636 253,636 364,636 463,636 556,636 596,637 607,637 640,646 684,637"/>
+                <TextEquiv>
+                    <Unicode>{seśśa bat̕i̮s i̮stas me̮d t̕śoje̮s.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{seśśa joma pi̮ras me̮s li̮śtan-ini̮ś. joma kutas śetni̮ pii̮sli̮ je̮v,}
+{vi₍d̕źe̮dlas, a pii̮s abu. jomai̮s dod̕jalas gi̮r ve̮v, šerdi̮n dod̕, tojin}
+{pl̕ḙt̕, ve̮tt̕śas da i suvas. seśśa pise̮ be̮r bośtas. seśśa ni̮v loktas gortas}
+{da i viśtalas bat̕i̮sli̮: »me vokte̮ vaja ve̮li, da joma be̮r pi̮šje̮dis.»}
+{seśśa bat̕i̮s i̮stas me̮d t̕śoje̮s.}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_2" custom="readingOrder {index:2;}">
+            <Coords points="166,663 1455,663 1455,1127 166,1127"/>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="270,664 1453,664 1453,706 270,706"/>
+                <Baseline points="270,697 328,697 435,697 573,697 688,697 942,703 1151,697 1274,696 1453,694"/>
+                <TextEquiv>
+                    <Unicode>{si̮li̮ bara pani̮d lovas šańga-gruda, ńa̭ń-tupe̮ś. naje̮ t̕śe̮ktasni̮}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="167,724 1450,724 1450,765 167,765"/>
+                <Baseline points="167,757 187,757 408,756 492,756 550,758 731,757 870,758 901,758 965,757 1131,758 1220,756 1320,757 1450,755"/>
+                <TextEquiv>
+                    <Unicode>{kurt̕t̕śi̮štni̮, a si̮je̮ oz kurt̕t̕śi̮št. muna·s da muna·s: si̮li̮ bara pani̮d}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="168,785 1447,785 1447,826 168,826"/>
+                <Baseline points="168,815 197,816 292,816 331,806 483,816 600,819 776,817 924,817 1064,817 1232,817 1271,816 1352,817 1447,816"/>
+                <TextEquiv>
+                    <Unicode>{lovas śu-kol̕ta da ri̮ni̮š, śu-kol̕ta ri̮ni̮šas t̕śe̮ktas śuji̮štni̮: si̮je̮ oz śui̭.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="167,844 1449,844 1449,885 167,885"/>
+                <Baseline points="167,875 254,875 362,874 394,876 534,876 569,884 646,874 898,876 957,876 1006,876 1194,877 1356,876 1449,866"/>
+                <TextEquiv>
+                    <Unicode>{seśśa ri̮ni̮ši̮s t̕śe̮ktas jog t̕śi̮ški̮štni̮: si̮je̮ oz t̕śi̮ški̮št. muna·s da mu-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="168,904 1450,904 1450,945 168,945"/>
+                <Baseline points="168,936 210,936 254,936 361,935 524,936 639,936 702,936 739,936 854,938 1030,939 1088,945 1187,937 1243,937 1291,936 1450,926"/>
+                <TextEquiv>
+                    <Unicode>{na·s: i₍t̕śe̮t kerkaad pi̮ras da i vokse̮ pi̮šje̮das. jomai̮d bara dod̕-}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="167,965 1448,965 1448,1006 167,1006"/>
+                <Baseline points="167,1005 179,1005 337,996 434,1004 574,997 675,1004 788,996 892,976 955,997 991,998 1091,997 1212,999 1274,996 1448,997"/>
+                <TextEquiv>
+                    <Unicode>{jalas gi̮r ve̮v, šerdi̮n dod̕, tojin pl̕ḙt̕ da i bara suvas da mi̮rdjas.}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="168,1025 1454,1025 1454,1066 168,1066"/>
+                <Baseline points="168,1057 251,1057 387,1056 516,1057 584,1057 662,1057 762,1058 856,1056 972,1058 1063,1058 1110,1057 1176,1064 1221,1057 1277,1066 1454,1055"/>
+                <TextEquiv>
+                    <Unicode>{ni̮li̮s gortas vovas da viśtalas: »me vokte̮ ve̮li vaja, da joma be̮r}</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="170,1085 335,1085 335,1126 170,1126"/>
+                <Baseline points="170,1126 335,1115"/>
+                <TextEquiv>
+                    <Unicode>{pi̮šje̮dis.»}</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true" italic="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>{si̮li̮ bara pani̮d lovas šańga-gruda, ńa̭ń-tupe̮ś. naje̮ t̕śe̮ktasni̮}
+{kurt̕t̕śi̮štni̮, a si̮je̮ oz kurt̕t̕śi̮št. muna·s da muna·s: si̮li̮ bara pani̮d}
+{lovas śu-kol̕ta da ri̮ni̮š, śu-kol̕ta ri̮ni̮šas t̕śe̮ktas śuji̮štni̮: si̮je̮ oz śui̭.}
+{seśśa ri̮ni̮ši̮s t̕śe̮ktas jog t̕śi̮ški̮štni̮: si̮je̮ oz t̕śi̮ški̮št. muna·s da mu-}
+{na·s: i₍t̕śe̮t kerkaad pi̮ras da i vokse̮ pi̮šje̮das. jomai̮d bara dod̕-}
+{jalas gi̮r ve̮v, šerdi̮n dod̕, tojin pl̕ḙt̕ da i bara suvas da mi̮rdjas.}
+{ni̮li̮s gortas vovas da viśtalas: »me vokte̮ ve̮li vaja, da joma be̮r}
+{pi̮šje̮dis.»}</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:3;}">
+            <Coords points="168,1213 1454,1213 1454,1736 168,1736"/>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="169,1214 1451,1214 1451,1255 169,1255"/>
+                <Baseline points="169,1245 248,1245 485,1245 564,1246 650,1246 805,1246 884,1246 977,1246 1193,1246 1238,1246 1451,1246"/>
+                <TextEquiv>
+                    <Unicode>vom kuhmelken [in die stube]. Die [joma] beginnt dem knaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="170,1274 1453,1274 1453,1313 170,1313"/>
+                <Baseline points="170,1306 270,1306 341,1305 487,1313 636,1307 724,1306 835,1312 946,1306 1052,1306 1194,1307 1264,1306 1341,1306 1453,1306"/>
+                <TextEquiv>
+                    <Unicode>milch zu geben, schaut um sich, aber kein knabe ist da. Die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="170,1334 1451,1334 1451,1374 170,1374"/>
+                <Baseline points="170,1373 182,1373 399,1367 488,1366 732,1366 803,1366 922,1366 999,1373 1070,1366 1200,1366 1264,1367 1451,1372"/>
+                <TextEquiv>
+                    <Unicode>[joma] schirrt den stampfklotz als pferd an, die worfel als schlitten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="171,1393 1452,1393 1452,1434 171,1434"/>
+                <Baseline points="171,1425 224,1425 478,1425 647,1426 726,1433 801,1425 984,1432 1095,1425 1246,1434 1360,1426 1452,1425"/>
+                <TextEquiv>
+                    <Unicode>die mörserkeule [nimmt sie] als peitsche, setzt [ihnen] nach und </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="171,1454 1451,1454 1451,1494 171,1494"/>
+                <Baseline points="171,1484 243,1485 338,1493 427,1486 603,1485 757,1485 832,1486 919,1485 1077,1486 1177,1487 1282,1494 1451,1486"/>
+                <TextEquiv>
+                    <Unicode>holt [sie] ein. Darauf nimmt sie den knaben [mit sich] zurück.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="173,1513 1451,1513 1451,1547 173,1547"/>
+                <Baseline points="173,1544 270,1544 425,1544 510,1545 696,1546 866,1546 930,1545 1024,1546 1172,1546 1322,1546 1451,1546"/>
+                <TextEquiv>
+                    <Unicode>Dann kommt das mädchen zuhause an und erzählt seinem vater:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="171,1574 1450,1574 1450,1615 171,1615"/>
+                <Baseline points="171,1604 245,1605 346,1605 459,1605 586,1605 672,1606 820,1606 1094,1614 1199,1605 1264,1607 1354,1606 1450,1606"/>
+                <TextEquiv>
+                    <Unicode>»lch war eben dabei den bruder herzubringen, aber da riss [ihn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="171,1634 1453,1634 1453,1675 171,1675"/>
+                <Baseline points="171,1666 252,1673 302,1666 371,1675 620,1666 706,1666 856,1665 938,1666 1057,1666 1194,1674 1335,1666 1453,1656"/>
+                <TextEquiv>
+                    <Unicode>sich] die [joma] zurück.» Da schickt der vater [seine] zweite toch-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="171,1695 685,1695 685,1735 171,1735"/>
+                <Baseline points="171,1726 223,1726 303,1727 394,1726 475,1726 540,1726 685,1727"/>
+                <TextEquiv>
+                    <Unicode>ter aus [um ihn zu holen].</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vom kuhmelken [in die stube]. Die [joma] beginnt dem knaben
+milch zu geben, schaut um sich, aber kein knabe ist da. Die
+[joma] schirrt den stampfklotz als pferd an, die worfel als schlitten,
+die mörserkeule [nimmt sie] als peitsche, setzt [ihnen] nach und 
+holt [sie] ein. Darauf nimmt sie den knaben [mit sich] zurück.
+Dann kommt das mädchen zuhause an und erzählt seinem vater:
+»lch war eben dabei den bruder herzubringen, aber da riss [ihn
+sich] die [joma] zurück.» Da schickt der vater [seine] zweite toch-
+ter aus [um ihn zu holen].</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:4;}">
+            <Coords points="172,1754 1459,1754 1459,2519 172,2519"/>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="277,1755 1453,1755 1453,1795 277,1795"/>
+                <Baseline points="277,1786 333,1786 510,1786 686,1787 760,1786 1155,1787 1267,1795 1346,1786 1453,1776"/>
+                <TextEquiv>
+                    <Unicode>Ihr kommen ebenfalls der roggenkuchenhaufen [und] der brot-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="175,1815 1455,1815 1455,1856 175,1856"/>
+                <Baseline points="175,1846 285,1847 481,1847 613,1848 765,1847 859,1855 936,1847 1144,1847 1234,1847 1361,1854 1455,1836"/>
+                <TextEquiv>
+                    <Unicode>wecke entgegen. Diese heissen [sie] ein stückchen [aus ihnen] her-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="173,1875 1455,1875 1455,1914 173,1914"/>
+                <Baseline points="173,1906 417,1914 523,1907 591,1907 716,1907 850,1908 1002,1907 1088,1907 1262,1907 1348,1907 1455,1900"/>
+                <TextEquiv>
+                    <Unicode>auszubeissen, aber sie beisst nichts heraus. Sie wandert und wan-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="174,1934 1453,1934 1453,1975 174,1975"/>
+                <Baseline points="174,1966 261,1966 338,1966 521,1966 702,1967 886,1967 961,1967 1171,1967 1264,1967 1339,1967 1453,1967"/>
+                <TextEquiv>
+                    <Unicode>dert: ihr entgegen kommen ebenfalls die korngarbe und die riege.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="175,1994 1451,1994 1451,2035 175,2035"/>
+                <Baseline points="175,2026 233,2026 443,2027 568,2026 652,2027 725,2035 784,2027 862,2027 971,2028 1035,2027 1195,2027 1259,2027 1364,2026 1451,2034"/>
+                <TextEquiv>
+                    <Unicode>Die korngarbe heisst [sie sie] in die riege zu werfen: sie wirft [sie]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="173,2054 1454,2054 1454,2096 173,2096"/>
+                <Baseline points="173,2085 266,2086 362,2087 508,2086 639,2087 734,2095 814,2087 922,2087 1016,2086 1192,2087 1295,2087 1386,2094 1454,2085"/>
+                <TextEquiv>
+                    <Unicode>nicht hin. Dann heisst [sie] die riege den kehricht [aus ihr] zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="175,2115 1454,2115 1454,2155 175,2155"/>
+                <Baseline points="175,2146 312,2146 391,2147 515,2147 624,2155 744,2147 898,2148 998,2147 1171,2146 1264,2147 1454,2146"/>
+                <TextEquiv>
+                    <Unicode>kehren: sie kehrt [ihn] nicht heraus. Sie wandert und wandert:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="173,2174 1452,2174 1452,2216 173,2216"/>
+                <Baseline points="173,2205 219,2206 320,2207 376,2206 453,2208 584,2208 706,2209 798,2208 916,2208 1032,2207 1178,2208 1349,2216 1452,2207"/>
+                <TextEquiv>
+                    <Unicode>sie tritt in die kleine hütte und führt ihren bruder [daraus] fort.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="176,2234 1457,2234 1457,2276 176,2276"/>
+                <Baseline points="176,2266 204,2266 276,2275 498,2267 642,2267 728,2268 970,2268 1042,2268 1173,2275 1249,2268 1386,2267 1457,2267"/>
+                <TextEquiv>
+                    <Unicode>Die [joma] schirrt wieder den stampfklotz als pferd, die worfel als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="173,2294 1452,2294 1452,2336 173,2336"/>
+                <Baseline points="173,2326 330,2327 408,2333 580,2335 653,2328 894,2328 959,2328 1123,2328 1207,2328 1364,2327 1452,2334"/>
+                <TextEquiv>
+                    <Unicode>schlitten an, [nimmt] die mörserkeule als peitsche und erreicht [sie]</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="174,2355 1458,2355 1458,2397 174,2397"/>
+                <Baseline points="174,2386 334,2387 478,2388 568,2388 728,2388 830,2389 999,2397 1087,2388 1240,2389 1346,2388 1458,2381"/>
+                <TextEquiv>
+                    <Unicode>ebenfalls wieder und ergreift [den knaben] mit gewalt. Das mäd-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="174,2415 1458,2415 1458,2450 174,2450"/>
+                <Baseline points="174,2446 257,2446 424,2447 604,2448 678,2448 780,2449 952,2448 1050,2449 1142,2448 1248,2448 1370,2448 1458,2448"/>
+                <TextEquiv>
+                    <Unicode>chen kommt zuhause an und erzählt: »lch war eben dabei den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="9.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_36" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="173,2475 1388,2475 1388,2518 173,2518"/>
+                <Baseline points="173,2507 298,2506 570,2512 675,2508 740,2509 824,2510 918,2509 1024,2517 1072,2510 1139,2518 1388,2508"/>
+                <TextEquiv>
+                    <Unicode>bruder herzubringen, aber da riss [ihn sich] die [joma] zurück.»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ihr kommen ebenfalls der roggenkuchenhaufen [und] der brot-
+wecke entgegen. Diese heissen [sie] ein stückchen [aus ihnen] her-
+auszubeissen, aber sie beisst nichts heraus. Sie wandert und wan-
+dert: ihr entgegen kommen ebenfalls die korngarbe und die riege.
+Die korngarbe heisst [sie sie] in die riege zu werfen: sie wirft [sie]
+nicht hin. Dann heisst [sie] die riege den kehricht [aus ihr] zu
+kehren: sie kehrt [ihn] nicht heraus. Sie wandert und wandert:
+sie tritt in die kleine hütte und führt ihren bruder [daraus] fort.
+Die [joma] schirrt wieder den stampfklotz als pferd, die worfel als
+schlitten an, [nimmt] die mörserkeule als peitsche und erreicht [sie]
+ebenfalls wieder und ergreift [den knaben] mit gewalt. Das mäd-
+chen kommt zuhause an und erzählt: »lch war eben dabei den
+bruder herzubringen, aber da riss [ihn sich] die [joma] zurück.»</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:5;}">
+            <Coords points="205,1157 447,1157 447,1160 205,1160"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
